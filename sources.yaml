@@ -1,9 +1,16 @@
 # ============================================================
 # Etkinlik Radarı — kaynak havuzu
 # Yeni kaynak eklemek için kod değişikliği gerekmez.
-# type: confstech | rss | html | ddg
-# enabled: false → kaynak tanımlı ama devre dışı (selector ayarı vb. bekliyor)
+# type: manual | confstech | rss | html | ddg
 # ============================================================
+
+# Tarama kuralları:
+# - Yüz yüze etkinlikler yalnızca aşağıdaki ülkelerdeyse tutulur
+#   (katılım imkânı). Online/webinar etkinlikler her yerden gelir.
+# - istisna_kaynaklar bu kuraldan muaftır (elle eklenenler = bilinçli tercih).
+rules:
+  yuz_yuze_ulkeler: ["Turkey", "Türkiye"]
+  istisna_kaynaklar: ["cekirdek-liste"]
 
 sources:
 
@@ -47,13 +54,21 @@ sources:
   - id: ddg-kesif
     type: ddg
     queries:
+      # --- Türkiye'deki yüz yüze etkinlikler ---
       - {q: "yapay zeka konferansı 2026 İstanbul Ankara",      category: yapay-zeka, max: 8}
       - {q: "siber güvenlik konferansı 2026 Türkiye",          category: siber-guvenlik, max: 8}
-      - {q: "central bank AI conference 2026",                  category: merkez-bankaciligi, max: 8}
-      - {q: "CBDC payments conference 2026 online",             category: merkez-bankaciligi, max: 6}
-      - {q: "quantum cryptography PQC webinar 2026",            category: kuantum, max: 6}
-      - {q: "AI governance regulation webinar 2026",            category: ai-governance, max: 6}
-      - {q: "data center summit 2026 Europe online",            category: veri-merkezi, max: 6}
+      - {q: "teknoloji zirvesi 2026 İstanbul kayıt",           category: genel-bt, max: 6}
+      - {q: "veri merkezi etkinlik 2026 Türkiye",              category: veri-merkezi, max: 5}
+      # --- Webinarlar (dünyanın her yerinden) ---
+      - {q: "central bank AI webinar 2026 register",            category: merkez-bankaciligi, max: 8}
+      - {q: "CBDC payments webinar 2026",                       category: merkez-bankaciligi, max: 6}
+      - {q: "post-quantum cryptography webinar 2026 register",  category: kuantum, max: 8}
+      - {q: "AI governance webinar 2026 register",              category: ai-governance, max: 8}
+      - {q: "cybersecurity financial sector webinar 2026",      category: siber-guvenlik, max: 6}
+      - {q: "data center infrastructure webinar 2026",          category: veri-merkezi, max: 5}
+      - {q: "Gartner webinar AI security banking",              category: genel-bt, max: 5}
+      - {q: "BrightTALK webinar central banking fintech",       category: merkez-bankaciligi, max: 5}
+      - {q: "enterprise IT webinar 2026 free registration",     category: genel-bt, max: 5}
 
   # ---------- Google Alerts (RSS) ----------
   # Kurulum: google.com/alerts → sorgu oluştur → "Teslim: RSS özet akışı"
@@ -100,6 +115,14 @@ sources:
     selectors: {item: ".event-card", title: ".title", link: "a", date: ".date"}
 
   # ---------- Vendor / analist webinarları ----------
+  # Aşağıdakiler webinar yoğun platformlar; CSS seçicileri Claude Code ile
+  # site site ayarlanacak (bazıları JS ağırlıklı, uyarlama gerekebilir).
+  - id: gartner-webinars
+    type: html
+    enabled: false
+    url: https://www.gartner.com/en/webinar
+    category: genel-bt
+    selectors: {item: ".webinar-card", title: "a", link: "a", date: ".date"}
   - id: sans-webcasts
     type: html
     enabled: false

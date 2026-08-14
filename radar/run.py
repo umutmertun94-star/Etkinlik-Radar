@@ -20,6 +20,17 @@ from .fetchers import FETCHERS
 SOURCES_FILE = Path(__file__).resolve().parent.parent / "sources.yaml"
 
 
+def _rule_ok(e: dict, rules: dict) -> bool:
+    """Yüz yüze etkinlik yalnızca izinli ülkelerdeyse geçer; online serbest."""
+    if e.get("source") in rules.get("istisna_kaynaklar", []):
+        return True
+    if e.get("online") is not False:      # online veya bilinmiyor → geçer
+        return True
+    ulkeler = {u.lower() for u in rules.get("yuz_yuze_ulkeler", [])}
+    country = (e.get("country") or "").lower()
+    return country in ulkeler if country else False
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only", help="virgülle ayrılmış kaynak id listesi")
@@ -27,7 +38,11 @@ def main() -> int:
     only = set(args.only.split(",")) if args.only else None
 
     cfg = yaml.safe_load(SOURCES_FILE.read_text(encoding="utf-8"))
+    rules = cfg.get("rules", {})
     existing = store.load()
+    # kural değişikliği geçmişe de işlesin: depodaki aykırı kayıtları temizle
+    for eid in [k for k, e in existing.items() if not _rule_ok(e, rules)]:
+        del existing[eid]
     all_new: list[dict] = []
 
     for src in cfg["sources"]:
@@ -44,6 +59,8 @@ def main() -> int:
         except Exception as ex:
             print(f"[{src['id']}] HATA: {ex}")
             continue
+        fetched = [ev for ev in fetched
+                   if _rule_ok(ev.to_dict(), rules)]
         new = store.merge(existing, fetched)
         all_new += new
         print(f"[{src['id']}] {len(fetched)} kayıt tarandı, {len(new)} yeni")

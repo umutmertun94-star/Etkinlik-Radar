@@ -24,9 +24,15 @@ PROMPT = """Bir merkez bankasının Yenilikçi Teknolojiler birimi için etkinli
 İlgi alanları: yapay zeka, AI governance, siber güvenlik, kuantum/post-kuantum kriptografi,
 veri merkezleri, ödeme sistemleri/CBDC, genel kurumsal BT.
 
-Aşağıdaki arama sonuçlarının her biri için:
-- relevance: 0-10 (10 = kesinlikle ilgili bir KONFERANS/WEBINAR duyurusu;
-  haber makalesi, ürün sayfası, geçmiş etkinlik özeti gibi şeyler düşük puan alır)
+KURALLAR:
+- Online etkinlik/webinar: dünyanın her yerinden olabilir, konu ilgiliyse yüksek puan.
+- Yüz yüze etkinlik: SADECE Türkiye'deyse ilgilidir. Türkiye dışındaki yüz yüze
+  etkinliklere en fazla 3 puan ver (katılım imkânı yok).
+- Kayıt/katılım sayfası olan gerçek etkinlik duyuruları aranıyor; haber makalesi,
+  ürün sayfası, geçmiş etkinlik özeti, etkinlik listesi makaleleri düşük puan alır.
+
+Her sonuç için:
+- relevance: 0-10
 - is_event: sayfa gerçekten yaklaşan bir etkinliğin duyurusu mu (true/false)
 
 SADECE şu JSON formatında yanıt ver, başka hiçbir şey yazma:
