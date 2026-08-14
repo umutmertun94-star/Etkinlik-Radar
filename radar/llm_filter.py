@@ -55,7 +55,7 @@ def score_leads(leads: list[dict]) -> list[dict]:
         return leads
 
     key = os.environ["ANTHROPIC_API_KEY"]
-    model = os.environ.get("ANTHROPIC_MODEL", DEFAULT_MODEL)
+    model = os.environ.get("ANTHROPIC_MODEL") or DEFAULT_MODEL
     kept: list[dict] = []
 
     for i in range(0, len(leads), BATCH):
