@@ -1,0 +1,114 @@
+# ============================================================
+# Etkinlik Radarı — kaynak havuzu
+# Yeni kaynak eklemek için kod değişikliği gerekmez.
+# type: confstech | rss | html | ddg
+# enabled: false → kaynak tanımlı ama devre dışı (selector ayarı vb. bekliyor)
+# ============================================================
+
+sources:
+
+  # ---------- Çekirdek liste: kaçırılmaması gereken çapa etkinlikler ----------
+  # Keşif katmanına bırakılamayacak kadar önemli büyük etkinlikler burada
+  # elle tutulur. Yeni duyurulan bir GITEX/MWC/Web Summit tarihini buraya
+  # ekleyin — bir sonraki taramada bülten ve dashboard'a girer.
+  - id: cekirdek-liste
+    type: manual
+    events:
+      - title: "GITEX Global 2026 (+ GITEX Scale Summit, Ai Everything)"
+        url: https://www.gitex.com/
+        category: yapay-zeka
+        start_date: "2026-12-07"
+        end_date: "2026-12-11"
+        city: Dubai (Expo City)
+        country: United Arab Emirates
+        online: false
+      # örnek şablon:
+      # - title: ""
+      #   url: ""
+      #   category: siber-guvenlik   # yapay-zeka|kuantum|veri-merkezi|ai-governance|merkez-bankaciligi|genel-bt
+      #   start_date: "2026-MM-DD"
+      #   end_date: "2026-MM-DD"     # tek günlükse silinebilir
+      #   city: ""
+      #   country: ""
+      #   online: false              # webinar ise true
+
+  # ---------- Açık veritabanları (kutudan çıktığı gibi çalışır) ----------
+  - id: confstech
+    type: confstech
+    category: genel-bt
+    topics: [security, data, devops, networking, iot, general]
+    category_map:
+      security: siber-guvenlik
+      data: yapay-zeka
+      networking: veri-merkezi
+
+  # ---------- Keşif katmanı: DuckDuckGo (anahtarsız) ----------
+  # Sabit havuzun dışını yakalayan haftalık sorgular.
+  - id: ddg-kesif
+    type: ddg
+    queries:
+      - {q: "yapay zeka konferansı 2026 İstanbul Ankara",      category: yapay-zeka, max: 8}
+      - {q: "siber güvenlik konferansı 2026 Türkiye",          category: siber-guvenlik, max: 8}
+      - {q: "central bank AI conference 2026",                  category: merkez-bankaciligi, max: 8}
+      - {q: "CBDC payments conference 2026 online",             category: merkez-bankaciligi, max: 6}
+      - {q: "quantum cryptography PQC webinar 2026",            category: kuantum, max: 6}
+      - {q: "AI governance regulation webinar 2026",            category: ai-governance, max: 6}
+      - {q: "data center summit 2026 Europe online",            category: veri-merkezi, max: 6}
+
+  # ---------- Google Alerts (RSS) ----------
+  # Kurulum: google.com/alerts → sorgu oluştur → "Teslim: RSS özet akışı"
+  # → çıkan feed linkini url alanına yapıştır → enabled: true yap.
+  - id: alerts-yz-konferans
+    type: rss
+    enabled: false
+    url: "BURAYA_ALERTS_RSS_LINKI"
+    category: yapay-zeka
+  - id: alerts-kuantum
+    type: rss
+    enabled: false
+    url: "BURAYA_ALERTS_RSS_LINKI"
+    category: kuantum
+
+  # ---------- Merkez bankacılığına özgü kaynaklar ----------
+  # HTML kaynaklarında selectors alanı siteye göre ayarlanmalı
+  # (ilk çalıştırmada sayfa yapısına bakıp doldurun / bana sorun).
+  - id: bis-events
+    type: html
+    enabled: false
+    url: https://www.bis.org/events/index.htm
+    category: merkez-bankaciligi
+    selectors: {item: ".item", title: "a", link: "a", date: ".date"}
+  - id: suerf-events
+    type: html
+    enabled: false
+    url: https://www.suerf.org/events/
+    category: merkez-bankaciligi
+    selectors: {item: ".event", title: "a", link: "a", date: ".date"}
+  - id: omfif-events
+    type: html
+    enabled: false
+    url: https://www.omfif.org/events/
+    category: merkez-bankaciligi
+    selectors: {item: ".event-card", title: "h3", link: "a", date: ".date"}
+
+  # ---------- Türkiye ----------
+  - id: kommunity
+    type: html
+    enabled: false
+    url: https://kommunity.com/events
+    category: genel-bt
+    selectors: {item: ".event-card", title: ".title", link: "a", date: ".date"}
+
+  # ---------- Vendor / analist webinarları ----------
+  - id: sans-webcasts
+    type: html
+    enabled: false
+    url: https://www.sans.org/webcasts/
+    category: siber-guvenlik
+    selectors: {item: ".webcast-item", title: "a", link: "a", date: ".date"}
+  - id: enisa-events
+    type: html
+    enabled: false
+    url: https://www.enisa.europa.eu/events
+    category: siber-guvenlik
+    selectors: {item: ".event", title: "a", link: "a", date: ".date"}
