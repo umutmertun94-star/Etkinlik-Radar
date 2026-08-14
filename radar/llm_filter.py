@@ -78,7 +78,8 @@ def score_leads(leads: list[dict]) -> list[dict]:
             text = text.replace("```json", "").replace("```", "").strip()
             scores = {x["i"]: x for x in json.loads(text)["results"]}
         except Exception as ex:
-            print(f"[llm-filtre] hata, bu parti filtrelenmeden geçiyor: {ex}")
+            detail = getattr(getattr(ex, "response", None), "text", "") or ""
+            print(f"[llm-filtre] hata, bu parti filtrelenmeden geçiyor: {ex} | detay: {detail[:300]}")
             kept += batch
             continue
 
