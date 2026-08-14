@@ -1,20 +1,5 @@
 [
  {
-  "title": "UberConf",
-  "url": "https://uberconf.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-07-14",
-  "end_date": "2026-07-17",
-  "city": "Denver, CO",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "1b1e870843330bd8"
- },
- {
   "title": "Personal AI Agents — LIVE",
   "url": "https://www.summit.ai",
   "category": "yapay-zeka",
@@ -28,36 +13,6 @@
   "needs_review": false,
   "extra": {},
   "id": "158c8e7b6e430ab1"
- },
- {
-  "title": "4th Tech Summit on Artificial Intelligence & Robotics",
-  "url": "https://artificialintelligence.averconferences.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-08-02",
-  "end_date": "2026-08-02",
-  "city": "Paris",
-  "country": "France",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "1b391c12f3aebc36"
- },
- {
-  "title": "DevOpsDays Graz",
-  "url": "https://www.devopsdays.at",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-04",
-  "end_date": "2026-09-05",
-  "city": "Graz",
-  "country": "Austria",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "88ae2586ae14047d"
  },
  {
   "title": "Code Europe",
@@ -75,126 +30,6 @@
   "id": "914cf1fe9bb13ed7"
  },
  {
-  "title": "Disney Data & Analytics Conference (DDAC)",
-  "url": "https://disneydataconference.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-09-14",
-  "end_date": "2026-09-16",
-  "city": "Orlando, FL",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "24afd0647af10f6c"
- },
- {
-  "title": "LDX3 New York",
-  "url": "https://leaddev.com/leaddev-new-york",
-  "category": "veri-merkezi",
-  "source": "confstech",
-  "start_date": "2026-09-15",
-  "end_date": "2026-09-16",
-  "city": "New York, NY",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "4d0d86d8492734bb"
- },
- {
-  "title": "TechTok",
-  "url": "https://www.techtok.mt",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-16",
-  "end_date": "2026-09-16",
-  "city": "St Julian's",
-  "country": "Malta",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "bd98f10806acf525"
- },
- {
-  "title": "AWS Community Day CEE",
-  "url": "https://awscommunity.eu",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-17",
-  "end_date": "2026-09-17",
-  "city": "Budapest",
-  "country": "Hungary",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "22903d5a265b36d4"
- },
- {
-  "title": "World Conference on  Smart Systems : Big Data, IoT, Cybersecurity, and IT in Action",
-  "url": "https://www.smartsystems.thesciencequest.org",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-09-17",
-  "end_date": "2026-09-19",
-  "city": "Tokyo",
-  "country": "Japan",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "00a6322158d18511"
- },
- {
-  "title": "dotAI",
-  "url": "https://www.dotai.io",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-09-17",
-  "end_date": "2026-09-17",
-  "city": "Paris",
-  "country": "France",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "937719c3efb747e6"
- },
- {
-  "title": "entwickler Summit",
-  "url": "https://entwickler.de/entwickler-summit",
-  "category": "veri-merkezi",
-  "source": "confstech",
-  "start_date": "2026-09-17",
-  "end_date": "2026-09-17",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "0977f2e5f3bd9033"
- },
- {
-  "title": "Future Builders",
-  "url": "https://www.futurebuilders.io",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-09-18",
-  "end_date": "2026-09-18",
-  "city": "Vienna",
-  "country": "Austria",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "fc1a6de5688ba209"
- },
- {
   "title": "STARWEST",
   "url": "https://starwest.techwell.com",
   "category": "genel-bt",
@@ -208,111 +43,6 @@
   "needs_review": false,
   "extra": {},
   "id": "b3feec530ca1e4f5"
- },
- {
-  "title": "Future Coding Day",
-  "url": "https://www.futurecodingday.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-22",
-  "end_date": "2026-09-22",
-  "city": "Copenhagen",
-  "country": "Denmark",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "2497fa8559476319"
- },
- {
-  "title": "heise devSec",
-  "url": "https://heise-devsec.de/cfp.php",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-09-22",
-  "end_date": "2026-09-23",
-  "city": "Marburg",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "9ad099efabc85bb7"
- },
- {
-  "title": "NSW AI Bonanza",
-  "url": "https://nswaibonanza.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-23",
-  "end_date": "2026-09-25",
-  "city": "Sydney",
-  "country": "Australia",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "41bb57e9e50029bb"
- },
- {
-  "title": "WeAreDevelopers World Congress North America",
-  "url": "https://www.wearedevelopers.com/world-congress-us",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-23",
-  "end_date": "2026-09-25",
-  "city": "San Jose, CA",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "bbad56e8c6e02f3e"
- },
- {
-  "title": "Agile Tour Vienna",
-  "url": "https://agiletourvienna.at",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-24",
-  "end_date": "2026-09-24",
-  "city": "Vienna",
-  "country": "Austria",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "b4019a5e6c5c0686"
- },
- {
-  "title": "AI Pivot Conference",
-  "url": "https://theaipivot.ai/events/anaheim-2026/home.aspx",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-09-25",
-  "end_date": "2026-09-25",
-  "city": "Anaheim, CA",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "a62934b09b0e77a8"
- },
- {
-  "title": "Confitura",
-  "url": "https://2026.confitura.pl",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-25",
-  "end_date": "2026-09-26",
-  "city": "Warsaw",
-  "country": "Poland",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "a139378cecf3de27"
  },
  {
   "title": "API Conference NYC",
@@ -345,51 +75,6 @@
   "id": "84bad9f61087f574"
  },
  {
-  "title": "European Microsoft Fabric Community Conference",
-  "url": "https://www.sharepointeurope.com/european-microsoft-fabric-community-conference",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-09-28",
-  "end_date": "2026-10-01",
-  "city": "Barcelona",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "287c72db3c2785d1"
- },
- {
-  "title": "GAI World",
-  "url": "https://www.gaiworld.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-09-28",
-  "end_date": "2026-09-30",
-  "city": "Boulder, CO",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "9627161cca8a9649"
- },
- {
-  "title": "GOTO Copenhagen",
-  "url": "https://gotocph.com/2026",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-28",
-  "end_date": "2026-10-02",
-  "city": "Copenhagen",
-  "country": "Denmark",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "6d7300acd03717cf"
- },
- {
   "title": "MLCon NYC",
   "url": "https://mlconference.ai/new-york",
   "category": "yapay-zeka",
@@ -403,51 +88,6 @@
   "needs_review": false,
   "extra": {},
   "id": "a319728f4997e03d"
- },
- {
-  "title": "CTO Craft Con: Europe",
-  "url": "https://conference.ctocraft.com/europe-2026",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-29",
-  "end_date": "2026-09-30",
-  "city": "Amsterdam",
-  "country": "Netherlands",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "74ea82f78a47bd58"
- },
- {
-  "title": "Devopsdays Berlin",
-  "url": "https://devopsdays.org/events/2026-berlin/welcome",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-09-29",
-  "end_date": "2026-09-30",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "78d947d44f84f2d7"
- },
- {
-  "title": "TechSummit Amsterdam",
-  "url": "https://techsummit.io",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-09-30",
-  "end_date": "2026-09-30",
-  "city": "Amsterdam",
-  "country": "Netherlands",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "c0949d7ab4cd4958"
  },
  {
   "title": "VibeKode Utrecht",
@@ -465,21 +105,6 @@
   "id": "7a692e11b9cc9250"
  },
  {
-  "title": "FrontKon",
-  "url": "https://www.frontkon.tech",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-06",
-  "end_date": "2026-10-06",
-  "city": "Prague",
-  "country": "Czech Republic",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "733b91150c152d0f"
- },
- {
   "title": "betterCode() Agentic AI",
   "url": "https://agenticai.bettercode.eu",
   "category": "yapay-zeka",
@@ -493,111 +118,6 @@
   "needs_review": false,
   "extra": {},
   "id": "1ef77e6bf9b9e37c"
- },
- {
-  "title": "World Summit AI",
-  "url": "https://worldsummit.ai",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-07",
-  "end_date": "2026-10-08",
-  "city": "Amsterdam",
-  "country": "Netherlands",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "58376984e1305f3a"
- },
- {
-  "title": "data2day",
-  "url": "https://www.data2day.de",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-07",
-  "end_date": "2026-10-08",
-  "city": "Cologne",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "c982ff2dd669d5e8"
- },
- {
-  "title": "unKonf",
-  "url": "https://www.unKonf.de",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-10",
-  "end_date": "2026-10-10",
-  "city": "Mannheim",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "34d84ed3036dfd91"
- },
- {
-  "title": "Software Architecture Summit",
-  "url": "https://software-architecture-summit.de/berlin",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-12",
-  "end_date": "2026-10-16",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "cb336201bb69295d"
- },
- {
-  "title": "Fast Flow Conf",
-  "url": "https://www.fastflowconf.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-13",
-  "end_date": "2026-10-13",
-  "city": "London",
-  "country": "U.K.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "db5287609afae85f"
- },
- {
-  "title": "2nd International Conference on Artificial Intelligence and Big Data Analytics",
-  "url": "https://vartusconferences.com/aibda",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-15",
-  "end_date": "2026-10-16",
-  "city": "Singapore",
-  "country": "Singapore",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "78366a83ad3b5a0a"
- },
- {
-  "title": "Conversations Roadshow: Stockholm by CTO Craft",
-  "url": "https://conversations.ctocraft.com/stockholm",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-15",
-  "end_date": "2026-10-15",
-  "city": "Stockholm",
-  "country": "Sweden",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "02b1dabe817d85ae"
  },
  {
   "title": "Minds Mastering Machines - M3: LLMs im Unternehmen",
@@ -615,21 +135,6 @@
   "id": "720664f5fbb3fe50"
  },
  {
-  "title": "X-Ops Conference Dubai",
-  "url": "https://xopsconference.com",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-10-15",
-  "end_date": "2026-10-17",
-  "city": "Dubai",
-  "country": "United Arab Emirates",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "679f47fda3c0056e"
- },
- {
   "title": "Joomla! World Conference",
   "url": "https://conference.joomla.org",
   "category": "veri-merkezi",
@@ -645,259 +150,19 @@
   "id": "94c97e30812c02b9"
  },
  {
-  "title": "MIT AI Conference",
-  "url": "https://www.mitaiconference.org",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-17",
-  "end_date": "2026-10-17",
-  "city": "Mountain View, CA",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "1db6ff267312c3b1"
- },
- {
-  "title": "Global Summit on Data Science and Cloud Computing",
-  "url": "https://datascience.novelticsconferences.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-19",
-  "end_date": "2026-10-20",
-  "city": "Rome",
-  "country": "Italy",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "4af33148fd49c10c"
- },
- {
-  "title": "TechEx Europe",
-  "url": "https://techexevent.com/europe",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-10-19",
-  "end_date": "2026-10-20",
-  "city": "Amsterdam",
-  "country": "Netherlands",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "666635cc81678e17"
- },
- {
-  "title": "AMTSO Cyber Research Conference",
-  "url": "https://www.amtso.org/special-events/amtso-cyber-research-conference-2026",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-10-20",
-  "end_date": "2026-10-21",
-  "city": "Brussels",
-  "country": "Belgium",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "b208838cc9e8a4f0"
- },
- {
-  "title": "Conversations Roadshow: London by CTO Craft",
-  "url": "https://conversations.ctocraft.com/london",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-20",
-  "end_date": "2026-10-20",
-  "city": "London",
-  "country": "U.K.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "fba99d4d658ea333"
- },
- {
-  "title": "JDD",
-  "url": "https://jdd.org.pl",
-  "category": "veri-merkezi",
-  "source": "confstech",
-  "start_date": "2026-10-20",
-  "end_date": "2026-10-21",
-  "city": "Kraków",
-  "country": "Poland",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "398ad1763cdfa843"
- },
- {
-  "title": "swampUP Europe",
-  "url": "https://swampup.jfrog.com/europe",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-10-20",
-  "end_date": "2026-10-22",
-  "city": "Barcelona",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "e99573e7269eeac0"
- },
- {
-  "title": "EKON | Oktober Düsseldorf",
-  "url": "https://entwickler-konferenz.de/de",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-23",
-  "end_date": "2026-10-27",
-  "city": "Düsseldorf",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "1666a649c25a430d"
- },
- {
-  "title": "KubeCon + CloudNativeCon North America",
-  "url": "https://events.linuxfoundation.org/kubecon-cloudnativecon-north-america-2026",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-26",
-  "end_date": "2026-10-29",
-  "city": "Los Angeles, CA",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "e27d551762b65f83"
- },
- {
   "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
   "url": "https://aiccsa.net/AICCSA2026",
   "category": "genel-bt",
   "source": "confstech",
   "start_date": "2026-10-26",
   "end_date": "2026-10-29",
-  "city": "Dubai",
+  "city": "Abu Dhabi",
   "country": "United Arab Emirates",
-  "online": false,
-  "first_seen": "2026-08-12",
+  "online": true,
+  "first_seen": "2026-08-14",
   "needs_review": false,
   "extra": {},
   "id": "9fbb5fd1e1cac9c5"
- },
- {
-  "title": "webinale Munich",
-  "url": "https://webinale.com/munich",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-26",
-  "end_date": "2026-10-30",
-  "city": "Munich",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "a82c0b945905bd21"
- },
- {
-  "title": "Futureproof Festival",
-  "url": "https://www.futureproof.website",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-28",
-  "end_date": "2026-10-30",
-  "city": "Vancouver",
-  "country": "Canada",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "1e24f3708a273de2"
- },
- {
-  "title": "Mozilla Festival",
-  "url": "https://www.mozillafestival.org",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-28",
-  "end_date": "2026-10-30",
-  "city": "Barcelona",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "93efc2250710e73f"
- },
- {
-  "title": "J On The Beach",
-  "url": "https://www.jonthebeach.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-10-29",
-  "end_date": "2026-10-30",
-  "city": "Malaga",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "0e152b8e295aef46"
- },
- {
-  "title": "Lambda World",
-  "url": "https://www.lambda.world",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-29",
-  "end_date": "2026-10-30",
-  "city": "Malaga",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "34e4f9f3c842cb3b"
- },
- {
-  "title": "CTO Craft Con: Fintech",
-  "url": "https://conference.ctocraft.com/fintech",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-02",
-  "end_date": "2026-11-03",
-  "city": "London",
-  "country": "U.K.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "0afd63213edac919"
- },
- {
-  "title": "Nullcon Berlin",
-  "url": "https://nullcon.net/event/nullcon-berlin-2026",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-11-02",
-  "end_date": "2026-11-06",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "408879436dd1d7ae"
  },
  {
   "title": "Open Source Analytics Conference",
@@ -915,81 +180,6 @@
   "id": "4c703e49a8bebb68"
  },
  {
-  "title": "S2N: Storage Server Network",
-  "url": "https://s2n.heise.de",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-11-03",
-  "end_date": "2026-11-04",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "425230a4fd1c7d0a"
- },
- {
-  "title": "The AI Conf",
-  "url": "https://theconf.ai",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-11-03",
-  "end_date": "2026-11-04",
-  "city": "Barcelona",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "bf3e1aac9dee9249"
- },
- {
-  "title": "Heapcon",
-  "url": "https://heapcon.io/2026",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-05",
-  "end_date": "2026-11-06",
-  "city": "Belgrade",
-  "country": "Serbia",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "db608372afa4af85"
- },
- {
-  "title": "Moldova DevCon",
-  "url": "https://mdc.md",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-06",
-  "end_date": "2026-11-07",
-  "city": "Chișinău",
-  "country": "Moldova",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "e68285a239485b30"
- },
- {
-  "title": "LeadDev Berlin",
-  "url": "https://leaddev.com/leaddev-berlin",
-  "category": "veri-merkezi",
-  "source": "confstech",
-  "start_date": "2026-11-09",
-  "end_date": "2026-11-10",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "e3e361dcadcdf355"
- },
- {
   "title": "Unhacked 360 Germany: FutureSec Summit",
   "url": "https://momentera.org/conference/unhacked-360-germany-futuresec-world-summit",
   "category": "siber-guvenlik",
@@ -1003,81 +193,6 @@
   "needs_review": false,
   "extra": {},
   "id": "0599aefc0316efb0"
- },
- {
-  "title": "Porto Tech Hub Conference",
-  "url": "https://portotechhub.com/conference-2026",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-10",
-  "end_date": "2026-11-10",
-  "city": "Porto",
-  "country": "Portugal",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "110150f18fca7023"
- },
- {
-  "title": "CLC",
-  "url": "https://clc-conference.eu/index_en.php",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-11",
-  "end_date": "2026-11-12",
-  "city": "Mannheim",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "e0a8620b8df54576"
- },
- {
-  "title": "CMS Conf",
-  "url": "https://cmsconf.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-12",
-  "end_date": "2026-11-14",
-  "city": "Gdynia",
-  "country": "Poland",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "fb35f777eb20e553"
- },
- {
-  "title": "SpiceWorld",
-  "url": "https://www.spiceworks.com/spiceworld",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-12",
-  "end_date": "2026-11-13",
-  "city": "Austin, TX",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "8729d8efd3d77e49"
- },
- {
-  "title": "AI Engineering Summit",
-  "url": "https://ai-engineering-summit.de",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-11-16",
-  "end_date": "2026-11-20",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "a42edb6d57fb3d79"
  },
  {
   "title": "API Conference Berlin",
@@ -1125,21 +240,6 @@
   "id": "a2bff07fe6ed59f8"
  },
  {
-  "title": "Software Architecture Gathering",
-  "url": "https://www.software-architecture-gathering.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-16",
-  "end_date": "2026-11-19",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "dfc0d13d18b094c5"
- },
- {
   "title": "VibeKode Berlin",
   "url": "https://vibekode.it/berlin",
   "category": "yapay-zeka",
@@ -1153,66 +253,6 @@
   "needs_review": false,
   "extra": {},
   "id": "1c37d8de83a1ed47"
- },
- {
-  "title": "X-Ops Conference Madrid",
-  "url": "https://xopsconference.com",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-11-19",
-  "end_date": "2026-11-21",
-  "city": "Madrid",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "86611e7c6cc17241"
- },
- {
-  "title": "Agentic Engineering Days Zurich",
-  "url": "https://www.agenticdays.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-11-20",
-  "end_date": "2026-11-20",
-  "city": "Zurich",
-  "country": "Switzerland",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "c9b4d3056ae01529"
- },
- {
-  "title": "droidCon India",
-  "url": "https://india.droidcon.com",
-  "category": "veri-merkezi",
-  "source": "confstech",
-  "start_date": "2026-11-20",
-  "end_date": "2026-11-20",
-  "city": "Bengaluru",
-  "country": "India",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "a84adea72c5c2d1a"
- },
- {
-  "title": "flutterCon India",
-  "url": "https://india.fluttercon.dev",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-21",
-  "end_date": "2026-11-21",
-  "city": "Bangalore",
-  "country": "India",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "118f299d1b586d54"
  },
  {
   "title": "API Conference Berlin",
@@ -1275,51 +315,6 @@
   "id": "bfcc5818cdb341a5"
  },
  {
-  "title": "WeAreDevelopers Conference India",
-  "url": "https://www.wearedevelopers.com/conference-india",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-11-25",
-  "end_date": "2026-11-26",
-  "city": "Bengaluru",
-  "country": "India",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "10cf01eab946c67a"
- },
- {
-  "title": "Workplace Ninjas India",
-  "url": "https://www.wpninjas-india.com",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-11-27",
-  "end_date": "2026-11-28",
-  "city": "Delhi",
-  "country": "India",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "49d419eab97c7e4f"
- },
- {
-  "title": "FOSS for All Conference",
-  "url": "https://2026.fossforall.org",
-  "category": "veri-merkezi",
-  "source": "confstech",
-  "start_date": "2026-11-28",
-  "end_date": "2026-11-28",
-  "city": "Seoul",
-  "country": "South Korea",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "95b74facc72c5a80"
- },
- {
   "title": "DevOpsCon Munich",
   "url": "https://devopscon.io/muenchen",
   "category": "genel-bt",
@@ -1333,21 +328,6 @@
   "needs_review": false,
   "extra": {},
   "id": "8beea3660df4e5cb"
- },
- {
-  "title": "ESPC",
-  "url": "https://www.sharepointeurope.com",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-11-30",
-  "end_date": "2026-12-03",
-  "city": "Amsterdam",
-  "country": "Netherlands",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "478f174de15b78d1"
  },
  {
   "title": "IT Security Summit Munich",
@@ -1365,21 +345,6 @@
   "id": "2943c131a33c4b33"
  },
  {
-  "title": "ArchConf",
-  "url": "https://archconf.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-12-07",
-  "end_date": "2026-12-10",
-  "city": "Clearwater, FL",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "a2f4bec2bb9e39ed"
- },
- {
   "title": "GITEX Global 2026 (+ GITEX Scale Summit, Ai Everything)",
   "url": "https://www.gitex.com/",
   "category": "yapay-zeka",
@@ -1393,66 +358,6 @@
   "needs_review": false,
   "extra": {},
   "id": "a716134b8dced821"
- },
- {
-  "title": "IT-Tage",
-  "url": "https://www.it-tage.org",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-12-07",
-  "end_date": "2026-12-10",
-  "city": "Frankfurt am Main",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "c14387fd89cb6204"
- },
- {
-  "title": "Conversations Roadshow: New York by CTO Craft",
-  "url": "https://conversations.ctocraft.com/new-york",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-12-08",
-  "end_date": "2026-12-09",
-  "city": "New York, NY",
-  "country": "U.S.A.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "f5abcc2cc7c42cd4"
- },
- {
-  "title": "Great International AI Native Summit (GAINS)",
-  "url": "https://ainativesummit.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-12-09",
-  "end_date": "2026-12-10",
-  "city": "Bangalore",
-  "country": "India",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "c69972db199885c1"
- },
- {
-  "title": "droidcon London",
-  "url": "https://london.droidcon.com",
-  "category": "veri-merkezi",
-  "source": "confstech",
-  "start_date": "2026-12-09",
-  "end_date": "2026-12-10",
-  "city": "London",
-  "country": "U.K.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "3e2540e2595aad95"
  },
  {
   "title": "AI for Developers",
@@ -1470,36 +375,6 @@
   "id": "d21c806e48e2e195"
  },
  {
-  "title": "3rd International Conference on Artificial Intelligence and Data Science",
-  "url": "https://datascience.averconferences.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2027-02-01",
-  "end_date": "2027-02-03",
-  "city": "Dubai",
-  "country": "United Arab Emirates",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "bfaa56ff098e1fa2"
- },
- {
-  "title": "Annual Global Summit on Artificial Intelligence and Machine Learning",
-  "url": "https://vividglobalsummits.com/2027/artificial-intelligence",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2027-03-08",
-  "end_date": "2027-03-10",
-  "city": "Barcelona",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "3b48f64765d15676"
- },
- {
   "title": "INTED",
   "url": "https://iated.org/inted",
   "category": "genel-bt",
@@ -1513,156 +388,6 @@
   "needs_review": false,
   "extra": {},
   "id": "d48909b23363ad0a"
- },
- {
-  "title": "CTO Craft Con: London",
-  "url": "https://conference.ctocraft.com/london",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2027-03-15",
-  "end_date": "2027-03-17",
-  "city": "London",
-  "country": "U.K.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "150f81e321e0f0f7"
- },
- {
-  "title": "GITEX AI LATAM",
-  "url": "https://www.gitexlatam.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2027-03-16",
-  "end_date": "2027-03-17",
-  "city": "São Paulo",
-  "country": "Brazil",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "3ff0375bc40b22b1"
- },
- {
-  "title": "International Conference on Artificial Intelligence and Machine Learning",
-  "url": "https://aiml.scientificmeditech.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2027-03-20",
-  "end_date": "2027-03-21",
-  "city": "Barcelona",
-  "country": "Spain",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "24a9ef27f0aa88b0"
- },
- {
-  "title": "FOSS-LÄND x OpenChain",
-  "url": "https://openchainproject.org/foss-land-x-openchain-2027",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2027-03-22",
-  "end_date": "2027-03-24",
-  "city": "Stuttgart",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "f78a10be641c9e18"
- },
- {
-  "title": "GENAIX: Global Generative & Agentic AI Summit",
-  "url": "https://genaixworld.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2027-04-15",
-  "end_date": "2027-04-16",
-  "city": "Singapore",
-  "country": "Singapore",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "5df32eff1712cdd3"
- },
- {
-  "title": "AiX Conference",
-  "url": "https://aixconf.co.uk",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2027-04-21",
-  "end_date": "2027-04-21",
-  "city": "Newcastle-Upon-Tyne",
-  "country": "U.K.",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "a70a3999e3550e8e"
- },
- {
-  "title": "Great International Developer Summit (GIDS)",
-  "url": "https://developersummit.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2027-04-27",
-  "end_date": "2027-04-30",
-  "city": "Bangalore",
-  "country": "India",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "73f7aa2ca9fe74ab"
- },
- {
-  "title": "GITEX AI SERBIA",
-  "url": "https://www.gitexserbia.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2027-05-26",
-  "end_date": "2027-05-27",
-  "city": "Belgrade",
-  "country": "Serbia",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "dafa4dd1e3a1deff"
- },
- {
-  "title": "International Conference on Robotics, Artificial Intelligence and Autonomous Systems",
-  "url": "https://icraias2027.com",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2027-06-09",
-  "end_date": "2027-06-11",
-  "city": "Singapore",
-  "country": "Singapore",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "15bb13155f304b9f"
- },
- {
-  "title": "Accelerate Tomorrow AI Summit",
-  "url": "https://www.acceleratetomorrow.com",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2027-06-15",
-  "end_date": "2027-06-16",
-  "city": "Berlin",
-  "country": "Germany",
-  "online": false,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "5a375352cbc588a5"
  },
  {
   "title": "\"GITEX Ai Türkiye 2026\" Etkinliği Eylülde İstanbul'da Düzenlenece...",
@@ -1683,6 +408,42 @@
   "id": "e213bedcaf1149c5"
  },
  {
+  "title": "'Trusted AI' for central banks - Central Banking Training",
+  "url": "https://www.centralbanking.com/training/trusted-ai-for-central-banks",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "September 23–24, 2026 · Location · Online Learn more · You need to sign in to use this feature. If you don’t have a Central Banking account, please register for a trial. Sign in · To use this feature "
+  },
+  "id": "b512d190a5e55f93"
+ },
+ {
+  "title": "1. uluslararası teknoloji ve yazılım zirvesi",
+  "url": "https://istebitoda.org.tr/etkinlik/1-uluslararası-teknoloji-ve-yazılım-zirvesi",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
+   "snippet": "1-Sanayi ile Start-up buluşmaları, ... 8-Robot ve Metaverse gösterileri olacaktır. www.itsistanbul.com üzerinden ücretsiz kayıt ve Sponsor olmak isteyen kayıt olabilir...."
+  },
+  "id": "bfeee3679df61e67"
+ },
+ {
   "title": "2026 AI Laws Update: Key Regulations and Practical Guidance",
   "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
   "category": "ai-governance",
@@ -1699,6 +460,24 @@
    "snippet": "Feb 5, 2026 · This section summarizes a growing set of state AI regulations that reflect a shift toward comprehensive AI governance frameworks, particularly for AI systems used in high-impact contexts"
   },
   "id": "ae8e94515a495ab1"
+ },
+ {
+  "title": "2026 AI Series - California Community Banking Network",
+  "url": "https://www.ccbnetwork.org/2026aiseries",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "Part 4: Practical Implementation & Readiness Tuesday, December 1, 2026 10:00 AM - 11:30 AM (PST) Register Now · Many community banks are curious about AI—but unsure how to move from interest to action"
+  },
+  "id": "c4274a8ab238cb5e"
  },
  {
   "title": "2026 Annual International Journal of Central Banking ...",
@@ -1719,6 +498,24 @@
   "id": "e3465d8c24465af7"
  },
  {
+  "title": "2026 Financial Crimes and Cybersecurity Conference | FINRA.org",
+  "url": "https://www.finra.org/events-training/conferences-events/2026-financial-crimes-cybersecurity-conference",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "Please email conreg@finra.org to be added to the waitlist or register below to attend virtually.The 2026 FINRA Financial Crimes and Cybersecurity Conference brings together compliance, risk management"
+  },
+  "id": "f13fbe2494a92b53"
+ },
+ {
   "title": "2026 PQC Forum | Post-Quantum Cryptography Coalition",
   "url": "https://pqcc.org/2026-pqc-forum/",
   "category": "kuantum",
@@ -1735,6 +532,24 @@
    "snippet": "Aug 5, 2026 · About the 2026 Post-Quantum Cryptography Forum Under Chatham House Rule, the in-person-only forum will convene leaders from industry, government, and academia to address the pressing cha"
   },
   "id": "1ea42a1212676338"
+ },
+ {
+  "title": "2026 Payment Security Trends | Futurex Webinars India",
+  "url": "https://info.futurex.com/2026-payment-security-trends-india",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments webinar 2026",
+   "snippet": "2 weeks ago - This webinar breaks down where to focus, what to update first, and how you can navigate with confidence. Payment HSMs, general-purpose cryptography, and key management now run on shared "
+  },
+  "id": "7fadcf5a64134804"
  },
  {
   "title": "2026 Post-Quantum Cryptography Summit - In Person 9/16/26 - GSA",
@@ -1771,6 +586,24 @@
    "snippet": "Explore how privacy, data, and AI governance intersect as 2026 approaches. Industry experts share lessons from 2025, regulatory shifts, and strategies leading organizations use to prepare for the futu"
   },
   "id": "08d78f461377c872"
+ },
+ {
+  "title": "9th Annual Cyber Security in Financial Services Summit 2026 - Arena International",
+  "url": "https://www.arena-international.com/event/cyber-security/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "3 weeks ago - The financial services market has driven major security improvements through frameworks such as CBEST and TIBER, with its behaviour helping raise standards across other sectors. But does"
+  },
+  "id": "1d24432abd7f635a"
  },
  {
   "title": "AI Compliance & IT Governance for 2026: - I.T. For Less",
@@ -1845,6 +678,78 @@
   "id": "62f9b194566a9ddf"
  },
  {
+  "title": "AI in Central Banking for Beginners — Edu AI Events",
+  "url": "https://www.eduailast.com/events/ai-in-central-banking-for-beginners.php",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "April 10, 2026 - Join Edu AI for a friendly introduction ... learning, deep learning, 3D design, coding, and more. Browse Courses · Log in or register to join this event...."
+  },
+  "id": "72a1f3e394ba86d4"
+ },
+ {
+  "title": "Agentic AI and the Shift to Autonomous Finance 2026 - An FT Live Event",
+  "url": "https://autonomousfinance.live.ft.com/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "If you have already registered, please join using the link below. To register for the event please follow the 'Register for free' button and summit your details."
+  },
+  "id": "b4d5b8876afbf184"
+ },
+ {
+  "title": "Ana Sayfa | Bilişim Zirvesi",
+  "url": "https://www.bilisimzirvesi.com.tr/",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
+   "snippet": "Bilişim Zirvesi Ailesinin bir parçası olacaksınız. Etkinliklere Online Kayıt yaptırabileceksiniz."
+  },
+  "id": "eb60635cf0d59cf2"
+ },
+ {
+  "title": "Anasayfa - Türkiye Yapay Zeka Zirvesi 2026",
+  "url": "https://zirve.turkiye.ai/",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
+   "snippet": "Avantajlı kayıt fırsatını kaçırma, geleceğe bugünden adım at! ... Yerinizi garantileyin, teknoloji liderleriyle bir arada olun! ... Yerinizi garantileyin, teknoloji liderleriyle bir arada olun! ... Ka"
+  },
+  "id": "89b93d40e43abe05"
+ },
+ {
   "title": "Anasayfa | Türkiye Yapay Zeka İnisiyatifi",
   "url": "https://turkiye.ai/",
   "category": "yapay-zeka",
@@ -1861,6 +766,132 @@
    "snippet": "420’den fazla kurumdan 1.800’ün üzerinde katılımcıyı bir araya getiren Türkiye Yapay Zeka Zirvesi, 2026’da da ekosistemin en kapsamlı buluşması olacak."
   },
   "id": "4f490ed4eb082584"
+ },
+ {
+  "title": "Armin van Buuren - Live @ Tomorrowland 2026 Freedom Stage...",
+  "url": "https://vkvideo.ru/video-31352730_456256430",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "enterprise IT webinar 2026 free registration",
+   "snippet": "Хорошее качество видео без регистрации в бесплатном видеокаталоге VK Видео. Опубликовано 18 июля 2026. 2590 — просмотрели, 113 — оценили.SACHA - Set Me Free (Rising Star Remix) [ARMADA] w/ Armin van B"
+  },
+  "id": "bab7f02783b7bbf7"
+ },
+ {
+  "title": "Best Data Center Conferences in 2026: Which one to go to?",
+  "url": "https://percepture.com/data-centers-insights/best-data-center-conferences/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center infrastructure webinar 2026",
+   "snippet": "1 week ago - SC26 brings high-performance computing, storage, networking, research, and serious AI-compute infrastructure to Chicago. It is the technical deep dive for companies serving advanced compu"
+  },
+  "id": "a0a2a7b003acb72f"
+ },
+ {
+  "title": "BrightTALK - Discover and learn with the world’s brightest...",
+  "url": "https://www.brighttalk.com/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "BrightTALK webinar central banking fintech",
+   "snippet": "Access expertise from thousands of leading companies and millions of registered users. Browse content by topics. Discover the most popular and trending topics on BrightTALK.See all topics."
+  },
+  "id": "32eb881593cd7126"
+ },
+ {
+  "title": "BrightTALK Central Reviews Oct 2025: Pricing... | SoftwareWorld",
+  "url": "https://www.softwareworld.co/software/brighttalk-central-reviews/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "BrightTALK webinar central banking fintech",
+   "snippet": "BrightTALK Central Reviews 2025: Understand its offerings, pricing, & features. Compare and select with confidence.BrightTALK Central is a leading webinar software platform designed to help businesses"
+  },
+  "id": "3fd81b2ed2c7d233"
+ },
+ {
+  "title": "BrightTALK Webinar: Scaling Digital Banking Channels for Growth...",
+  "url": "https://ncfacanada.org/brighttalk-webinar-scaling-digital-banking-channels-for-growth-securely/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "BrightTALK webinar central banking fintech",
+   "snippet": "Live WebinarBuild trust, grow revenue and mitigate risk with the rise in digital transactions"
+  },
+  "id": "df267c3a6f94c420"
+ },
+ {
+  "title": "BrightTALK Webinars",
+  "url": "https://eplus.com/Resources/brighttalk",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "BrightTALK webinar central banking fintech",
+   "snippet": "Contact Center. Video Conferencing. Collaboration as a Service.ePlus engineers transformative technology solutions for the most visionary organizations in the world. Watch our BrightTALK on-demand web"
+  },
+  "id": "7a8773a773d474b9"
+ },
+ {
+  "title": "CAB & CDFA Webinar: Unlocking the Payment Facilitator Opportunity in the Caribbean – Caribbean Association of Banks",
+  "url": "https://cab-inc.com/cab-cdfa-webinar-unlocking-the-payment-facilitator-opportunity-in-the-caribbean/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments webinar 2026",
+   "snippet": "May 20, 2026 - The Caribbean Association of Banks (CAB) is pleased to once again partner with the Caribbean Digital Finance Alliance (CDFA) to host an upcoming webinar dedicated to advancing the regio"
+  },
+  "id": "fb16d43bc0e378c6"
  },
  {
   "title": "CB DC Conference 2026 Amsterdam | 27th - 29th oct 2026 ...",
@@ -1935,6 +966,24 @@
   "id": "5d8facfab0351e76"
  },
  {
+  "title": "CBDC Conference - Amsterdam, Netherlands - About",
+  "url": "https://www.cbdc-conference.com/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments webinar 2026",
+   "snippet": "Central bankers, fintechs, technology leaders and academics all across the world shared their insights on the latest developments regarding design choices, offline CB+DC payments, security issues, tok"
+  },
+  "id": "963eb1f1e845b5fd"
+ },
+ {
   "title": "CBDC Conference - Amsterdam, Netherlands - RegistrationCB+DC Conference 2026 - Amsterdam - The PaypersCB DC Conference 2026 Amsterdam | 27th - 29th oct 2026 ...CB+DC Conference 2026 - Emerging Payments Association AsiaCentral Bank Digital Currencies (cbdc) Conferences 2026/2027 ...CBDC Conference - Amsterdam, Netherlands - Networking ...",
   "url": "https://cbdc-conference.com/registration",
   "category": "merkez-bankaciligi",
@@ -1953,6 +1002,24 @@
   "id": "ace876c929c97d2e"
  },
  {
+  "title": "CBDC Conference - Kuala Lumpur, Malaysia / Amsterdam, Netherlands - Conference",
+  "url": "https://www.cbdc-conference.com/agenda",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments webinar 2026",
+   "snippet": "Join us for a thoughtfully designed program featuring practical insights, real-world examples, and discussions that explore the future of payments."
+  },
+  "id": "5367fab19ef12429"
+ },
+ {
   "title": "Central Bank Digital Currencies (cbdc) Conferences 2026/2027 ...",
   "url": "https://conferenceindex.org/conferences/central-bank-digital-currencies-cbdc",
   "category": "merkez-bankaciligi",
@@ -1969,6 +1036,24 @@
    "snippet": "Central Bank Digital Currencies (cbdc) Conferences 2026 2027 2028 is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activit"
   },
   "id": "c566a715a9dcfbca"
+ },
+ {
+  "title": "Central Banking - Trusted intelligence on the world's central banks and financial regulators",
+  "url": "https://www.centralbanking.com/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "You need to sign in to use this feature. If you don’t have a Central Banking account, please register for a trial."
+  },
+  "id": "ce920006a7724b29"
  },
  {
   "title": "Conference - AI & CB Conference",
@@ -2061,6 +1146,24 @@
   "id": "6929d2ef291c3417"
  },
  {
+  "title": "Data Center World",
+  "url": "https://datacenterworld.com/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center infrastructure webinar 2026",
+   "snippet": "Discover the ultimate global destination for data center innovation, leadership, and excellence. Join us from April 20–23, 2026, at the Walter E. Washington Convention Center in Washington, D.C., and "
+  },
+  "id": "e152021e250ba78b"
+ },
+ {
   "title": "Data Center World Europe | Vienna, Austria | 13-14 October 2026",
   "url": "https://datacenterworldeurope.com/",
   "category": "veri-merkezi",
@@ -2133,6 +1236,24 @@
   "id": "12f726c7e5c2c726"
  },
  {
+  "title": "Diva: Dive Into AI 2026 Konferansı 16 Mayıs’ta İstanbul’da...",
+  "url": "https://techolay.net/diva-dive-into-ai-2026-konferansi-16-mayista-istanbulda-duzenlenecek/",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Etkinlik, 16 Mayıs 2026 tarihinde İstanbul Beşiktaş’taki DotsHub’da gerçekleştirilecek.Etkinlik, yapay zekâyı daha yakından tanımak, bu alanda çalışan kişilerle bağlantı kurmak ve farklı bakış açıları"
+  },
+  "id": "b75a9bf61db8144f"
+ },
+ {
   "title": "ECB Forum on Central Banking 2026",
   "url": "https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banking.en.html",
   "category": "merkez-bankaciligi",
@@ -2169,6 +1290,42 @@
   "id": "d0a65fe377ea264f"
  },
  {
+  "title": "Etkinlikler | Bilişim Zirvesi",
+  "url": "https://www.bilisimzirvesi.com.tr/guncel-etkinlikler",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
+   "snippet": "Kayıt için tıklayınız. DEVAMINI OKU · Bilişim Zirvesi Ailesinin bir parçası olacaksınız."
+  },
+  "id": "40b6d5b6c7db4b7d"
+ },
+ {
+  "title": "Events | Upcoming Summits, Webinars, and Exercises | FS-ISAC",
+  "url": "https://www.fsisac.com/events",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "September 29, 2026 · 2026 Americas Fall Summit · October 26–29 · 2026 UK Cyber & Resilience Exchange ·"
+  },
+  "id": "ad21126c95279c38"
+ },
+ {
   "title": "Eğitimde Yapay Zeka Dönemi İstanbul’da Masaya Yatırıldı | Havadis",
   "url": "https://www.havadis.com/istanbul/egitimde-yapay-zeka-donemi-istanbulda-masaya-yatirildi/437578",
   "category": "yapay-zeka",
@@ -2203,6 +1360,258 @@
    "snippet": "In this interactive workshop, participants will map out key moments and trends in FinAi’s past, present, and future while identifying patterns that will help inform 2026 banking technology strategies."
   },
   "id": "6bb73035c3c46e17"
+ },
+ {
+  "title": "FinServ USA Cybersecurity Summit",
+  "url": "https://ismg.events/summit/newyork-financial-service-2026/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "The FinServ Cybersecurity USA Summit brings together security leaders from across the industry for a day of unfiltered peer exchange, adversary intelligence, and practical frameworks — built around th"
+  },
+  "id": "c7263028215d2e79"
+ },
+ {
+  "title": "Financial Services - InfoSec World 2026",
+  "url": "https://www.infosecworldusa.com/isw26/financial-services/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "June 17, 2026 - ... This session examines how generative AI introduces new risks to application security in financial services, with a focus on package hallucinations and slopsquatting vulnerabilities"
+  },
+  "id": "b5b1da186bb4c6b9"
+ },
+ {
+  "title": "First Test Post | Key Rotation",
+  "url": "https://keyrotation.io/p/first-test-post",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Post-Quantum Cryptography & Crypto Agility Newsletter.Register your team for a PQC briefing or webinar. With NIST's post-quantum standards now finalized, the window for passive observation has closed."
+  },
+  "id": "867fef79204c7c36"
+ },
+ {
+  "title": "GITEX Ai Türkiye 2026 İçin Geri Sayım Başladı - Mall Report",
+  "url": "https://mallreport.com.tr/2026/08/11/gitex-ai-turkiye-2026-icin-geri-sayim-basladi/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "3 days ago - Bu yükseliş, Türkiye’nin en ... GITEX Ai Türkiye 2026’nın ilk kez düzenlenmesiyle yeni bir boyut kazanıyor. Etkinlik, 9–10 Eylül 2026 tarihlerinde İstanbul Fuar Merkezi’nde gerçekleştiril"
+  },
+  "id": "8829f5e6b471a967"
+ },
+ {
+  "title": "GITEX Ai Türkiye 2026, 9-10 Eylül'de İstanbul'da Gerçekleşecek | Ekonomi Star",
+  "url": "https://ekonomistar.com.tr/gitex-ai-turkiye-2026-9-10-eylul/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "3 days ago - GITEX Ai Türkiye 2026’nın ilk kez düzenlenmesi, bu yükselişi yeni bir boyuta taşıyor. Etkinlik, 9-10 Eylül 2026 tarihlerinde İstanbul Fuar Merkezi’nde gerçekleştirilecek."
+  },
+  "id": "f325d0e7f6c160bc"
+ },
+ {
+  "title": "GITEX Ai Türkiye 2026, Küresel Teknoloji Ekosistemini İstanbul’da Buluşturacak - Fuar Dergisi",
+  "url": "https://www.fuardergisi.com.tr/gitex-ai-turkiye-2026-kuresel-teknoloji-ekosistemini-istanbulda-bulusturacak",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "2 days ago - GITEX Ai Türkiye; yapay zekâ, 5G ve telekomünikasyon, bulut teknolojileri, siber güvenlik, çift kullanımlı teknolojiler, veri merkezleri, e-ticaret, fintech, oyun, yeşil teknolojiler, sağ"
+  },
+  "id": "985882a2ddea0130"
+ },
+ {
+  "title": "GITEX Ai Türkiye 2026: Yapay zekâ ve teknoloji dünyasının devleri İstanbul’da buluşuyor",
+  "url": "https://www.cnbce.com/yapay-zeka/gitex-ai-turkiye-2026-yapay-zeka-ve-teknoloji-dunyasinin-devleri-istanbulda-bulusuyor-h34903",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "2 days ago - Dünyanın en büyük teknoloji ve yapay zekâ etkinlik ağı, Avrasya’nın hızla büyüyen yapay zekâ ekonomisini küresel vitrine taşırken; ilk kez düzenlenecek GITEX Ai Türkiye 2026, 9–10 Eylül t"
+  },
+  "id": "23c9f274eeaa6b97"
+ },
+ {
+  "title": "Gartner Webinar: AI Cyber Risks for CIOs and CISOs | LinkedIn",
+  "url": "https://www.linkedin.com/posts/amy-jp-anesi-507b899_frontier-ai-is-reshaping-the-cyber-risk-landscape-activity-7485391809620226048-cmga",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "Gartner webinar AI security banking",
+   "snippet": "Frontier AI is reshaping the cyber risk landscape. Financial institutions are facing new threats as AI accelerates vulnerability exploitation and increases systemic risk Join Gartner on July 24th to l"
+  },
+  "id": "d3171b2a1dc32cc1"
+ },
+ {
+  "title": "Gartner Webinar: Transforming Data into Operational... | Axway",
+  "url": "https://www.axway.com/en/gartner-webinar-transforming-data-operational-intelligence",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "Gartner webinar AI security banking",
+   "snippet": "Remotely administered secure file transfer client. B2B Integration.More than 11,000 companies across banking, healthcare, supply chain, and other industries look to Axway to enrich their customer expe"
+  },
+  "id": "bcb9a73e362f4035"
+ },
+ {
+  "title": "Gartner Webinars",
+  "url": "https://s3.amazonaws.com/bizzabo.file.upload/MWKF1mK7SiybRL1NbsZH_Jan23TCoshowEBrethenoux.pdf",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "Gartner webinar AI security banking",
+   "snippet": "Slide 4: Gartner Poll. Slide 5: Being on the same page when we say “AI”.Gartner delivers actionable, objective insight, guidance and tools to enable stronger performance on your organization’s mission"
+  },
+  "id": "dfcc9886a128a2ec"
+ },
+ {
+  "title": "Gartner Webinars: Expert-Led Insights on Business & Technology",
+  "url": "https://www.gartner.com/en/webinars",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "Gartner webinar AI security banking",
+   "snippet": "Discover Gartner Webinars—free, expert-led sessions offering actionable insights on the latest business and technology trends.Gartner webinars offer access to business and technology insights directly"
+  },
+  "id": "a15cf292c7c2438c"
+ },
+ {
+  "title": "HUD FF OB54: Best 2-4 Finger Custom HUD Code In FF 2026",
+  "url": "https://blanktextcopy.com/hud-ff/",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "enterprise IT webinar 2026 free registration",
+   "snippet": "Troubleshooting – FF Custom HUD Copy Link. You can use the latest 2026 Free Fire HUD share codes below, tested and organized for quick copy & paste. Scroll down to explore more optimized layouts for 2"
+  },
+  "id": "881fb7badde53494"
+ },
+ {
+  "title": "How To Prevent Bans On Instagram In 2026 (AI OFM) - YouTube",
+  "url": "https://www.youtube.com/watch?v=pAU9uP9-BwA",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "Стоит ли заниматься AI OFM в 2026 году? Ryan Davies. 507 4 нед. назад. МЕДИЙНОЕ Контрнаступление У Ивановки РОССИЙСКАЯ АРМИЯ У ВОРОТ ДРУЖКОВКИ Военные Сводки 13.08.2026."
+  },
+  "id": "225990dd61ba0b09"
+ },
+ {
+  "title": "Humans still in charge of AI use at central banks – panel - Central Banking",
+  "url": "https://www.centralbanking.com/central-banks/economics/7976127/humans-still-in-charge-of-ai-use-at-central-banks-panel",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "June 12, 2026 - During the discussion, central bankers spoke about the internal data tools that had been developed so far, the degree to which AI was involved in banking supervision, and how open inst"
+  },
+  "id": "75dfe7ff848ee166"
  },
  {
   "title": "ICCSDFAI 2026 Konferansı başladı - Bursa Haber",
@@ -2277,6 +1686,42 @@
   "id": "02e2000e71f42a13"
  },
  {
+  "title": "July 2026 Webinar Unlock More from GEMpos - YouTube",
+  "url": "https://www.youtube.com/watch?v=TC6VL6yf-9A",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "enterprise IT webinar 2026 free registration",
+   "snippet": "© 2026 Google LLC."
+  },
+  "id": "ee47f3e1ebb79ee9"
+ },
+ {
+  "title": "Live Webinar | Governing AI Risk From the Inside OutWebinar.",
+  "url": "https://www.databreachtoday.com/webinars/live-webinar-governing-ai-risk-from-inside-out-w-7117?rf=training",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "The AI Trust Gap: Governing Autonomous AI Without Losing Visibility or Control. Chris Joynt •. June 4, 2026.How to develop and implement an AI policy fit for today's pace of work. Register Now. Webina"
+  },
+  "id": "404229c597657c3d"
+ },
+ {
   "title": "Londra'da “Yapay Zekanın Gücü: İşinizi Dönüştürmek” Etkinliği...",
   "url": "https://www.yesilisplatformu.com/londrada-yapay-zekanin-gucu-isinizi-donusturmek-etkinligi-gerceklestirildi/",
   "category": "yapay-zeka",
@@ -2313,6 +1758,24 @@
   "id": "ffc928157fa27bf3"
  },
  {
+  "title": "Milli Teknoloji Zirvesi 2026 | KÜRE Ansiklopedi",
+  "url": "https://kureansiklopedi.com/tr/detay/milli-teknoloji-zirvesi-2026-670eb",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
+   "snippet": "1 month ago - Yıldız Teknik Üniversitesi Milli Teknoloji Zirvesine Ait Görsel (T3 Vakfı) Zirvenin ilk günü kayıt ve karşılama programıyla başlamış, ardından açılış konuşmaları gerçekleştirilmiştir. Aç"
+  },
+  "id": "168dddd824bafed9"
+ },
+ {
   "title": "Overview | Data Center World Europe",
   "url": "https://datacenterworldeurope.com/conference-overview/",
   "category": "veri-merkezi",
@@ -2329,6 +1792,24 @@
    "snippet": "Discover the ultimate European destination for data centre innovation, leadership, and excellence. Join us from 13-14 October 2026, at VIECON – Vienna Congress & Convention Center, and experience grou"
   },
   "id": "c3bbbb825d5d86f0"
+ },
+ {
+  "title": "PQC Webinar on Current State of Transition and Strategic Challenges",
+  "url": "https://www.unibw.de/code-en/news/pqc-webinar-on-current-state-of-transition-and-strategic-challenges",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "2 March 2026. The threat posed by future quantum computers to traditional public key cryptography makes the transition to post-quantum cryptography (PQC) a key strategic task. As part of the Trust in "
+  },
+  "id": "56636a2119e4fd1b"
  },
  {
   "title": "PQC – Where to Start, What to Prioritize, and How to ...",
@@ -2349,6 +1830,78 @@
   "id": "287690a933d8499d"
  },
  {
+  "title": "Post Quantum Readiness in Telco – a perspective from NIST and...",
+  "url": "https://www.gsma.com/solutions-and-impact/technologies/security/gsma_resources/post-quantum-readiness-in-telco-a-perspective-from-nist-and-telefonica/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Key takeaways from the GSMA Post Quantum Cryptography Webinar include: Urgency of Quantum Readiness: The rise of quantum computing poses substantial risks to current cryptographic systems, making it e"
+  },
+  "id": "7b35e4602d4c8b48"
+ },
+ {
+  "title": "Post-Quantum Cryptography Webinar for Security Leaders...",
+  "url": "https://nuclearcoffee.org/post-quantum-cryptography-webinar-for-security-leaders/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Why Post-Quantum Cryptography Matters. Quantum computing is advancing quickly, and most modern encryption algorithms, such as RSA and ECC, will not remain secure forever."
+  },
+  "id": "fef7cebb91e4070d"
+ },
+ {
+  "title": "Post-Quantum Cryptography Webinar with IBM | LinkedIn",
+  "url": "https://www.linkedin.com/posts/alexander-antrim-44b08224_quantum-computing-is-shifting-the-security-activity-7440175793827201024-Z76s",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Post Quantum Cryptography is focused on a simple idea. Cryptography should be treated as a monitored security surface, not an invisible library buried in infrastructure."
+  },
+  "id": "025b2defc0501d63"
+ },
+ {
+  "title": "Post-Quantum Cryptography Webinar | Fime",
+  "url": "https://www.fime.com/blog/event-22/post/post-quantum-cryptography-webinar-705",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Join us online at EESTEL's Post-Quantum Cryptography Webinar! The webinar \" The Quantum Threat on Digital Finance, Payment and Identity: Time to Move \", hosted by EESTEL , will examine the current sta"
+  },
+  "id": "675b08d91da1fe19"
+ },
+ {
   "title": "Post-quantum cryptography",
   "url": "https://www.pqcrypto.org/conferences.html",
   "category": "kuantum",
@@ -2367,6 +1920,78 @@
   "id": "ac10b600356839f2"
  },
  {
+  "title": "Post-quantum cryptography | NIST",
+  "url": "https://www.nist.gov/pqc",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Post-quantum cryptography. Sign Up to Get NIST News.On July 28, 2026, Anthropic announced that it used an AI model to discover a vulnerability in a lattice-based digital signature algorithm called HAW"
+  },
+  "id": "9da7905d83495bbc"
+ },
+ {
+  "title": "Preparing for the Quantum Era: Post-Quantum Cryptography...",
+  "url": "https://volknews.com/2026/03/05/preparing-for-the-quantum-era-post-quantum-cryptography-webinar-for-security-leaders/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "VolkAI March 5, 2026 Leave a Comment on Preparing for the Quantum Era: Post-Quantum Cryptography Webinar for Security Leaders Posted in Hacker News, Imported News. Most organizations assume encrypted "
+  },
+  "id": "f2ed8536331660c4"
+ },
+ {
+  "title": "Private Banking & AI Webinar 2026 - FT Live - Financial Times",
+  "url": "https://live.ft.com/futureofadvice",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "Ticket holders can access the live-stream and recording. Register for free now, ... Private banks are confronting a structural squeeze."
+  },
+  "id": "418d09044a8d4069"
+ },
+ {
+  "title": "SecureWorld Financial Services Virtual Conference 2026",
+  "url": "https://events.secureworld.io/details/financial-services-2026/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "April 29, 2026 - Attend this live virtual conference April 29, 2026, for cybersecurity defenders across the finance sector!"
+  },
+  "id": "e47c413a9464233b"
+ },
+ {
   "title": "Siber Güvenlik Zirvesi ’26: Sektör Profesyonelleri ve Geleceğin Uzmanları Buluşuyor",
   "url": "https://www.techetkinlik.com/2026/03/24/siber-guvenlik-zirvesi-26-sektor-profesyonelleri-ve-gelecegin-uzmanlari-bulusuyor/",
   "category": "siber-guvenlik",
@@ -2383,6 +2008,24 @@
    "snippet": "March 24, 2026 - Siber güvenlik alanındaki en güncel gelişmelerin tartışılacağı ve sektörün önde gelen isimlerinin deneyimlerini aktaracağı Siber Güvenlik Zirvesi '26, Ankara Üniversitesi ev sahipliği"
   },
   "id": "9b5d155d4a09e85b"
+ },
+ {
+  "title": "Siber Güvenlik ve Yapay Zeka Konferansı 2026 | Siber Kulüpler Birliği",
+  "url": "https://siberkulupler.com/events/siber-kis-konferansi-2026/",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Bu konferans, teknik bilginin vizyonla buluştuğu eşsiz bir platform sunuyor: Siber Güvenlik ve Yapay Zeka Sinerjisi: Teknolojinin en kritik iki disiplininin nasıl iç içe geçtiğini; yapay zekanın savun"
+  },
+  "id": "1c3bff88a58cf000"
  },
  {
   "title": "T.C. İletişim Başkanlığı on X: \"Siber Güvenlik Kurulu, 5 Mayıs 2026 tarihinde Türkiye Cumhuriyeti Cumhurbaşkanı Sayın Recep Tayyip Erdoğan başkanlığında toplanmıştır. Toplantıda; ülkemizin siber güvenliğini ilgilendiren başlıklar kapsamlı biçimde ele alınmıştır. Mevcut risklerin yanı sıra önümüzdeki döneme ilişkin eğilimler de bütüncül bir yaklaşımla değerlendirilmiş; son dönemde yaşanan uluslararası gelişmeler hakkında Kurula bilgi sunulmuştur. Siber gü",
@@ -2421,6 +2064,60 @@
   "id": "b72f8a04412b5643"
  },
  {
+  "title": "TETZ 2026 — Kayıt / Registration",
+  "url": "https://kayit.tetz.org.tr/",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
+   "snippet": "27-28 Haziran 2026 Pullman Convention Center İstanbul / TÜRKİYE Katılım ücretsiz · Online kayıt zorunlu"
+  },
+  "id": "6788d000b24f3bae"
+ },
+ {
+  "title": "THE FUTURE OF PAYMENTS - CBDC, DIGITAL ASSETS AND DIGITAL CAPITAL MARKETS | Bocconi University",
+  "url": "https://www.unibocconi.it/en/events/future-payments-cbdc-digital-assets-and-digital-capital-markets",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments webinar 2026",
+   "snippet": "15 Jan 2026 · 6:00pm - 7:00pm · Come possiamo reagire ai dazi? Sala di lettura, Viale Bligny 22 · 26 Feb 2026 · 6:00pm - 7:00pm · Si può fermare il declino dell’Europa? Sala di lettura, Viale Bligny 2"
+  },
+  "id": "7968d75e55ce5ad2"
+ },
+ {
+  "title": "The 12 Best AI Tools for 2026 (That People Actually Use)",
+  "url": "https://www.synthesia.io/post/ai-tools",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "In a short space of time, AI has become a staple part of daily work and personal life, and the number of AI tools available has grown massively. In the extensive list of AI tools, I’ve pulled the best"
+  },
+  "id": "58d6a88511e392fa"
+ },
+ {
   "title": "The 9 Biggest AI Conferences for Financial Services, Banking & Fintech in 2026 | Fintech Labs",
   "url": "https://fintechlabs.com/the-biggest-ai-in-financial-services-conferences/",
   "category": "merkez-bankaciligi",
@@ -2457,6 +2154,24 @@
   "id": "39398415e3d0fb7c"
  },
  {
+  "title": "The Central Bank Payments Conference",
+  "url": "https://currencyresearch.com/the-central-bank-payments-conference/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments webinar 2026",
+   "snippet": "1 week ago - Join top payment leaders at the Central Bank Payments Conference, Istanbul, 31 August – 2 September 2026, to explore exciting policy trends and payment innovations!"
+  },
+  "id": "72e5c3a2b72a9c2e"
+ },
+ {
   "title": "The Central Bank Payments Conference - Currency Research",
   "url": "https://currencyresearch.com/the-central-bank-payments-conference/",
   "category": "merkez-bankaciligi",
@@ -2475,6 +2190,78 @@
   "id": "1d393cc9ac84dee6"
  },
  {
+  "title": "The OECD Artificial Intelligence Policy Observatory - OECD.AI",
+  "url": "https://oecd.ai/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "OECD.AI helps countries and shape trustworthy AI with the OECD AI Principles. It gives access to 900+ national AI policies and initiatives, live data about AI and a blog about AI policy.April 14, 2026"
+  },
+  "id": "1d26ed4a1720fcba"
+ },
+ {
+  "title": "Thinking About Becoming a Surrogate? Join Our Free Webinar",
+  "url": "https://joyoflife.com/surrogate-webinar/",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "enterprise IT webinar 2026 free registration",
+   "snippet": "Join our free live webinar, held once a month through 2026 at 7:00 PM Pacific, to learn what surrogacy can look like, whether you may qualify and what compensation can include. Secure Your Spot. Surro"
+  },
+  "id": "bd8d7c657d06c010"
+ },
+ {
+  "title": "Transformative artificial intelligence (AI): implications for structural change and monetary policy | Bank of England",
+  "url": "https://www.bankofengland.co.uk/events/2026/june/transformative-artificial-intelligence",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "June 3, 2026 - Register for this event Conference programme Please register by 5pm on Monday 15 June if you wish to apply for in-person participation."
+  },
+  "id": "945aae20ce7744c9"
+ },
+ {
+  "title": "Trusted AI Agents, Zero Compromises",
+  "url": "https://www.vectara.com/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "Always-on AI governance for highly regulated industries, protecting your IP and brand. Your IP never needs to leave your data center.Vectara is the agent platform for trusted enterprise AI: governed, "
+  },
+  "id": "17b87c7a739d84f6"
+ },
+ {
   "title": "Türkiye Teknoloji Pazarı Yapay Zeka Yatırımlarıyla Dünya Sahnesine...",
   "url": "https://www.platinonline.com/teknoloji/turkiye-teknoloji-pazari-yapay-zeka-yatirimlariyla-dunya-sahnesine-cikiyor-1099131",
   "category": "yapay-zeka",
@@ -2491,6 +2278,132 @@
    "snippet": "GITEX Ai Türkiye 2026; sınır ötesi ortaklıkların, ileri üretim alanındaki iş birliklerinin, sermaye akışlarının ve yetenek ve bilgi paylaşımının önünü açarak Türkiye'nin yapay zekâ ekonomisinin gelece"
   },
   "id": "263a485c2c7f36a5"
+ },
+ {
+  "title": "Veeam: Solving Impossible AI & Data Challenges",
+  "url": "https://www.veeam.com/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "Secure data, govern AI, and automate compliance. Unify security, privacy, and governance with a Data Command Center built on deep intelligence. Automatically discover and classify sensitive assets acr"
+  },
+  "id": "39c1355e385d7984"
+ },
+ {
+  "title": "Veri merkezlerinin geleceği TESAB’da masaya yatırılıyor",
+  "url": "https://www.enerjigunlugu.net/veri-merkezlerinin-gelecegi-tesabda-masaya-yatiriliyor-69337h.htm",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "3 days ago - TESAB, 26 Ağustos 2026 tarihinde saat 10.30-12.00 arasında \"Veri Merkezleri: Küresel Gelişmeler ve Türkiye'nin Rotası\" başlıklı bir etkinlik düzenleyecek."
+  },
+  "id": "c781f01119102fa3"
+ },
+ {
+  "title": "Watch the Verdantix webinar: Mind The AI Governance Maturity Gap",
+  "url": "https://www.verdantix.com/vantage/webinar/mind-the-ai-governance-maturity-gap",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "Webinar highlights: Benchmark your organization’s AI governance maturity and identify gaps in oversight. Learn how to mitigate both business and governance risks tied to AI adoption."
+  },
+  "id": "a91eaf45f14cd89e"
+ },
+ {
+  "title": "Webinar - Banking Reimagined | Keeping up with Digital... | VeriPark",
+  "url": "https://www.veripark.com/news/webinar-banking-reimagined-keeping-digital-giants-apac",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "Gartner webinar AI security banking",
+   "snippet": "June 8 2021 - Webinar with Gartner expert Christophe Uzureau. Navigating the new banking landscape: Insights from industry experts.This webinar offers a glimpse inside: How banks can respond to transf"
+  },
+  "id": "f6612b9363e73a06"
+ },
+ {
+  "title": "Webinar: Five Data Center Predictions for 2026 - Uptime Institute",
+  "url": "https://uptimeinstitute.com/webinars/webinar-five-data-center-predictions-for-2026",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center infrastructure webinar 2026",
+   "snippet": "Presentation Title:Five Data Center Predictions for 2026 Presenters:Andy Lawrence, Executive Director of Research, Uptime InstituteDaniel..."
+  },
+  "id": "fd2fda16f55a3dce"
+ },
+ {
+  "title": "Webinar: The hidden drag on insurance AI ROI - Broken processes 2026",
+  "url": "https://www.limestreetguide.com/event/webinar-the-hidden-drag-on-insurance-ai-roi-broken-processes-2026/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "12 August 2026. Webinar: The new architecture of insurance – Forces reshaping risk, capital and distribution 2026.Webinar: From bottleneck to breakthrough – Reimagining catastrophe modelling with AI 2"
+  },
+  "id": "939595e6c6264423"
+ },
+ {
+  "title": "Webinars - Uptime Institute",
+  "url": "https://uptimeinstitute.com/webinars",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center infrastructure webinar 2026",
+   "snippet": "For over 25 years, Uptime Institute ... knowledge with the broader community to help drive data center reliability, sustainability and efficiency. Wednesday, 29 July 2026 ·..."
+  },
+  "id": "2a62d494fcc9bca5"
  },
  {
   "title": "Webinars – Post-Quantum Cryptography Alliance",
@@ -2527,5 +2440,77 @@
    "snippet": "The World AI Regulation Summit 2026 is a high-level global forum dedicated exclusively to AI regulation, bringing together policymakers, regulators, and industry leaders to shape regulatory approaches"
   },
   "id": "4075b2b8ec31c6c0"
+ },
+ {
+  "title": "venturebeat.com/media/brighttalk-webinars",
+  "url": "https://venturebeat.com/media/brighttalk-webinars/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "BrightTALK webinar central banking fintech",
+   "snippet": "\"Webinar durung mati, ujare BrightTALK lan babak $ 20,5M\"."
+  },
+  "id": "878e8735decb190b"
+ },
+ {
+  "title": "İş Dünyasının Yapay Zeka Gündemi Webrazzi AI 2026’da Belirlendi",
+  "url": "https://www.yatirimx.com.tr/ekonomi/is-dunyasinin-yapay-zeka-gundemi-webrazzi-ai-2026da-belirlendi/19335",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Türkiye’nin teknoloji ve girişimcilik ekosistemine yön veren Webrazzi, yapay zeka odaklı ilk büyük konferansı Webrazzi AI 2026 ile sektör liderlerini bir araya getirdi."
+  },
+  "id": "ce787c419cd7fe0d"
+ },
+ {
+  "title": "Şanghay’da Dünya Yapay Zeka Konferansı: Rusya ve Çin Küresel...",
+  "url": "https://anlatilaninotesi.com.tr/20260716/sanghayda-dunya-yapay-zeka-konferansi-rusya-ve-cin-kuresel-yapay-zeka-isbirliginde-yeni-adimlar-1107318771.html",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Bu doğrultuda, Kasım 2026’da “Yapay Zeka Dünyasına Yolculuk” başlıklı etkinliğin, 2027 yılında ise “Geleceğin Teknolojileri Forumu” ve “Yapay Zeka Yüksek Düzeyli Toplantısı”nın Rusya'da düzenlenmesi p"
+  },
+  "id": "9eaff44e1467a0c8"
+ },
+ {
+  "title": "Сеть 2026: АВГУСТ: Telegram, Макс, Интернет | Дзен",
+  "url": "https://dzen.ru/internet_2026",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "enterprise IT webinar 2026 free registration",
+   "snippet": "Ютуб не работает сегодня снова, в августе 2026? точная команда для ByeДпи на Android, которая возвращает доступ за секунды. 28 иЮля 2026: Важное! (забыл уточнить). Это все работает только тогда, когда"
+  },
+  "id": "394752ab18f65f94"
  }
 ]
