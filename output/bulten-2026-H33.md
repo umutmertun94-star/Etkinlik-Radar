@@ -1,6 +1,6 @@
 # Etkinlik Radarı — 2026 / 33. Hafta
 
-## Bu hafta bulunan yeni etkinlikler (50)
+## Bu hafta bulunan yeni etkinlikler (49)
 
 ### Yapay Zeka
 - [AI DBA: Self-Driving Databases](https://buildevcon.com/ai-dba-self-driving-databases) — 2026-01-23 — Online _(kaynak: confstech)_
@@ -58,48 +58,47 @@
 - [Mastering GitOps](https://www.mastering-gitops.de) — 2026-06-25 — Online _(kaynak: confstech)_
 - [Asynconf](https://asynconf.com) — 2026-06-27 — Online _(kaynak: confstech)_
 - [AI Coding Summit, London Edition](https://aicodingsummit.com) — 2026-07-06 → 2026-07-07 — Online _(kaynak: confstech)_
-- [The ACS/IEEE 23rd International Conference on Computer Systems and Applications](https://aiccsa.net/AICCSA2026) — 2026-10-26 → 2026-10-29 — Online _(kaynak: confstech)_
 
-## Doğrulanacak ipuçları (70)
+## Doğrulanacak ipuçları (64)
 _Arama/alerts kaynaklı; tarih ve format kontrol edilmeli._
 
-- [Diva: Dive Into AI 2026 Konferansı 16 Mayıs’ta İstanbul’da...](https://techolay.net/diva-dive-into-ai-2026-konferansi-16-mayista-istanbulda-duzenlenecek/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Siber Güvenlik ve Yapay Zeka Konferansı 2026 | Siber Kulüpler Birliği](https://siberkulupler.com/events/siber-kis-konferansi-2026/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [İş Dünyasının Yapay Zeka Gündemi Webrazzi AI 2026’da Belirlendi](https://www.yatirimx.com.tr/ekonomi/is-dunyasinin-yapay-zeka-gundemi-webrazzi-ai-2026da-belirlendi/19335) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Şanghay’da Dünya Yapay Zeka Konferansı: Rusya ve Çin Küresel...](https://anlatilaninotesi.com.tr/20260716/sanghayda-dunya-yapay-zeka-konferansi-rusya-ve-cin-kuresel-yapay-zeka-isbirliginde-yeni-adimlar-1107318771.html) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [TETZ 2026 — Kayıt / Registration](https://kayit.tetz.org.tr/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Anasayfa - Türkiye Yapay Zeka Zirvesi 2026](https://zirve.turkiye.ai/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Ana Sayfa | Bilişim Zirvesi](https://www.bilisimzirvesi.com.tr/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [1. uluslararası teknoloji ve yazılım zirvesi](https://istebitoda.org.tr/etkinlik/1-uluslararası-teknoloji-ve-yazılım-zirvesi) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Etkinlikler | Bilişim Zirvesi](https://www.bilisimzirvesi.com.tr/guncel-etkinlikler) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Milli Teknoloji Zirvesi 2026 | KÜRE Ansiklopedi](https://kureansiklopedi.com/tr/detay/milli-teknoloji-zirvesi-2026-670eb) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Veri merkezlerinin geleceği TESAB’da masaya yatırılıyor](https://www.enerjigunlugu.net/veri-merkezlerinin-gelecegi-tesabda-masaya-yatiriliyor-69337h.htm) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [GITEX Ai Türkiye 2026 İçin Geri Sayım Başladı - Mall Report](https://mallreport.com.tr/2026/08/11/gitex-ai-turkiye-2026-icin-geri-sayim-basladi/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [GITEX Ai Türkiye 2026: Yapay zekâ ve teknoloji dünyasının devleri İstanbul’da buluşuyor](https://www.cnbce.com/yapay-zeka/gitex-ai-turkiye-2026-yapay-zeka-ve-teknoloji-dunyasinin-devleri-istanbulda-bulusuyor-h34903) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [GITEX Ai Türkiye 2026, 9-10 Eylül'de İstanbul'da Gerçekleşecek | Ekonomi Star](https://ekonomistar.com.tr/gitex-ai-turkiye-2026-9-10-eylul/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [GITEX Ai Türkiye 2026, Küresel Teknoloji Ekosistemini İstanbul’da Buluşturacak - Fuar Dergisi](https://www.fuardergisi.com.tr/gitex-ai-turkiye-2026-kuresel-teknoloji-ekosistemini-istanbulda-bulusturacak) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [2026 AI Series - California Community Banking Network](https://www.ccbnetwork.org/2026aiseries) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- ['Trusted AI' for central banks - Central Banking Training](https://www.centralbanking.com/training/trusted-ai-for-central-banks) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Private Banking & AI Webinar 2026 - FT Live - Financial Times](https://live.ft.com/futureofadvice) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Agentic AI and the Shift to Autonomous Finance 2026 - An FT Live Event](https://autonomousfinance.live.ft.com/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [AI in Central Banking for Beginners — Edu AI Events](https://www.eduailast.com/events/ai-in-central-banking-for-beginners.php) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Humans still in charge of AI use at central banks – panel - Central Banking](https://www.centralbanking.com/central-banks/economics/7976127/humans-still-in-charge-of-ai-use-at-central-banks-panel) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Central Banking - Trusted intelligence on the world's central banks and financial regulators](https://www.centralbanking.com/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Transformative artificial intelligence (AI): implications for structural change and monetary policy | Bank of England](https://www.bankofengland.co.uk/events/2026/june/transformative-artificial-intelligence) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [The Central Bank Payments Conference](https://currencyresearch.com/the-central-bank-payments-conference/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [CBDC Conference - Kuala Lumpur, Malaysia / Amsterdam, Netherlands - Conference](https://www.cbdc-conference.com/agenda) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [2026 Payment Security Trends | Futurex Webinars India](https://info.futurex.com/2026-payment-security-trends-india) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [CBDC Conference - Amsterdam, Netherlands - About](https://www.cbdc-conference.com/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [CAB & CDFA Webinar: Unlocking the Payment Facilitator Opportunity in the Caribbean – Caribbean Association of Banks](https://cab-inc.com/cab-cdfa-webinar-unlocking-the-payment-facilitator-opportunity-in-the-caribbean/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [THE FUTURE OF PAYMENTS - CBDC, DIGITAL ASSETS AND DIGITAL CAPITAL MARKETS | Bocconi University](https://www.unibocconi.it/en/events/future-payments-cbdc-digital-assets-and-digital-capital-markets) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Preparing for the Quantum Era: Post-Quantum Cryptography...](https://volknews.com/2026/03/05/preparing-for-the-quantum-era-post-quantum-cryptography-webinar-for-security-leaders/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [First Test Post | Key Rotation](https://keyrotation.io/p/first-test-post) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Post-Quantum Cryptography Webinar for Security Leaders...](https://nuclearcoffee.org/post-quantum-cryptography-webinar-for-security-leaders/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Post-Quantum Cryptography Webinar | Fime](https://www.fime.com/blog/event-22/post/post-quantum-cryptography-webinar-705) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Post-quantum cryptography | NIST](https://www.nist.gov/pqc) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [PQC Webinar on Current State of Transition and Strategic Challenges](https://www.unibw.de/code-en/news/pqc-webinar-on-current-state-of-transition-and-strategic-challenges) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Post Quantum Readiness in Telco – a perspective from NIST and...](https://www.gsma.com/solutions-and-impact/technologies/security/gsma_resources/post-quantum-readiness-in-telco-a-perspective-from-nist-and-telefonica/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Post-Quantum Cryptography Webinar with IBM | LinkedIn](https://www.linkedin.com/posts/alexander-antrim-44b08224_quantum-computing-is-shifting-the-security-activity-7440175793827201024-Z76s) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Watch the Verdantix webinar: Mind The AI Governance Maturity Gap](https://www.verdantix.com/vantage/webinar/mind-the-ai-governance-maturity-gap) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Live Webinar | Governing AI Risk From the Inside OutWebinar.](https://www.databreachtoday.com/webinars/live-webinar-governing-ai-risk-from-inside-out-w-7117?rf=training) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
-- [Webinar: The hidden drag on insurance AI ROI - Broken processes 2026](https://www.limestreetguide.com/event/webinar-the-hidden-drag-on-insurance-ai-roi-broken-processes-2026/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Yapay Zekâ ve Sensör Teknolojilerinde Küresel Buluşma](https://yze.ankara.edu.tr/2026/08/10/yapay-zeka-ve-sensor-teknolojilerinde-kuresel-bulusma/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [TOBB İş Dünyası Yapay Zeka Zirvesi — Ankara 2026](https://yapayzekazirvesi.org/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [AI Tomorrow Summit 2026](https://aitomorrowsummit.com/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [GITEX Ai Türkiye 2026: Yapay zekâ ve teknoloji dünyasının devleri ...](https://www.cnbce.com/yapay-zeka/gitex-ai-turkiye-2026-yapay-zeka-ve-teknoloji-dunyasinin-devleri-istanbulda-bulusuyor-h34903) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Hakkında - Türkiye Yapay Zeka Zirvesi 2026](https://zirve.turkiye.ai/hakkinda/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [GITEX Ai Türkiye 2026 İstanbul'da Yapay Zekâ Ekonomisini Küresel ...](https://www.enerjibulteni.com/2026/08/11/gitex-ai-turkiye-2026-istanbulda-yapay-zeka-ekonomisini-kuresel-sahneye-tasiyacak/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- ["GITEX Ai Türkiye 2026" etkinliği eylülde İstanbul'da düzenlenecek](https://www.aa.com.tr/tr/ekonomi/gitex-ai-turkiye-2026-etkinligi-eylulde-istanbulda-duzenlenecek/4026091) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [İstanbul 2026 Yapay Zekâ Sergileri ve Etkinlikleri: Detaylı Rehber ...](https://www.firsat.me/Blog/istanbul-2026-yapay-zek-sergileri-ve-etkinlikleri-detayli-rehber-butce-ve-seyahat-ipuclari) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Türkiye Eğitim Teknolojileri Zirvesi 2026 Başlıyor!](https://www.turkgun.com/gundem/turkiye-egitim-teknolojileri-zirvesi-2026-basliyor-20den-fazla-ulke-istanbulda-bulusacak/381580) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Yeni Nesil Ticaret ve Teknoloji Zirvesi - 2026](https://www.anadolubilisimbulusmalari.com/yeni-nesil-ticaret-ve-teknoloji-zirvesi-2026/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Milli Teknoloji Zirvesi Başlıyor: Geleceğin Teknolojileri İTÜ'de...](https://www.loncahaber.com/milli-teknoloji-zirvesi-basliyor-gelecegin-teknolojileri-itude-bulusuyor/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Sürdürülebilirlik Zirvesi 2026](https://event.hbrturkiye.com/register/surdurulebilirlik-zirvesi-2026?lang=en) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Eğitim Teknolojileri Zirvesi 2026'da Yapay Zeka ve Kuantum Tartışıldı](https://www.gundemce.com.tr/egitim/egitim-teknolojileri-zirvesi-2026-yapay-zeka-ve-kuantum-gundemde/4170) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Yeni Nesil Ticaret Ve Teknoloji Zirvesi 2026 İçin Geri Sayım!](https://marketinghaber.com/yeni-nesil-ticaret-ve-teknoloji-zirvesi-2026-icin-geri-sayim/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Data Center Eurasia 2026 | Mono Tasarım](https://www.monotasarim.com/data-center-eurasia-2026/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [DCE - Data Center Eurasia 2025 | İFM - İstanbul Fuar Merkezi](https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2025) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [İstanbul Etkinlik Takvimi Ağustos 2026 | EventPal](https://eventpal.co/istanbul/etkinlik-takvimi) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Data Center Ankara Konferansı | Türkiye Eğitim Kampüsü](https://www.bilimsenligi.com/data-center-ankara-konferansi.html/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [European Central Bank](https://www.ecb.europa.eu/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Restored Republic via a GCR as of August 11, 2026](https://operationdisclosureofficial.com/2026/08/11/restored-republic-via-a-gcr-as-of-august-11-2026/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [10 earthquakes of 7+ magnitudes in 8 months — is 2026 really the end?](https://www.moneycontrol.com/science/10-earthquakes-of-7-magnitudes-in-8-months-is-2026-really-the-end-here-s-the-answer-article-14002071.html) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [REGISTRY_ERROR (0x51) в Windows 10/11 — как исправить (2026)](https://compmaster.site/articles/bsod-registry-error-windows-10-11.html) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [NEWSLETTER](https://www.bancaditalia.it/pubblicazioni/newsletter-cooperazione/2026-newsletter-cooperazione/Newsletter_26.pdf) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Silk Road Finance & Technology Forum | Home](https://www.silkroadfinancetechnologyforum.com/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [TRONSCAN | TRON BlockChain Explorer | 波场区块链浏览器](https://tronscan.io/?lang=en) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Post-Quantum Cryptography - webinar - 29 June 2026 - eestel.org](https://eestel.org/agenda/webinar-pqc-june-2026/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Post-Quantum Cryptography Is Here: What Are You Waiting For?](https://www.bankinfosecurity.asia/webinars/post-quantum-cryptography-here-what-are-you-waiting-for-w-5797) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Publish-Quantum Cryptography Webinar for Safety Leaders](https://www.linkedin.com/posts/nexttech-news_post-quantum-cryptography-webinar-for-security-activity-7436583503699472384--drL) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [FREE AI Governance webinar hosted by our very own MarKeisha...](https://www.linkedin.com/posts/rickywestmba_free-ai-governance-webinar-hosted-by-our-activity-7448371635385954304-7WJn) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Govern AI Spend at Scale: A Data-Driven Approach t... - Databricks...](https://community.databricks.com/t5/learning-events/govern-ai-spend-at-scale-a-data-driven-approach-to-ai-governance/ev-p/164253) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Agentic AI: Automating the impossible to redefine... | Iron Mountain](https://reach.ironmountain.com/EDU-2026-Webinar-5-Agentic-AI) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Around the Grounds | Broderick Smith presents on AI & Data...](https://tfiq.co/webinar-ai-and-data-governance/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Amplitude | A new era for product teams](https://amplitude.com/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Gartner | Delivering Actionable, Objective Insight to Executives and...](https://www.gartner.com/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Secure Banking Login - ING](https://www.ing.com.au/securebanking/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Bank of Kigali - Internet Banking | Secure Online Banking Services](https://onlinebanking.bk.rw/) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [CBDC 101: Central Bank Digital Currencies Explained](https://www.brighttalk.com/webcast/14309/544201) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Fintech Webinars and Training - BrightTALK](https://www.brighttalk.com/topic/fintech) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [FinTech - BrightTALK](https://www.brighttalk.com/channel/13689) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
+- [Financial Technology Webinars and Training - BrightTALK](https://www.brighttalk.com/topic/financial-technology) — tarih belirtilmemiş — format bilinmiyor _(kaynak: ddg-kesif)_
