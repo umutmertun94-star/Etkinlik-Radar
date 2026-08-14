@@ -1633,5 +1633,35 @@
   "needs_review": false,
   "extra": {},
   "id": "5a375352cbc588a5"
+ },
+ {
+  "title": "API Conference Berlin",
+  "url": "https://apiconference.net/berlin",
+  "category": "siber-guvenlik",
+  "source": "confstech",
+  "start_date": "2026-11-16",
+  "end_date": "2026-11-20",
+  "city": "Berlin",
+  "country": "Germany",
+  "online": true,
+  "first_seen": "2026-08-14",
+  "needs_review": false,
+  "extra": {},
+  "id": "d44c8026ae088ba7"
+ },
+ {
+  "title": "MLCon Berlin",
+  "url": "https://mlconference.ai/berlin",
+  "category": "yapay-zeka",
+  "source": "confstech",
+  "start_date": "2026-11-16",
+  "end_date": "2026-11-20",
+  "city": "Berlin",
+  "country": "Germany",
+  "online": true,
+  "first_seen": "2026-08-14",
+  "needs_review": false,
+  "extra": {},
+  "id": "d10b8bf5f2fde647"
  }
 ]

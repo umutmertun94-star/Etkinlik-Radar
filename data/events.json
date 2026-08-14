@@ -1080,6 +1080,36 @@
   "id": "a42edb6d57fb3d79"
  },
  {
+  "title": "API Conference Berlin",
+  "url": "https://apiconference.net/berlin",
+  "category": "siber-guvenlik",
+  "source": "confstech",
+  "start_date": "2026-11-16",
+  "end_date": "2026-11-20",
+  "city": "Berlin",
+  "country": "Germany",
+  "online": true,
+  "first_seen": "2026-08-14",
+  "needs_review": false,
+  "extra": {},
+  "id": "d44c8026ae088ba7"
+ },
+ {
+  "title": "MLCon Berlin",
+  "url": "https://mlconference.ai/berlin",
+  "category": "yapay-zeka",
+  "source": "confstech",
+  "start_date": "2026-11-16",
+  "end_date": "2026-11-20",
+  "city": "Berlin",
+  "country": "Germany",
+  "online": true,
+  "first_seen": "2026-08-14",
+  "needs_review": false,
+  "extra": {},
+  "id": "d10b8bf5f2fde647"
+ },
+ {
   "title": "NextGen Intelligence Conference: Data, Cloud & AI",
   "url": "https://techaiconf.com",
   "category": "genel-bt",
@@ -1633,5 +1663,869 @@
   "needs_review": false,
   "extra": {},
   "id": "5a375352cbc588a5"
+ },
+ {
+  "title": "\"GITEX Ai Türkiye 2026\" Etkinliği Eylülde İstanbul'da Düzenlenece...",
+  "url": "https://www.aa.com.tr/tr/ekonomi/gitex-ai-turkiye-2026-etkinligi-eylulde-istanbulda-duzenlenecek/4026091",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Dünyanın teknoloji ve yapay zeka etkinlik ağlarından GITEX kapsamında ilk kez düzenlenecek \"GITEX Ai Türkiye 2026\", 9-10 Eylül'de İstanbul Fuar Merkezi'nde yapılacak."
+  },
+  "id": "e213bedcaf1149c5"
+ },
+ {
+  "title": "2026 AI Laws Update: Key Regulations and Practical Guidance",
+  "url": "https://www.gunder.com/en/news-insights/insights/2026-ai-laws-update-key-regulations-and-practical-guidance",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance regulation webinar 2026",
+   "snippet": "Feb 5, 2026 · This section summarizes a growing set of state AI regulations that reflect a shift toward comprehensive AI governance frameworks, particularly for AI systems used in high-impact contexts"
+  },
+  "id": "ae8e94515a495ab1"
+ },
+ {
+  "title": "2026 Annual International Journal of Central Banking ...",
+  "url": "https://www.ssrn.com/index.cfm/en/janda/announcement/?id=18536",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "December 23, 2025 - The International Journal of Central Banking (IJCB) is organizing its 2026 annual conference on “New Technologies and Their Implications for Monetary Policy and Financial Stability"
+  },
+  "id": "e3465d8c24465af7"
+ },
+ {
+  "title": "2026 PQC Forum | Post-Quantum Cryptography Coalition",
+  "url": "https://pqcc.org/2026-pqc-forum/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "quantum cryptography PQC webinar 2026",
+   "snippet": "Aug 5, 2026 · About the 2026 Post-Quantum Cryptography Forum Under Chatham House Rule, the in-person-only forum will convene leaders from industry, government, and academia to address the pressing cha"
+  },
+  "id": "1ea42a1212676338"
+ },
+ {
+  "title": "2026 Post-Quantum Cryptography Summit - In Person 9/16/26 - GSA",
+  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-in-person-91626",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "quantum cryptography PQC webinar 2026",
+   "snippet": "Aug 6, 2026 · From federal migration strategy and marketplace dynamics to hands-on implementation guidance and global threat analysis, this hybrid summit will equip federal agencies with the knowledge"
+  },
+  "id": "54ffae2d5815cf44"
+ },
+ {
+  "title": "2026: Privacy, AI, and the New Rules of Trust Webinar ...",
+  "url": "https://www.onetrust.com/resources/2026-privacy-ai-and-the-new-rules-of-trust-webinar/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance regulation webinar 2026",
+   "snippet": "Explore how privacy, data, and AI governance intersect as 2026 approaches. Industry experts share lessons from 2025, regulatory shifts, and strategies leading organizations use to prepare for the futu"
+  },
+  "id": "08d78f461377c872"
+ },
+ {
+  "title": "AI Compliance & IT Governance for 2026: - I.T. For Less",
+  "url": "https://www.itforless.com/webinars/it-services-training/ai-compliance-it-governance-for-2026-training",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance regulation webinar 2026",
+   "snippet": "In this session, you’ll gain a clear understanding of how AI compliance and IT governance are evolving in 2026. We’ll discuss real-world regulatory expectations, common audit challenges, and how organ"
+  },
+  "id": "ed87c2169631e3db"
+ },
+ {
+  "title": "AI Governance Webinar Series for Executives | DATAVERSITY",
+  "url": "https://www.dataversity.net/webinar/annual-executive-briefing-leading-ai-governance-webinar-series/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance regulation webinar 2026",
+   "snippet": "The Leading AI Governance series was created to help executive and data leaders stay aligned, informed, and prepared to manage real-world AI risks at scale. With one registration, you will receive acc"
+  },
+  "id": "3a2b5d2b4db66009"
+ },
+ {
+  "title": "AI Governance and Regulation 2026: A Complete Guide to Global ...",
+  "url": "https://www.hungyichen.com/en/insights/ai-governance-regulatory-landscape-2026",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance regulation webinar 2026",
+   "snippet": "This guide maps every major AI regulation framework, compares enforcement mechanisms, and provides a compliance roadmap for enterprises operating across jurisdictions."
+  },
+  "id": "01014cd834937357"
+ },
+ {
+  "title": "AI Tomorrow Summit' Etkinliğinde Yapay Zekanın E-Ticaret...",
+  "url": "https://www.sabirgazetesi.com/ai-tomorrow-summit-etkinliginde-yapay-zekanin-e-ticaret-uygulamalarina-etkisi-ele-alindi",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "ANKARA (AA) - Yapay Zeka Politikaları Derneğince (AIPA) düzenlenen 'AI Tomorrow Summit 2026' etkinliğinde yapay zekanın e-ticaret uygulamalarında kullanımı ele alındı."
+  },
+  "id": "62f9b194566a9ddf"
+ },
+ {
+  "title": "Anasayfa | Türkiye Yapay Zeka İnisiyatifi",
+  "url": "https://turkiye.ai/",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "420’den fazla kurumdan 1.800’ün üzerinde katılımcıyı bir araya getiren Türkiye Yapay Zeka Zirvesi, 2026’da da ekosistemin en kapsamlı buluşması olacak."
+  },
+  "id": "4f490ed4eb082584"
+ },
+ {
+  "title": "CB DC Conference 2026 Amsterdam | 27th - 29th oct 2026 ...",
+  "url": "https://events.coinpedia.org/cb-dc-conference-2026-amsterdam-8361/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments conference 2026 online",
+   "snippet": "Join the CB DC Conference 2026 Amsterdam, held from 27th to 29th October 2026, in Amsterdam."
+  },
+  "id": "5496d55526f2ad01"
+ },
+ {
+  "title": "CB+DC Conference 2026 - Amsterdam - The Paypers",
+  "url": "https://thepaypers.com/crypto-web3-and-cbdc/events/cbdc-conference-2026-amsterdam",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments conference 2026 online",
+   "snippet": "The CB+DC Conference is a leading global gathering focused on digital currencies—including CBDCs, stablecoins, and tokenized deposits—and the broader payments landscape."
+  },
+  "id": "fa1ad3a93cc06168"
+ },
+ {
+  "title": "CB+DC Conference 2026 - Emerging Payments Association Asia",
+  "url": "https://emergingpaymentsasia.org/epaa-events/cbdc-conference-2026/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments conference 2026 online",
+   "snippet": "May 12, 2026 · CB+DC Conference 2026 When May 12, 2026 - May 14, 2026 9:00 am - 5:00 pm Add To Calendar Download ICS Google Calendar iCalendar Office 365 Outlook Live"
+  },
+  "id": "a02b89bfef248adb"
+ },
+ {
+  "title": "CBDC Conference - Amsterdam, Netherlands - About",
+  "url": "https://cbdc-conference.com/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments conference 2026 online",
+   "snippet": "Discover how digital currencies are reshaping domestic and cross-border B2B payments, streamlining operations, and creating new opportunities for businesses. Understand the evolving regulatory landsca"
+  },
+  "id": "5d8facfab0351e76"
+ },
+ {
+  "title": "CBDC Conference - Amsterdam, Netherlands - RegistrationCB+DC Conference 2026 - Amsterdam - The PaypersCB DC Conference 2026 Amsterdam | 27th - 29th oct 2026 ...CB+DC Conference 2026 - Emerging Payments Association AsiaCentral Bank Digital Currencies (cbdc) Conferences 2026/2027 ...CBDC Conference - Amsterdam, Netherlands - Networking ...",
+  "url": "https://cbdc-conference.com/registration",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments conference 2026 online",
+   "snippet": "The registration rates will be published soon. Should you have any questions related to your registration, please contact us at This email address is being protected from spambots. You need JavaScript"
+  },
+  "id": "ace876c929c97d2e"
+ },
+ {
+  "title": "Central Bank Digital Currencies (cbdc) Conferences 2026/2027 ...",
+  "url": "https://conferenceindex.org/conferences/central-bank-digital-currencies-cbdc",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "CBDC payments conference 2026 online",
+   "snippet": "Central Bank Digital Currencies (cbdc) Conferences 2026 2027 2028 is for the researchers, scientists, scholars, engineers, academic, scientific and university practitioners to present research activit"
+  },
+  "id": "c566a715a9dcfbca"
+ },
+ {
+  "title": "Conference - AI & CB Conference",
+  "url": "https://www.ai-cb.org/agenda",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "Dec 11, 2024 · Attendees will gain insights into practical frameworks for responsible AI deployment in central banking and explore real-world examples of how institutions are navigating this complex y"
+  },
+  "id": "7aa7e48f630a26fe"
+ },
+ {
+  "title": "Course program for 2026: more sessions in person, more ...",
+  "url": "https://www.bundesbank.de/en/bundesbank/international-central-bank-dialogue/newsletter/ausgaben/course-program-for-2026-more-sessions-in-person-more-practical-takeaways-more-networking-968014",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "4 days ago · Our course program for 2026 is about more than just continued professional development – it’s an opportunity to engage with experts, build networks with other central banks, gain new pers"
+  },
+  "id": "63626c0dbc465e87"
+ },
+ {
+  "title": "Cryptography Webinar | Advances in Post-Quantum Cryptography",
+  "url": "https://sciforum.net/event/Cryptography-1",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "quantum cryptography PQC webinar 2026",
+   "snippet": "Jul 24, 2026 · To prepare for this threat, many countries and international standards organizations have initiated the standardization and migration of post-quantum cryptographic schemes. To help prom"
+  },
+  "id": "90c74d9df252268e"
+ },
+ {
+  "title": "Cybersecurity Conferences 2026 - 2027 | Over 3.4K Events | Concise AC",
+  "url": "https://translate.google.com/translate?u=https://infosec-conferences.com/&hl=tr&sl=en&tl=tr&client=srp",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "The Consortium for School Networking CoSN 2026 Annual Conference gathers K-12 education technology leaders and professionals to explore major trends shaping digital transformation in schools. The even"
+  },
+  "id": "9186199923e2937a"
+ },
+ {
+  "title": "Data Center Events 2026: Previewing the Biggest Conferences",
+  "url": "https://www.datacenterknowledge.com/data-center-construction/data-center-events-2026-previewing-the-biggest-data-center-conferences-of-the-year",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center summit 2026 Europe online",
+   "snippet": "July 1, 2026 - Additional summits are slated for Milan, Toronto, Warsaw, and Zurich. Event website · Related:Data Center Outlook 2026: Today’s Innovations, Tomorrow’s Reality · Europe’s largest data c"
+  },
+  "id": "6929d2ef291c3417"
+ },
+ {
+  "title": "Data Center World Europe | Vienna, Austria | 13-14 October 2026",
+  "url": "https://datacenterworldeurope.com/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center summit 2026 Europe online",
+   "snippet": "Data Center World Europe is the premier event for data centre innovation and leadership. Join industry experts to discover cutting-edge solutions and advancements shaping the future of data centres. J"
+  },
+  "id": "66fc9f0164ce643f"
+ },
+ {
+  "title": "Data Centre Events Calendar 2026",
+  "url": "https://dataxconnect.com/insights-data-centre-events-calendar-2026/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center summit 2026 Europe online",
+   "snippet": "January 22, 2026 - This is a very useful and well-structured overview of upcoming data centre events in 2026. I like how it brings everything together in one place, making it easier for professionals "
+  },
+  "id": "7ead3e511b252163"
+ },
+ {
+  "title": "Data Innovation Summit 2026 | data.europa.eu - European Data",
+  "url": "https://data.europa.eu/en/news-events/events/data-innovation-summit-2026",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center summit 2026 Europe online",
+   "snippet": "The official portal for European data · External event · Data Innovation Summit 2026 · 06 May 2026-08 May 2026 · Online · The Data Innovation Summit takes place from 6 to 8 May 2026 in Stockholm and i"
+  },
+  "id": "c77e468a0018bb81"
+ },
+ {
+  "title": "Datacloud Global Congress 2026 | Cannes | June 1 - 4",
+  "url": "https://www.datacloudglobalcongress.com/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center summit 2026 Europe online",
+   "snippet": "Join 6,000+ leaders at Datacloud Global Congress 2026 in Cannes. The premier event for data centers, cloud, AI, and digital infrastructure investment."
+  },
+  "id": "12f726c7e5c2c726"
+ },
+ {
+  "title": "ECB Forum on Central Banking 2026",
+  "url": "https://www.ecb.europa.eu/press/conferences/html/20260629_ecb_forum_on_central_banking.en.html",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purch"
+  },
+  "id": "a48031aea1f58753"
+ },
+ {
+  "title": "En Son Olay | Dünya Yapay Zeka Konferansı, 2026'da Gerçekleşecek!",
+  "url": "https://www.ensonolay.com.tr/gundem/dunya-yapay-zeka-konferansi-2026da-gerceklesecek/58039",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "İstanbul. Açık. 3°.2026 Dünya Yapay Zeka Konferansı ve Küresel Yapay Zeka Yönetişimi Üst Düzey Toplantısı 17 ile 20 Temmuz günlerinde Shanghai’da düzenlenecek."
+  },
+  "id": "d0a65fe377ea264f"
+ },
+ {
+  "title": "Eğitimde Yapay Zeka Dönemi İstanbul’da Masaya Yatırıldı | Havadis",
+  "url": "https://www.havadis.com/istanbul/egitimde-yapay-zeka-donemi-istanbulda-masaya-yatirildi/437578",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "YAYINLAMA: 28 Haziran 2026 - 18:27.Milli Eğitim Bakanı Yusuf Tekin’in açılışını yaptığı etkinlikte, yapay zekadan dijital becerilere kadar pek çok başlık uzmanlar tarafından derinlemesine analiz edild"
+  },
+  "id": "1c9ae523b4002060"
+ },
+ {
+  "title": "FinAi Banking Summit 2026 AGENDA - FinAi Events",
+  "url": "https://finai.events/banking/2026-agenda/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "In this interactive workshop, participants will map out key moments and trends in FinAi’s past, present, and future while identifying patterns that will help inform 2026 banking technology strategies."
+  },
+  "id": "6bb73035c3c46e17"
+ },
+ {
+  "title": "ICCSDFAI 2026 Konferansı başladı - Bursa Haber",
+  "url": "https://www.bursahaber.com/teknoloji/iccsdfai-2026-konferansi-basladi-2768477",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "June 26, 2026 - Bu yıl 21-22 Ekim 2026 tarihinde 19. sunu yapacağımız IEEE Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansında (ISCTürkiye 2026) Türk Siber Güvenlik İttifakına giden yolu detaylıc"
+  },
+  "id": "e643d7e1f87e3fa1"
+ },
+ {
+  "title": "ICCSDFAI 2026 Konferansı başladı - Haberler",
+  "url": "https://www.haberler.com/teknoloji/iccsdfai-2026-konferansi-basladi-19990792-haberi/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "June 26, 2026 - Bu yıl 21-22 Ekim 2026 tarihinde 19. sunu yapacağımız IEEE Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansında (ISCTürkiye 2026) Türk Siber Güvenlik İttifakına giden yolu detaylıc"
+  },
+  "id": "afa67469ec66fa5c"
+ },
+ {
+  "title": "ICCSDFAI 2026 Konferansı başladı - Mavi Marmara Gazetesi",
+  "url": "https://www.mavimarmaragazetesi.com/haber/28267180/iccsdfai-2026-konferansi-basladi",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "July 1, 2026 - Siber güvenlik, dijital adli bilişim ve yapay zekâ uygulamalarını uluslararası bir zeminde buluşturan 'Uluslararası Siber Güvenlik, Dijital Adli Bilişim ve Yapay Zeka Uygulamaları (ICCS"
+  },
+  "id": "b704fa7902bf29df"
+ },
+ {
+  "title": "ISC Türkiye – ISC Türkiye",
+  "url": "https://iscturkiye.com/en/anasayfa-english/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "ISC Türkiye +90 (312) 231 18 10 · Mutlukent Mahallesi 1979. Cad. Binsesin Sitesi No: 15/3 Ümitköy Çankaya/ANKARA, Türkiye"
+  },
+  "id": "02e2000e71f42a13"
+ },
+ {
+  "title": "Londra'da “Yapay Zekanın Gücü: İşinizi Dönüştürmek” Etkinliği...",
+  "url": "https://www.yesilisplatformu.com/londrada-yapay-zekanin-gucu-isinizi-donusturmek-etkinligi-gerceklestirildi/",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Konferanslar.Centrica Grubu AI & Strateji Direktörü Ulaş Mallı’nın moderatörlüğünde ve Vodafone Grubu AI & Data Direktörü Ignacio Garcia ile Meta Grubu Stratejik Planlama Ortağı Zehra Chatoo’nun yer a"
+  },
+  "id": "6f84dcd18818d810"
+ },
+ {
+  "title": "Markaların Geleceği Ankara’da Konuşulacak: Yapay Zeka Odaklı...",
+  "url": "https://www.turkhavadis.com/markalarin-gelecegi-ankarada-konusulacak-yapay-zeka-odakli-buyuk-bulusma-basliyor",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Ankara Ticaret Odası’nın paylaştığı bilgilere göre, 5. Uluslararası Ankara Marka Buluşmaları bu yıl yapay zeka temasıyla düzenlenecek. “BRAiND Conference” başlığıyla gerçekleştirilecek etkinlik, 24-25"
+  },
+  "id": "ffc928157fa27bf3"
+ },
+ {
+  "title": "Overview | Data Center World Europe",
+  "url": "https://datacenterworldeurope.com/conference-overview/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "data center summit 2026 Europe online",
+   "snippet": "Discover the ultimate European destination for data centre innovation, leadership, and excellence. Join us from 13-14 October 2026, at VIECON – Vienna Congress & Convention Center, and experience grou"
+  },
+  "id": "c3bbbb825d5d86f0"
+ },
+ {
+  "title": "PQC – Where to Start, What to Prioritize, and How to ...",
+  "url": "https://pqca.org/webinars/2026/pqc-where-to-start-what-to-prioritize-and-how-to-facilitate-a-smooth-transition/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "quantum cryptography PQC webinar 2026",
+   "snippet": "Apr 14, 2026 · The shift to Post-Quantum Cryptography (PQC) can feel overwhelming for large enterprises, but a structured approach makes it manageable. This session provides a practical roadmap for na"
+  },
+  "id": "287690a933d8499d"
+ },
+ {
+  "title": "Post-quantum cryptography",
+  "url": "https://www.pqcrypto.org/conferences.html",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "quantum cryptography PQC webinar 2026",
+   "snippet": "Apr 11, 2019 · PQCrypto is the main conference series devoted to post-quantum cryptography: #17: PQCrypto 2026. Saint-Malo, France, 14–16 April 2026. https://pqcrypto2026.irisa.fr/. #16: PQCrypto 2025"
+  },
+  "id": "ac10b600356839f2"
+ },
+ {
+  "title": "Siber Güvenlik Zirvesi ’26: Sektör Profesyonelleri ve Geleceğin Uzmanları Buluşuyor",
+  "url": "https://www.techetkinlik.com/2026/03/24/siber-guvenlik-zirvesi-26-sektor-profesyonelleri-ve-gelecegin-uzmanlari-bulusuyor/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "March 24, 2026 - Siber güvenlik alanındaki en güncel gelişmelerin tartışılacağı ve sektörün önde gelen isimlerinin deneyimlerini aktaracağı Siber Güvenlik Zirvesi '26, Ankara Üniversitesi ev sahipliği"
+  },
+  "id": "9b5d155d4a09e85b"
+ },
+ {
+  "title": "T.C. İletişim Başkanlığı on X: \"Siber Güvenlik Kurulu, 5 Mayıs 2026 tarihinde Türkiye Cumhuriyeti Cumhurbaşkanı Sayın Recep Tayyip Erdoğan başkanlığında toplanmıştır. Toplantıda; ülkemizin siber güvenliğini ilgilendiren başlıklar kapsamlı biçimde ele alınmıştır. Mevcut risklerin yanı sıra önümüzdeki döneme ilişkin eğilimler de bütüncül bir yaklaşımla değerlendirilmiş; son dönemde yaşanan uluslararası gelişmeler hakkında Kurula bilgi sunulmuştur. Siber gü",
+  "url": "https://x.com/iletisim/status/2051674563054903405",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "May 5, 2026 - Siber Güvenlik Kurulu, 5 Mayıs 2026 tarihinde Türkiye Cumhuriyeti Cumhurbaşkanı Sayın Recep Tayyip Erdoğan başkanlığında toplanmıştır. Toplantıda; ülkemizin siber güvenliğini ilgilendire"
+  },
+  "id": "32b623882850cb5a"
+ },
+ {
+  "title": "TBD 9. Siber Güvenlik Ekosisteminin Geliştirilmesi Zirvesi",
+  "url": "https://www.siberguvenlikzirvesi.org.tr/2026/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "9. Siber Güvenlik Ekosisteminin Geliştirilmesi Zirvesi 2 Nisan 2026 tarihinde Ankara'da gerçekleştirilecektir."
+  },
+  "id": "b72f8a04412b5643"
+ },
+ {
+  "title": "The 9 Biggest AI Conferences for Financial Services, Banking & Fintech in 2026 | Fintech Labs",
+  "url": "https://fintechlabs.com/the-biggest-ai-in-financial-services-conferences/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "May 18, 2026 - As artificial intelligence becomes a clear competitive advantage in financial services, it's time to register for the 2026 AI events. For the most part, very-early-bird prices are still"
+  },
+  "id": "051187aa3984a7d9"
+ },
+ {
+  "title": "The Central Bank AI Conference - GDF",
+  "url": "https://www.gdf.io/events/the-central-bank-ai-conference/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "September 24, 2024 - The Central Bank AI Conference focuses on a central banker’s perspective on future applications of artificial intelligence, be it at the central bank or institutions under the cen"
+  },
+  "id": "39398415e3d0fb7c"
+ },
+ {
+  "title": "The Central Bank Payments Conference - Currency Research",
+  "url": "https://currencyresearch.com/the-central-bank-payments-conference/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI conference 2026",
+   "snippet": "Looking ahead to 2026, the Central Bank Payments Conference will continue its global journey in Istanbul, Türkiye, offering yet another opportunity for senior leaders across the industry to connect, c"
+  },
+  "id": "1d393cc9ac84dee6"
+ },
+ {
+  "title": "Türkiye Teknoloji Pazarı Yapay Zeka Yatırımlarıyla Dünya Sahnesine...",
+  "url": "https://www.platinonline.com/teknoloji/turkiye-teknoloji-pazari-yapay-zeka-yatirimlariyla-dunya-sahnesine-cikiyor-1099131",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "GITEX Ai Türkiye 2026; sınır ötesi ortaklıkların, ileri üretim alanındaki iş birliklerinin, sermaye akışlarının ve yetenek ve bilgi paylaşımının önünü açarak Türkiye'nin yapay zekâ ekonomisinin gelece"
+  },
+  "id": "263a485c2c7f36a5"
+ },
+ {
+  "title": "Webinars – Post-Quantum Cryptography Alliance",
+  "url": "https://pqca.org/webinars/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "quantum cryptography PQC webinar 2026",
+   "snippet": "Jun 1, 2026 · PQCA Webinars are a community-driven platform for sharing innovation, technical insights, and real-world experiences in post-quantum cryptography. We welcome submissions from PQCA member"
+  },
+  "id": "264d5d0efeac2d93"
+ },
+ {
+  "title": "World AI Regulation Summit 2026 | London, 5-6 November",
+  "url": "https://worldairegulation.org/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-14",
+  "needs_review": true,
+  "extra": {
+   "query": "AI governance regulation webinar 2026",
+   "snippet": "The World AI Regulation Summit 2026 is a high-level global forum dedicated exclusively to AI regulation, bringing together policymakers, regulators, and industry leaders to shape regulatory approaches"
+  },
+  "id": "4075b2b8ec31c6c0"
  }
 ]
