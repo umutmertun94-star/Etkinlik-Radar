@@ -65,14 +65,20 @@ def main() -> int:
         all_new += new
         print(f"[{src['id']}] {len(fetched)} kayıt tarandı, {len(new)} yeni")
 
-    store.prune(existing)
-    store.save(existing)
-
-    # Faz 2: OPENROUTER_API_KEY tanımlıysa ipuçlarını LLM ile ele
+    # Faz 2: ipuçlarını LLM ile ele/terfi ettir — kayıttan ÖNCE ki
+    # çıkarılan tarihler depoya ve dashboard'a işlensin
     from .llm_filter import score_leads
     leads = [e for e in all_new if e.get("needs_review")]
     confirmed = [e for e in all_new if not e.get("needs_review")]
-    all_new = confirmed + score_leads(leads)
+    passed = score_leads(leads)
+    # eşiği geçemeyen ipuçları depoda gürültü olarak kalmasın
+    for e in leads:
+        if e not in passed:
+            existing.pop(e["id"], None)
+    all_new = confirmed + passed
+
+    store.prune(existing)
+    store.save(existing)
 
     b = write_bulletin(all_new, existing)
     d = write_dashboard(existing)

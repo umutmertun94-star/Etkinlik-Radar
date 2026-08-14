@@ -34,9 +34,12 @@ KURALLAR:
 Her sonuç için:
 - relevance: 0-10
 - is_event: sayfa gerçekten yaklaşan bir etkinliğin duyurusu mu (true/false)
+- start_date: başlık/özette etkinlik tarihi AÇIKÇA varsa "YYYY-MM-DD", yoksa null
+  (tahmin etme; sadece metinde geçen tarihi yaz)
+- online: webinar/online olduğu belliyse true, yüz yüze olduğu belliyse false, belirsizse null
 
 SADECE şu JSON formatında yanıt ver, başka hiçbir şey yazma:
-{"results": [{"i": 0, "relevance": 8, "is_event": true}, ...]}
+{"results": [{"i": 0, "relevance": 8, "is_event": true, "start_date": "2026-09-15", "online": true}, ...]}
 
 Sonuçlar:
 """
@@ -83,6 +86,13 @@ def score_leads(leads: list[dict]) -> list[dict]:
             s = scores.get(j, {})
             e.setdefault("extra", {})["llm_relevance"] = s.get("relevance")
             if s.get("relevance", 10) >= THRESHOLD and s.get("is_event", True):
+                # tarih çıkarılabildiyse ipucu dashboard'a terfi eder
+                if s.get("start_date") and not e.get("start_date"):
+                    e["start_date"] = s["start_date"]
+                    e["needs_review"] = False
+                    e["extra"]["llm_extracted"] = True
+                if s.get("online") is not None and e.get("online") is None:
+                    e["online"] = s["online"]
                 kept.append(e)
 
     print(f"[llm-filtre] {len(leads)} ipucundan {len(kept)} tanesi eşiği geçti")

@@ -69,6 +69,11 @@ sources:
       - {q: "Gartner webinar AI security banking",              category: genel-bt, max: 5}
       - {q: "BrightTALK webinar central banking fintech",       category: merkez-bankaciligi, max: 5}
       - {q: "enterprise IT webinar 2026 free registration",     category: genel-bt, max: 5}
+      # --- Türkiye meetup/topluluk keşfi ---
+      - {q: "TRAI yapay zeka meetup etkinlik",                  category: yapay-zeka, max: 6}
+      - {q: "kommunity.com yapay zeka etkinlik Ankara İstanbul", category: yapay-zeka, max: 6}
+      - {q: "site:brighttalk.com webinar central bank fintech", category: merkez-bankaciligi, max: 6}
+      - {q: "site:gartner.com/en/webinar",                      category: genel-bt, max: 6}
 
   # ---------- Google Alerts (RSS) ----------
   # Kurulum: google.com/alerts → sorgu oluştur → "Teslim: RSS özet akışı"
@@ -107,16 +112,28 @@ sources:
     selectors: {item: ".event-card", title: "h3", link: "a", date: ".date"}
 
   # ---------- Türkiye ----------
+  # Topluluk slug'ları kommunity.com'da topluluğun adres çubuğundan alınır
+  # (kommunity.com/<slug>). Yenilerini listeye ekleyin yeter.
   - id: kommunity
-    type: html
-    enabled: false
-    url: https://kommunity.com/events
-    category: genel-bt
-    selectors: {item: ".event-card", title: ".title", link: "a", date: ".date"}
+    type: kommunity
+    category: yapay-zeka
+    communities:
+      - turkiye-yapay-zeka-inisiyatifi   # TRAI — slug'ı adres çubuğundan doğrulayın
+      # - ankara-ai                       # örnek: başka topluluklar buraya
 
   # ---------- Vendor / analist webinarları ----------
   # Aşağıdakiler webinar yoğun platformlar; CSS seçicileri Claude Code ile
   # site site ayarlanacak (bazıları JS ağırlıklı, uyarlama gerekebilir).
+  # BrightTALK: her kanalın RSS'i vardır → kanal sayfasındaki numarayı alın,
+  # https://www.brighttalk.com/channel/<KANAL_NO>/feed adresini url'e yazın,
+  # enabled: true yapın. (Önerilen kanallar: central banking, cyber, AI konulu
+  # olanlar — kanal numaralarını siteden bakıp ekleyeceğiz.)
+  - id: brighttalk-ornek-kanal
+    type: rss
+    enabled: false
+    url: "https://www.brighttalk.com/channel/KANAL_NO/feed"
+    category: merkez-bankaciligi
+
   - id: gartner-webinars
     type: html
     enabled: false

@@ -176,7 +176,51 @@ def fetch_manual(src: dict) -> list[Event]:
     return events
 
 
+# ------------------------------------------------------------ kommunity
+def fetch_kommunity(src: dict) -> list[Event]:
+    """kommunity.com toplulukları (TRAI vb. Türkiye teknoloji meetupları).
+
+    Sitenin kendi API ucunu kullanır; şema değişirse loglardan görülür,
+    alanlar savunmacı okunur.
+    """
+    events: list[Event] = []
+    for slug in src.get("communities", []):
+        url = f"https://api.kommunity.com/api/v1/{slug}/events?page=1"
+        try:
+            data = _get(url).json()
+        except Exception as ex:
+            print(f"[{src['id']}] {slug}: erişilemedi ({ex})")
+            continue
+        items = data.get("data") or data.get("events") or []
+        if not items:
+            print(f"[{src['id']}] {slug}: kayıt gelmedi (şema kontrolü gerekebilir)")
+        for it in items:
+            title = it.get("name") or it.get("title") or ""
+            eslug = it.get("slug") or ""
+            eurl = it.get("detail_url") or (
+                f"https://kommunity.com/{slug}/events/{eslug}" if eslug else "")
+            sd = it.get("start_date")
+            if isinstance(sd, dict):
+                sd = sd.get("date") or sd.get("iso") or None
+            if isinstance(sd, str):
+                sd = sd[:10]
+            venue = (it.get("venue") or {}) if isinstance(it.get("venue"), dict) else {}
+            online = it.get("is_online")
+            events.append(Event(
+                title=title, url=eurl,
+                category=src.get("category", "genel-bt"),
+                source=src["id"],
+                start_date=sd,
+                city=venue.get("city") or "İstanbul/Ankara?",
+                country="Türkiye",
+                online=bool(online) if online is not None else None,
+                needs_review=sd is None,
+            ))
+    return events
+
+
 FETCHERS = {
+    "kommunity": fetch_kommunity,
     "manual": fetch_manual,
     "confstech": fetch_confstech,
     "rss": fetch_rss,
