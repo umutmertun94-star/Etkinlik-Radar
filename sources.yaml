@@ -29,6 +29,12 @@ sources:
         city: Dubai (Expo City)
         country: United Arab Emirates
         online: false
+      # Tekrarlayan seri: her ayın 3. çarşambası, YouTube canlı yayını
+      - title: "TRAI Meet-Up (aylık yapay zeka buluşması)"
+        url: https://turkiye.ai/trai-meet-up/
+        category: yapay-zeka
+        online: true
+        recurring: {weekday: 2, ordinal: 3, months_ahead: 3}
       # örnek şablon:
       # - title: ""
       #   url: ""
@@ -114,8 +120,12 @@ sources:
   # ---------- Türkiye ----------
   # Topluluk slug'ları kommunity.com'da topluluğun adres çubuğundan alınır
   # (kommunity.com/<slug>). Yenilerini listeye ekleyin yeter.
+  # TRAI kommunity'de değil (Meetup + turkiye.ai kullanıyorlar; çekirdek
+  # listeye tekrarlayan seri olarak eklendi). Başka TR toplulukları
+  # eklemek isterseniz slug'larıyla birlikte bu kaynağı açın.
   - id: kommunity
     type: kommunity
+    enabled: false
     category: yapay-zeka
     communities:
       - turkiye-yapay-zeka-inisiyatifi   # TRAI — slug'ı adres çubuğundan doğrulayın

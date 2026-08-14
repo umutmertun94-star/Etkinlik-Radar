@@ -154,14 +154,42 @@ def fetch_ddg(src: dict) -> list[Event]:
 
 
 # ------------------------------------------------- çekirdek (elle) liste
+def _nth_weekday(year: int, month: int, weekday: int, n: int) -> dt.date:
+    """Ayın n. haftaiçi günü (weekday: 0=Pzt ... 6=Paz)."""
+    d = dt.date(year, month, 1)
+    return d + dt.timedelta(days=(weekday - d.weekday()) % 7 + 7 * (n - 1))
+
+
 def fetch_manual(src: dict) -> list[Event]:
     """sources.yaml içinde elle tutulan çapa etkinlikler (GITEX, MWC vb.).
 
     Kaçırılması kabul edilemez büyük etkinlikler keşif katmanına
     bırakılmaz; bu listede durur ve dashboard/bültene doğrudan girer.
+
+    Tekrarlayan seriler (ör. TRAI Meet-Up: her ayın 3. çarşambası) için
+    tarih yerine recurring alanı verilir; gelecek tarihler hesaplanır:
+      recurring: {weekday: 2, ordinal: 3, months_ahead: 3}
     """
     events: list[Event] = []
+    today = dt.date.today()
     for item in src.get("events", []):
+        rec = item.get("recurring")
+        if rec:
+            y, m = today.year, today.month
+            for _ in range(rec.get("months_ahead", 3) + 1):
+                d = _nth_weekday(y, m, rec.get("weekday", 2), rec.get("ordinal", 3))
+                if d >= today:
+                    events.append(Event(
+                        title=item["title"], url=item["url"],
+                        category=item.get("category", "genel-bt"),
+                        source=src["id"], start_date=d.isoformat(),
+                        city=item.get("city"), country=item.get("country"),
+                        online=item.get("online"),
+                    ))
+                m += 1
+                if m > 12:
+                    m, y = 1, y + 1
+            continue
         events.append(Event(
             title=item["title"],
             url=item["url"],
