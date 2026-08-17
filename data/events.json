@@ -15,6 +15,26 @@
   "id": "158c8e7b6e430ab1"
  },
  {
+  "title": "Webinars | Thales",
+  "url": "https://cpl.thalesgroup.com/resources/webinars",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-08-10",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-17",
+  "needs_review": false,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Aug 10, 2026 · The Practical Roadmap to PQC: From Inventory to Execution Discover how to turn post-quantum cryptography (PQC) planning into action. This webinar will walk through the key steps to iden",
+   "llm_relevance": 6,
+   "llm_extracted": true
+  },
+  "id": "b7c5a7a9b304ef2a"
+ },
+ {
   "title": "TRAI Meet-Up (aylık yapay zeka buluşması)",
   "url": "https://turkiye.ai/trai-meet-up/",
   "category": "yapay-zeka",
@@ -30,24 +50,24 @@
   "id": "e5adf21bf75d5813"
  },
  {
-  "title": "GITEX Ai Türkiye 2026: Yapay Zekâ ve Teknoloji Dünyasının Devleri...",
-  "url": "https://www.cnbce.com/yapay-zeka/gitex-ai-turkiye-2026-yapay-zeka-ve-teknoloji-dunyasinin-devleri-istanbulda-bulusuyor-h34903",
-  "category": "yapay-zeka",
+  "title": "GITEX AI TÜRKİYE | 9-10 Sept 2026",
+  "url": "https://www.gitexturkiye.com/",
+  "category": "veri-merkezi",
   "source": "ddg-kesif",
   "start_date": "2026-09-09",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-08-14",
+  "first_seen": "2026-08-17",
   "needs_review": false,
   "extra": {
-   "query": "kommunity.com yapay zeka etkinlik Ankara İstanbul",
-   "snippet": "Etkinlik, 9–10 Eylül 2026 tarihlerinde İstanbul Fuar Merkezi’nde gerçekleştirilecek.Dünyanın en büyük teknoloji ve yapay zekâ etkinlik ağının gücüyle.",
-   "llm_relevance": 9,
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "AI & INTELLIGENT INFRASTRUCTURE Exploring how Türkiye is building AI-ready infrastructure, sovereign cloud, trusted data systems, and smart regulation.",
+   "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "7ef8010b41052e56"
+  "id": "10d576e28c40866f"
  },
  {
   "title": "AI Virtual Summit 2026 - Register for Free Now",
@@ -68,6 +88,26 @@
    "llm_extracted": true
   },
   "id": "55e6c01d7fc9491d"
+ },
+ {
+  "title": "AI Virtual Summit 2026 - Register for Free Now - Register Today",
+  "url": "https://www.bing.com/aclick?ld=e8AIiTHyj4IdalB_zRNtKIEDVUCUxEpsv6CPKSg05h2CPAGKj6YrxqnkyK5MRkVdttVrxY6PIqo2jUzoGQIO6Z2MW_FBMjbyetzdrVUurBxJeg_yU_KRZLLWHoVFUyyNhw-fcyPCKOw8hdRpWzUFCDFHypas5UiChRyhnodOYkWsGouahC44Jk4kk_7DRLsb7kZfeY8wWAMiOls68VFsfGFZClMgw&u=aHR0cHMlM2ElMmYlMmZ3d3cuYXZlcG9pbnQuY29tJTJmZXZlbnRzJTJmYWktdmlydHVhbC1zdW1taXQlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2ROQV9hdnNfQUktU3VtbWl0LTA3MjIyMDI2LUNNUC0xNTA4Mi1WMFE1TiUyNnV0bV90ZXJtJTNkYWklMjUyMHdlYmluYXJzJTI1MjAyMDI2JTI2dXRtX2NvbnRlbnQlM2ROQV9hdnNfQUktU3VtbWl0LWJyb2FkLTA3MjIyMDI2LUNNUC0xNTA4Mi1WMFE1TiUyNm1zY2xraWQlM2QzZmU2YmYwNWZjMGUxNTE1OTIxZWQ1ODc1NzJjNThkZA&rlid=3fe6bf05fc0e1515921ed587572c58dd",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-17",
+  "needs_review": false,
+  "extra": {
+   "query": "enterprise IT webinar 2026 free registration",
+   "snippet": "Register for the Free AI Virtual Summit on September 10, 2026. AI Virtual Summit 2026: AI trust, governance, and security. Register now. AI Trust · See How It Works · Request Demo · DSPM for AI Agents",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "acf36742c63dc1a6"
  },
  {
   "title": "Register for Free - AI Virtual Summit 2026",
@@ -208,6 +248,46 @@
   "needs_review": false,
   "extra": {},
   "id": "1ef77e6bf9b9e37c"
+ },
+ {
+  "title": "DCE - Data Center Eurasia 2026 | İFM - İstanbul Fuar Merkezi",
+  "url": "https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2026",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-17",
+  "needs_review": false,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "Avrasya bölgesindeki tek Veri Merkezi etkinliği olma özelliğini taşıyan “Data Center Eurasia”, 7-9 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde sektörün önemli aktörlerini ilk kez bir araya getirm",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "9a3de2f4b061838c"
+ },
+ {
+  "title": "Data Center Eurasia 2026 | Istanbul | expointurkey.org",
+  "url": "https://www.expointurkey.org/tr/fuar/data-center-eurasia-2026",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-17",
+  "needs_review": false,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "Veri merkezi dünyasının Türkiye’deki en kapsamlı buluşma noktası olan Data Center Eurasia, dijital altyapı ekosisteminin tüm paydaşlarını 7-10 Ekim 2026 tarihlerinde ikinci kez İstanbul Fuar Merkezi’n",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "ed318e43e9d8b1de"
  },
  {
   "title": "Minds Mastering Machines - M3: LLMs im Unternehmen",
@@ -1284,6 +1364,25 @@
    "snippet": "June 9, 2026 - AI is changing both attack and defense. Learn how to secure AI use, avoid hype, and build an adaptive cybersecurity roadmap."
   },
   "id": "94eed270363f4eeb"
+ },
+ {
+  "title": "AI in Central Banking",
+  "url": "https://www.suerf.org/events/ai-in-central-banking/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-17",
+  "needs_review": true,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "This online workshop brings together leading experts to provide an introduction and overview of how AI is about to change central banks’ work – structurally and on a day-to-day basis, what are possibl",
+   "llm_relevance": 8
+  },
+  "id": "1946929dbffdb307"
  },
  {
   "title": "AI in Central Banking for Beginners — Edu AI Events",
@@ -2619,6 +2718,25 @@
   "id": "6bb73035c3c46e17"
  },
  {
+  "title": "FinServ Cybersecurity USA Summit - ismg.events",
+  "url": "https://ismg.events/summit/newyork-financial-service-2026/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-17",
+  "needs_review": true,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "The FinServ Cybersecurity USA Summit brings together security leaders from across the industry for a day of unfiltered peer exchange, adversary intelligence, and practical frameworks — built around th",
+   "llm_relevance": 7
+  },
+  "id": "2bc817027de9fad2"
+ },
+ {
   "title": "FinServ USA Cybersecurity Summit",
   "url": "https://ismg.events/summit/newyork-financial-service-2026/",
   "category": "siber-guvenlik",
@@ -3049,6 +3167,25 @@
    "snippet": "2 days ago - Dünyanın en büyük teknoloji ve yapay zekâ etkinlik ağı, Avrasya’nın hızla büyüyen yapay zekâ ekonomisini küresel vitrine taşırken; ilk kez düzenlenecek GITEX Ai Türkiye 2026, 9–10 Eylül t"
   },
   "id": "23c9f274eeaa6b97"
+ },
+ {
+  "title": "Gartner Computing Event - Gartner Computing Conf 2026",
+  "url": "https://www.bing.com/aclick?ld=e8vIR1DRuWPGfNp4j0GLc7CzVUCUz_E67iq3j0hqa_5Rlh0uCpeoxyuDqoXaJykB4uq4flLvsrK3GLH4SFP18aHPEgfSyYNcGe1B6OqECegTrk5dhqV0LCDI4iWgtlUHyXGx9pNNwz6eeIbjHvigOy7KLeJGMjSN6c3StDvOiKOYyRWo_STboIk4wDCstMDaQ85dsUW57pIcvcSQiIORLP_4mfb1I&u=aHR0cHMlM2ElMmYlMmZ3d3cuZ2FydG5lci5jb20lMmZlbiUyZmNvbmZlcmVuY2VzJTJmbmElMmZpbmZyYXN0cnVjdHVyZS1vcGVyYXRpb25zLWNsb3VkLXVzJTJmJTNmdXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkRVZUX05BXzIwMjZfTFNDNDVfQ1BDX1NFTTFfQlJBTkRCSU5HJTI2dXRtX2FkZ3JvdXAlM2QxMTQzNDkzOTczNDUyMzQyJTI2dXRtX3Rlcm0lM2RnYXJ0bmVyJTI1MjBjbG91ZCUyNTIwY29tcHV0aW5nJTI1MjBzZW1pbmFyJTI2YWQlM2Q3MTQ2ODU0Mjk4NjAzMSUyNm1hdGNodHlwZSUzZHAlMjZtc2Nsa2lkJTNkMzM4NTI3OWJjZDc1MWU5ZjhmNzY0ZDE5NjY2YWQ0Mzc&rlid=3385279bcd751e9f8f764d19666ad437",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-17",
+  "needs_review": true,
+  "extra": {
+   "query": "Gartner webinar AI security banking",
+   "snippet": "Learn from Gartner experts at the Cloud Computing Conference. Gain actionable guidance for your computing strategy. 1:1 Support · 150+ Sessions · 120+ Vendors",
+   "llm_relevance": 6
+  },
+  "id": "16921281562f8b59"
  },
  {
   "title": "Gartner Outlook for Cloud Security | Gartner Webinars",
