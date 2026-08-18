@@ -11,6 +11,10 @@
 rules:
   yuz_yuze_ulkeler: ["Turkey", "Türkiye"]
   istisna_kaynaklar: ["cekirdek-liste"]
+  # Başlığında bu kurumlar geçen etkinlikler yurt dışı yüz yüze olsa da tutulur
+  # (merkez bankası çalışanının resmi kanaldan katılabildiği kategori):
+  istisna_kurumlar: ["BIS", "Bank for International Settlements", "IMF", "ECB",
+                     "FSB", "World Bank", "OECD", "Basel Committee", "CPMI", "FSI"]
 
 sources:
 
@@ -28,6 +32,14 @@ sources:
         end_date: "2026-12-11"
         city: Dubai (Expo City)
         country: United Arab Emirates
+        online: false
+      - title: "13. SDMX Experts Workshop (TÜİK + OECD + TCMB ev sahipliğinde)"
+        url: https://www.sdmxexperts2026.org/
+        category: merkez-bankaciligi
+        start_date: "2026-11-30"
+        end_date: "2026-12-04"
+        city: Ankara
+        country: Türkiye
         online: false
       # Tekrarlayan seri: her ayın 3. çarşambası, YouTube canlı yayını
       - title: "TRAI Meet-Up (aylık yapay zeka buluşması)"
@@ -89,6 +101,11 @@ sources:
       - {q: "site:cepa.org event 2026",                             category: ai-governance, max: 4}
       - {q: "site:technologyreview.com EmTech 2026",                category: yapay-zeka, max: 4}
       - {q: "site:bis.org meeting OR conference 2026",              category: merkez-bankaciligi, max: 5}
+      # --- İstatistik / veri standartları (SDMX dersinden) ---
+      - {q: "SDMX conference workshop 2026",                        category: merkez-bankaciligi, max: 5}
+      - {q: "official statistics data standards conference 2026",   category: merkez-bankaciligi, max: 5}
+      - {q: "central bank statistics data governance workshop",     category: merkez-bankaciligi, max: 4}
+      - {q: "site:sdmx.io event",                                   category: merkez-bankaciligi, max: 4}
 
   # ---------- Google Alerts (RSS) ----------
   # Kurulum: google.com/alerts → sorgu oluştur → "Teslim: RSS özet akışı"
