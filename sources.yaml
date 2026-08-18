@@ -80,6 +80,15 @@ sources:
       - {q: "kommunity.com yapay zeka etkinlik Ankara İstanbul", category: yapay-zeka, max: 6}
       - {q: "site:brighttalk.com webinar central bank fintech", category: merkez-bankaciligi, max: 6}
       - {q: "site:gartner.com/en/webinar",                      category: genel-bt, max: 6}
+      # --- Haber kaynağı listesindeki etkinlik düzenleyen kuruluşlar ---
+      - {q: "site:omfif.org meeting OR seminar OR roundtable 2026", category: merkez-bankaciligi, max: 6}
+      - {q: "site:centralbanking.com events OR training",           category: merkez-bankaciligi, max: 6}
+      - {q: "site:finextra.com webinar",                            category: merkez-bankaciligi, max: 6}
+      - {q: "site:fintechfutures.com webinar",                      category: merkez-bankaciligi, max: 5}
+      - {q: "site:thequantuminsider.com event OR conference",       category: kuantum, max: 5}
+      - {q: "site:cepa.org event 2026",                             category: ai-governance, max: 4}
+      - {q: "site:technologyreview.com EmTech 2026",                category: yapay-zeka, max: 4}
+      - {q: "site:bis.org meeting OR conference 2026",              category: merkez-bankaciligi, max: 5}
 
   # ---------- Google Alerts (RSS) ----------
   # Kurulum: google.com/alerts → sorgu oluştur → "Teslim: RSS özet akışı"
