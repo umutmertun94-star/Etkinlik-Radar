@@ -125,6 +125,26 @@
   "id": "914cf1fe9bb13ed7"
  },
  {
+  "title": "2026 Post-Quantum Cryptography Summit - Virtual 9/16/26 | GSA",
+  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-virtual-91626",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-16",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-18",
+  "needs_review": false,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "2 weeks ago - Virtual Registration — Zoom for Government webinar · 9-9:30 a.m. | Welcome and Keynote (GSA Leadership, guest speaker) 9:35-10:05 a.m. | Shaping the Quantum-Safe Marketplace · 10:05-10:2",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "7453cd7466244dee"
+ },
+ {
   "title": "TRAI Meet-Up (aylık yapay zeka buluşması)",
   "url": "https://turkiye.ai/trai-meet-up/",
   "category": "yapay-zeka",
@@ -198,6 +218,26 @@
   "needs_review": false,
   "extra": {},
   "id": "a319728f4997e03d"
+ },
+ {
+  "title": "AI Governance Online (AIGov Online) 2026 | Free Virtual Conference",
+  "url": "https://aigovconference.com/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-30",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-18",
+  "needs_review": false,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "AI Governance Online (AIGov Online): DATAVERSITY's free virtual conference on enterprise AI governance. Sept 30, 2026. Register today.",
+   "llm_relevance": 10,
+   "llm_extracted": true
+  },
+  "id": "ca2e9b8b826a2913"
  },
  {
   "title": "VibeKode Utrecht",
@@ -530,11 +570,26 @@
   "id": "d48909b23363ad0a"
  },
  {
-  "title": "Enerji Gündemi 'Veri merkezleri ve enerji' konuşulacak' - Enerji Ekonomisi",
-  "url": "https://www.enerjiekonomisi.com/enerji-gundemi-veri-merkezleri-ve-enerji-konusulacak/43556",
+  "title": "13. SDMX Experts Workshop (TÜİK + OECD + TCMB ev sahipliğinde)",
+  "url": "https://www.sdmxexperts2026.org/",
+  "category": "merkez-bankaciligi",
+  "source": "cekirdek-liste",
+  "start_date": "2026-11-30",
+  "end_date": "2026-12-04",
+  "city": "Ankara",
+  "country": "Türkiye",
+  "online": false,
+  "first_seen": "2026-08-18",
+  "needs_review": false,
+  "extra": {},
+  "id": "064d59af190bef1d"
+ },
+ {
+  "title": "DCE - Data Center Eurasia 2026 | İFM - İstanbul Fuar Merkezi",
+  "url": "https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2026",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-08-26",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
@@ -543,18 +598,18 @@
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "3 days ago - Bu kapsamda TESAB tarafından 26 Ağustos 2026 tarihinde 10.30–12.00 saatleri arasında düzenlenecek “Veri Merkezleri: Küresel Gelişmeler ve Türkiye’nin Rotası” başlıklı etkinlikte, veri mer",
+   "snippet": "Avrasya bölgesindeki tek Veri Merkezi etkinliği olma özelliğini taşıyan “Data Center Eurasia”, 7-9 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde sektörün önemli aktörlerini ilk kez bir araya getirm",
    "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "a46c36d4eb8aded6"
+  "id": "9a3de2f4b061838c"
  },
  {
-  "title": "GITEX Ai Türkiye 2026 İstanbul’da teknoloji dünyasını buluşturacak - Haber Ege",
-  "url": "https://www.haberege.com.tr/kuresel-teknoloji-ekosistemi-istanbulda-bulusacak-1786544532-3427924",
+  "title": "Data Center Eurasia 2026 | Istanbul | expointurkey.org",
+  "url": "https://www.expointurkey.org/tr/fuar/data-center-eurasia-2026",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-09-09",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
@@ -563,90 +618,30 @@
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "1 week ago - Avrasya'nın yapay zekâ ve teknoloji ekosistemini küresel yatırımcılarla buluşturmayı hedefleyen GITEX Ai Türkiye 2026, 9-10 Eylül tarihlerinde İstanbul Fuar Merkezi'nde gerçekleştirilecek",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "2f8fa4b1d48ef8dc"
- },
- {
-  "title": "Küresel teknoloji devleri İstanbul’da buluşuyor: GITEX Ai Türkiye 2026 geliyor - Etkinlikler - Ekonomist",
-  "url": "https://www.ekonomist.com.tr/etkinlikler/kuresel-teknoloji-devleri-istanbul-da-bulusuyor-gitex-ai-turkiye-2026-geliyor-77716",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-09-09",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-18",
-  "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "1 week ago - Beş kıtadan uluslararası katılımcılar İstanbul’u tercih ediyor GITEX Ai Türkiye, Güneydoğu Avrupa ve Batı Asya’nın dijital gündemini şekillendiren sektörleri odağına alıyor: yapay zekâ, 5",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "057d512a19c99c3a"
- },
- {
-  "title": "2026 Post-Quantum Cryptography Summit - In Person 9/16/26",
-  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-in-person-91626",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-09-16",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-18",
-  "needs_review": false,
-  "extra": {
-   "query": "post-quantum cryptography webinar 2026 register",
-   "snippet": "Aug 6, 2026 · From federal migration strategy and marketplace dynamics to hands-on implementation guidance and global threat analysis, this hybrid summit will equip federal agencies with the knowledge",
+   "snippet": "Veri merkezi dünyasının Türkiye’deki en kapsamlı buluşma noktası olan Data Center Eurasia, dijital altyapı ekosisteminin tüm paydaşlarını 7-10 Ekim 2026 tarihlerinde ikinci kez İstanbul Fuar Merkezi’n",
    "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "b78b8ec5473daa00"
+  "id": "ed318e43e9d8b1de"
  },
  {
-  "title": "2026 Post-Quantum Cryptography Summit - Virtual 9/16/26 | GSA",
-  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-virtual-91626",
+  "title": "AI | October 25-27, 2026 | New York City - IQT Conference",
+  "url": "https://iqtevent.com/quantumai/",
   "category": "kuantum",
   "source": "ddg-kesif",
-  "start_date": "2026-09-16",
+  "start_date": "2026-10-25",
   "end_date": null,
   "city": null,
   "country": null,
-  "online": true,
+  "online": false,
   "first_seen": "2026-08-18",
   "needs_review": false,
   "extra": {
-   "query": "post-quantum cryptography webinar 2026 register",
-   "snippet": "2 weeks ago - Virtual Registration — Zoom for Government webinar · 9-9:30 a.m. | Welcome and Keynote (GSA Leadership, guest speaker) 9:35-10:05 a.m. | Shaping the Quantum-Safe Marketplace · 10:05-10:2",
-   "llm_relevance": 9,
+   "query": "site:thequantuminsider.com event OR conference",
+   "snippet": "EVERYONE BUILDING QUANTUM + AI WILL BE IN NEW YORK CITY THIS OCTOBER! IQT’s flagship conference, Q+AI 2026 (3.0), is the leading event worldwide devoted to the convergence of quantum computing and art",
+   "llm_relevance": 7,
    "llm_extracted": true
   },
-  "id": "7453cd7466244dee"
- },
- {
-  "title": "AI Governance Online (AIGov Online) 2026 | Free Virtual Conference",
-  "url": "https://aigovconference.com/",
-  "category": "ai-governance",
-  "source": "ddg-kesif",
-  "start_date": "2026-09-30",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-08-18",
-  "needs_review": false,
-  "extra": {
-   "query": "AI governance webinar 2026 register",
-   "snippet": "AI Governance Online (AIGov Online): DATAVERSITY's free virtual conference on enterprise AI governance. Sept 30, 2026. Register today.",
-   "llm_relevance": 10,
-   "llm_extracted": true
-  },
-  "id": "ca2e9b8b826a2913"
+  "id": "ab21fa33aac1b0e0"
  }
 ]
