@@ -52,6 +52,46 @@ HTML kaynakları için sayfanın yapısına uygun CSS seçicileri gerekir
 (`selectors: {item, title, link, date}`). Seçici ayarlanana kadar
 `enabled: false` bırakın.
 
+## Bilinen kaynak kısıtları
+
+### Gartner webinarları — Cloudflare challenge (kapalı)
+
+`gartner-webinars` kaynağı `enabled: false` bırakıldı. Sebebi "sayfa JS ile
+yükleniyor" değil; hub'ın arkasındaki JSON ucu bulundu ama sunucudan
+çekilemiyor:
+
+```
+https://www.gartner.com/ngw/syspath-bin/gartner/dynamiccontent
+  ?requestType=select-webinars-by-session-type-tags&designType=webinar
+  &start=0&pageSize=50&languageCode=en
+  &tags=emt%3Apage%2Fcontent-type%2Fwebinar
+  &webinarType=all-webinars&webinarSource=all-webinars
+```
+
+Yanıt şeması aradığımız her alanı içeriyor:
+`data.upcomingWebinars[]` → `title`, `url` (`/en/webinar/<event_id>/<session_id>-slug`),
+`allFields.publishdate` (ISO 8601, UTC), `allFields.webinar_startepoch`,
+`allFields.webinar_durationtext`, `tags`.
+
+Engel: **gartner.com'un tamamı Cloudflare bot korumasının arkasında.**
+`robots.txt` dahil her yol düz bir HTTP istemcisine `403` dönüyor
+(`server: cloudflare`, `cf-mitigated: challenge`). User-Agent, Referer ve
+Accept-Language taklidi durumu değiştirmiyor — istenen şey tarayıcıda
+çalışan bir JS challenge yanıtı. Tarayıcıda açıldığında uç nokta `200`
+dönüyor, `requests` ile hiçbir başlık kombinasyonunda dönmüyor.
+
+Sonuç: GitHub Actions'ta çalışan `requests` tabanlı bir fetcher bu kaynağı
+çekemez. Challenge'ı aşmaya çalışmak (headless tarayıcı, challenge çözücü
+servis) hem kırılgan hem de Gartner kullanım şartlarına aykırı; bu yüzden
+yapılmadı. Kaynak açılmak istenirse gereken şey ayrı bir tarayıcı
+otomasyonu adımıdır (Playwright + Actions'ta ek servis) — mevcut mimarinin
+"sunucu yok, bağımlılık az" tercihiyle çelişir.
+
+O zamana kadar Gartner'ı `sources.yaml`'daki iki DDG sorgusu taşıyor
+(`site:gartner.com webinar AI security 2026 register` ve
+`complimentary Gartner webinar AI governance`); bunlar bilinçli olarak
+yerinde bırakıldı.
+
 ## Faz 2 fikirleri (mimari hazır)
 
 - LLM filtreleme (hazır): Anthropic API anahtarını secrets'a ekleyin — haber-radar ile aynı anahtar

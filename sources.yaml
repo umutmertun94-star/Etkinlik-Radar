@@ -204,9 +204,12 @@ sources:
     url: "https://www.brighttalk.com/channel/KANAL_NO/feed"
     category: merkez-bankaciligi
 
-  # Gartner webinar hub'ı JS ile yükleniyor — basit HTML fetcher boş görür.
-  # Kalıcı çözüm (arkadaki JSON ucunu bulup bağlamak) Claude Code seansında;
-  # o zamana kadar Gartner'ı yukarıdaki iki DDG sorgusu taşıyor.
+  # KAPALI KALACAK — sebebi JS değil, Cloudflare. Hub'ın arkasındaki JSON ucu
+  # bulundu (/ngw/syspath-bin/gartner/dynamiccontent, şema README'de) ama
+  # gartner.com'un tamamı bot korumasında: robots.txt dahil her yol düz HTTP
+  # istemcisine 403 (cf-mitigated: challenge). Actions'tan requests ile
+  # çekilemez. Ayrıntı ve gereken şey için README > "Bilinen kaynak kısıtları".
+  # Gartner'ı yukarıdaki iki DDG sorgusu taşıyor (bilinçli olarak duruyorlar).
   - id: gartner-webinars
     type: html
     enabled: false
