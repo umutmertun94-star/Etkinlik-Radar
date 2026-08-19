@@ -57,6 +57,9 @@ main{padding:0 24px 64px}
 .tag.online{background:rgba(15,124,134,.12);color:var(--online)}
 .tag.yuzyuze{background:rgba(178,106,21,.12);color:var(--yuzyuze)}
 .empty{margin-top:48px;color:var(--mute);font-style:italic}
+footer{border-top:1px solid var(--line);margin:0 24px;padding:18px 0 40px;
+  font:400 12px "IBM Plex Mono",monospace;color:var(--mute)}
+footer a{color:var(--online)}
 @media(max-width:560px){.ev{grid-template-columns:1fr}.date{font-size:13px}}
 </style>
 </head>
@@ -68,6 +71,8 @@ main{padding:0 24px 64px}
 <div class="wrap">
   <nav class="filters" id="filters" aria-label="Filtreler"></nav>
   <main id="list"></main>
+  <footer>Search powered by <a href="https://brave.com/search/api/"
+    target="_blank" rel="noopener">Brave</a></footer>
 </div>
 <script>
 const EVENTS = __EVENTS_JSON__;

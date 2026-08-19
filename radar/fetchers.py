@@ -7,7 +7,9 @@ from __future__ import annotations
 
 import datetime as dt
 import json
+import os
 import re
+import time
 
 import requests
 from bs4 import BeautifulSoup
@@ -118,13 +120,79 @@ def fetch_html(src: dict) -> list[Event]:
     return events
 
 
-# ------------------------------------------------------- DuckDuckGo keşfi
-def fetch_ddg(src: dict) -> list[Event]:
-    """Anahtar gerektirmeyen arama keşfi (ddgs kütüphanesi).
+# --------------------------------------------- Brave Search (opsiyonel katman)
+BRAVE_URL = "https://api.search.brave.com/res/v1/web/search"
+BRAVE_FRESHNESS = "py"        # past year — eski etkinlik duyurularını eler
+BRAVE_MAX_COUNT = 20          # API'nin sorgu başına üst sınırı
+BRAVE_PAUSE = 1.1             # ücretsiz katman 1 sorgu/sn ile sınırlı
 
-    Sabit havuzun dışındaki etkinlikleri yakalamak için haftalık sorgular.
-    Sonuçlar 'ipucu' niteliğindedir: needs_review=True.
+
+def _brave_enabled() -> bool:
+    """llm_filter.py'deki ANTHROPIC_API_KEY deseninin aynısı."""
+    return bool(os.environ.get("BRAVE_API_KEY"))
+
+
+def fetch_brave(src: dict) -> list[Event]:
+    """ddg kaynağının sorgu listesini Brave Search API'sine sorar.
+
+    Sorgular, kategoriler ve max değerleri sources.yaml'dan aynen gelir;
+    max -> Brave'in count parametresine eşlenir. Anahtar yoksa bu fonksiyon
+    hiç çağrılmaz, fetch_ddg sessizce DuckDuckGo'ya düşer.
     """
+    headers = {
+        "Accept": "application/json",
+        "X-Subscription-Token": os.environ["BRAVE_API_KEY"],
+        "User-Agent": UA["User-Agent"],
+    }
+    events: list[Event] = []
+    sorgular = src.get("queries", [])
+    for i, q in enumerate(sorgular):
+        if i:
+            time.sleep(BRAVE_PAUSE)       # hız sınırına takılmamak için
+        try:
+            r = requests.get(BRAVE_URL, headers=headers, timeout=TIMEOUT, params={
+                "q": q["q"],
+                "count": min(q.get("max", 8), BRAVE_MAX_COUNT),
+                "freshness": BRAVE_FRESHNESS,
+            })
+            r.raise_for_status()
+            sonuclar = r.json().get("web", {}).get("results", [])
+        except Exception as ex:
+            print(f"[{src['id']}] Brave sorgu hatası ({q['q']}): {ex}")
+            continue
+        for s in sonuclar:
+            events.append(Event(
+                title=re.sub(r"<[^>]+>", "", s.get("title", "")).strip(),
+                url=s.get("url", ""),
+                category=q.get("category", src.get("category", "genel-bt")),
+                source=src["id"],
+                needs_review=True,
+                extra={
+                    "query": q["q"],
+                    # Brave açıklamalarda <strong> ile eşleşen kelimeleri işaretler
+                    "snippet": re.sub(r"<[^>]+>", "", s.get("description", ""))[:200],
+                    "engine": "brave",
+                },
+            ))
+    return events
+
+
+# ------------------------------------------------------- keşif katmanı (arama)
+def fetch_ddg(src: dict) -> list[Event]:
+    """Arama motoru keşfi: sabit havuzun dışındaki etkinlikleri yakalar.
+
+    BRAVE_API_KEY tanımlıysa sorgular Brave Search API'sine gider; anahtar
+    yoksa ya da Brave hiç sonuç döndürmezse anahtarsız DuckDuckGo'ya düşülür.
+    Her iki durumda da sistem çalışır — anahtar bir hızlandırıcı, bağımlılık
+    değil. Sonuçlar 'ipucu' niteliğindedir: needs_review=True.
+    """
+    if _brave_enabled():
+        events = fetch_brave(src)
+        if events:
+            print(f"[{src['id']}] Brave: {len(events)} sonuç")
+            return events
+        print(f"[{src['id']}] Brave sonuç döndürmedi, DuckDuckGo'ya düşülüyor")
+
     try:
         from ddgs import DDGS
     except ImportError:
@@ -134,7 +202,7 @@ def fetch_ddg(src: dict) -> list[Event]:
             print(f"[{src['id']}] ddgs kurulu değil, atlanıyor")
             return []
 
-    events: list[Event] = []
+    events = []
     with DDGS() as ddgs:
         for q in src.get("queries", []):
             try:
@@ -149,7 +217,8 @@ def fetch_ddg(src: dict) -> list[Event]:
                     category=q.get("category", src.get("category", "genel-bt")),
                     source=src["id"],
                     needs_review=True,
-                    extra={"query": q["q"], "snippet": r.get("body", "")[:200]},
+                    extra={"query": q["q"], "snippet": r.get("body", "")[:200],
+                           "engine": "ddg"},
                 ))
     return events
 

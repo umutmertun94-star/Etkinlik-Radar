@@ -13,7 +13,7 @@ sources.yaml ──► radar/fetchers.py ──► tekilleştirme (store.py)
 ```
 
 - **confs.tech**: açık konferans veritabanı, kutudan çıktığı gibi çalışır
-- **DuckDuckGo keşfi**: sabit havuzun *dışındaki* etkinlikleri haftalık sorgularla yakalar
+- **Arama keşfi**: sabit havuzun *dışındaki* etkinlikleri haftalık sorgularla yakalar — `BRAVE_API_KEY` tanımlıysa Brave Search API, değilse anahtarsız DuckDuckGo
 - **Google Alerts (RSS)**: pasif keşif — kurulunca kendiliğinden akar
 - **HTML kaynakları**: BIS, SUERF, OMFIF, kommunity, SANS vb. — her biri için CSS seçicisi ayarlanır
 
@@ -36,6 +36,35 @@ Her tarama yalnızca **ilk kez görülen** etkinlikleri bültene yazar; dashboar
    - `"AI governance" (summit OR webinar OR conference)`
    - `CBDC OR "central bank digital currency" conference`
    - `"veri merkezi" (zirve OR konferans OR etkinlik)`
+
+## Ortam değişkenleri (hepsi opsiyonel)
+
+Hiçbiri tanımlı olmasa da sistem çalışır; her biri bir katmanı iyileştirir.
+Actions'ta: repo → Settings → Secrets and variables → Actions.
+
+| Değişken | Ne yapar | Tanımlı değilse |
+|---|---|---|
+| `ANTHROPIC_API_KEY` | Keşif ipuçlarını ilgililik puanına göre eler, tarih/format çıkarır | Filtre atlanır, tüm ipuçları bültene düşer |
+| `ANTHROPIC_MODEL` | Kullanılacak model (repo *variable*'ı) | `claude-haiku-4-5-20251001` |
+| `BRAVE_API_KEY` | Keşif sorguları Brave Search API'sine gider | Anahtarsız DuckDuckGo'ya düşülür |
+
+### Brave Search API notu
+
+`sources.yaml`'daki keşif sorguları anahtar varken Brave'e, yokken DDG'ye
+gider — sorgu listesi, kategoriler ve `max` değerleri ikisinde de aynıdır
+(`max` → Brave'in `count` parametresi). Sonuçlar son 1 yılla sınırlanır
+(`freshness=py`).
+
+- **Hacim**: ~40 sorgu × haftada 1 tarama ≈ **aylık 180 sorgu**. Ücretsiz
+  katmanın aylık kotasının ve 5 $'lık aylık kredinin epey altında; yine de
+  sorgu listesi büyütülürse bu hesabı güncelleyin. Kota aşılırsa istekler
+  hata döner, kaynak sessizce boş geçer — sistem kırılmaz, ama o hafta
+  keşif katmanı çalışmaz. Kritikse Brave panelinden kullanım uyarısı kurun.
+- **Hız sınırı**: ücretsiz katman 1 sorgu/saniye. Fetcher sorgular arasında
+  1,1 sn bekler; ~40 sorgu ≈ 45 saniye sürer.
+- **Atıf şartı**: ücretsiz katman, sonuçların gösterildiği yerde Brave'e
+  atıf ister. Dashboard footer'ında "Search powered by Brave" bağlantısı
+  bunun için duruyor — Brave kullanılıyorsa **kaldırmayın**.
 
 ## Lokal çalıştırma
 
