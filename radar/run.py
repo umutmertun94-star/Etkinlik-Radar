@@ -7,6 +7,7 @@ Kullanım:
 from __future__ import annotations
 
 import argparse
+import re
 import sys
 from pathlib import Path
 
@@ -20,11 +21,24 @@ from .fetchers import FETCHERS
 SOURCES_FILE = Path(__file__).resolve().parent.parent / "sources.yaml"
 
 
+def _istisna_kurum(title: str, rules: dict) -> bool:
+    """Başlıkta rules.istisna_kurumlar listesinden bir kurum geçiyor mu?
+
+    Kısaltmalar (IMF, ECB, FSI) başka kelimenin içinde eşleşmesin diye
+    kelime sınırıyla aranır.
+    """
+    return any(re.search(rf"\b{re.escape(k)}\b", title, re.I)
+               for k in rules.get("istisna_kurumlar", []))
+
+
 def _rule_ok(e: dict, rules: dict) -> bool:
     """Yüz yüze etkinlik yalnızca izinli ülkelerdeyse geçer; online serbest."""
     if e.get("source") in rules.get("istisna_kaynaklar", []):
         return True
     if e.get("online") is not False:      # online veya bilinmiyor → geçer
+        return True
+    # Resmî kanaldan katılınabilen kurumlar yurt dışı yüz yüze olsa da tutulur
+    if _istisna_kurum(e.get("title") or "", rules):
         return True
     ulkeler = {u.lower() for u in rules.get("yuz_yuze_ulkeler", [])}
     country = (e.get("country") or "").lower()
