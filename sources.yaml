@@ -155,27 +155,43 @@ sources:
     category: kuantum
 
   # ---------- Merkez bankacılığına özgü kaynaklar ----------
-  # HTML kaynaklarında selectors alanı siteye göre ayarlanmalı
-  # (ilk çalıştırmada sayfa yapısına bakıp doldurun / bana sorun).
+  # HTML kaynaklarının selectors alanları gerçek sayfalar çekilerek dolduruldu.
+  # BIS: /events/index.htm etkinlik listesi DEĞİL, Basel'e gelen ziyaretçiler
+  # için bilgi sayfası; /list/conferences/ ise listeyi JS ile yüklüyor.
+  # Gerçek kaynak RSS: /doclist/all_conferences.rss (25 girdi, "All BIS
+  # conferences") — HTML kazımaya gerek yok.
   - id: bis-events
-    type: html
-    enabled: false
-    url: https://www.bis.org/events/index.htm
+    type: rss
+    enabled: true
+    url: https://www.bis.org/doclist/all_conferences.rss
     category: merkez-bankaciligi
-    selectors: {item: ".item", title: "a", link: "a", date: ".date"}
+    limit: 25
+  # SUERF: sayfada iki tablo var — et_* (yakın geçmiş) ve etb_* (yaklaşan).
+  # Yaklaşan tablosu hedeflendi. Tarih ilk hücrede, format/şehir son hücrede
+  # ("online" / "hybrid, Vienna").
   - id: suerf-events
     type: html
-    enabled: false
+    enabled: true
     url: https://www.suerf.org/events/
     category: merkez-bankaciligi
-    selectors: {item: ".event", title: "a", link: "a", date: ".date"}
+    selectors:
+      item: "tr:has(td.etb_data-content)"
+      title: "a.etb_data-text"
+      link: "a.etb_data-text"
+      date: "td:first-child"
   # OMFIF: etkinlik listesi /events/ değil /meetings/ altında (doğrulandı).
+  # Sayfa "Post Table / Content Views" eklentisiyle üretiliyor: pt-cv-* sınıfları.
+  # Tarih ayrı bir özel alanda (pt-cv-ctf-event_date).
   - id: omfif-events
     type: html
-    enabled: false
+    enabled: true
     url: https://www.omfif.org/meetings/
     category: merkez-bankaciligi
-    selectors: {item: ".event-card", title: "h3", link: "a", date: ".date"}
+    selectors:
+      item: "div.pt-cv-content-item"
+      title: "h4.pt-cv-title"
+      link: "h4.pt-cv-title a"
+      date: ".pt-cv-ctf-event_date .pt-cv-ctf-value"
 
   # ---------- Türkiye ----------
   # Topluluk slug'ları kommunity.com'da topluluğun adres çubuğundan alınır
@@ -216,15 +232,30 @@ sources:
     url: https://www.gartner.com/en/webinars
     category: genel-bt
     selectors: {item: ".webinar-card", title: "a", link: "a", date: ".date"}
+  # KAPALI KALIYOR — seçici sorunu değil, içerik sorunu. Sunucudan gelen HTML
+  # yalnızca ARŞİV webcast'leri içeriyor (2013-2020, "Presented: ..."); yaklaşan
+  # webcast'ler Algolia InstantSearch ile istemci tarafında yükleniyor
+  # (ais-* sınıfları). Bu haliyle açmak radara 12 yıllık eski kayıt sokar.
+  # RSS alternatifi de yok (/webcasts/feed, /rss/webcasts.xml → 404,
+  # /api/webcasts → 401). Açılması için tarayıcı otomasyonu gerekir.
   - id: sans-webcasts
     type: html
     enabled: false
     url: https://www.sans.org/webcasts/
     category: siber-guvenlik
-    selectors: {item: ".webcast-item", title: "a", link: "a", date: ".date"}
+    selectors:
+      item: "a.c-webinar-card"
+      title: "h2.podcast-card__title"
+      date: "ul.podcast-card__detail-list"
+  # ENISA: Drupal listesi; kart div.publications-item, başlık h3 > a,
+  # tarih p.metadata > span.date ("Nov 4 To 5, 2026").
   - id: enisa-events
     type: html
-    enabled: false
+    enabled: true
     url: https://www.enisa.europa.eu/events
     category: siber-guvenlik
-    selectors: {item: ".event", title: "a", link: "a", date: ".date"}
+    selectors:
+      item: "div.publications-item"
+      title: "h3"
+      link: "h3 a"
+      date: "span.date"

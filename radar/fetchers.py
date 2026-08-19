@@ -101,7 +101,8 @@ def fetch_html(src: dict) -> list[Event]:
         a = node.select_one(sel.get("link", "a"))
         if not t or not a or not a.get("href"):
             continue
-        url = requests.compat.urljoin(src["url"], a["href"])
+        # ENISA gibi bazı sitelerde href sonunda boşluk kalıyor
+        url = requests.compat.urljoin(src["url"], a["href"].strip())
         date_raw = None
         if sel.get("date"):
             d = node.select_one(sel["date"])
