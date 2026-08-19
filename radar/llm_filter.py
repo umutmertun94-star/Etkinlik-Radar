@@ -28,6 +28,10 @@ KURALLAR:
 - Online etkinlik/webinar: dünyanın her yerinden olabilir, konu ilgiliyse yüksek puan.
 - Yüz yüze etkinlik: SADECE Türkiye'deyse ilgilidir. Türkiye dışındaki yüz yüze
   etkinliklere en fazla 3 puan ver (katılım imkânı yok).
+- Başlıkta veya metinde Türkiye dışında bir şehir/ülke geçiyorsa ve etkinlik
+  online/virtual/hybrid olarak işaretli değilse, yurt dışı yüz yüze etkinlik say
+  ve ELE. İstisna: başlıkta BIS, IMF, ECB, FSB, World Bank, OECD, Basel Committee,
+  CPMI, FSI geçenler tutulur.
 - Kayıt/katılım sayfası olan gerçek etkinlik duyuruları aranıyor; haber makalesi,
   ürün sayfası, geçmiş etkinlik özeti, etkinlik listesi makaleleri düşük puan alır.
 
