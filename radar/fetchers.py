@@ -6,7 +6,6 @@ Yeni kaynak türü eklemek = buraya bir fonksiyon + FETCHERS sözlüğüne kayı
 from __future__ import annotations
 
 import datetime as dt
-import json
 import os
 import re
 import time
@@ -276,10 +275,12 @@ def fetch_manual(src: dict) -> list[Event]:
 
 # ------------------------------------------------------------ kommunity
 def fetch_kommunity(src: dict) -> list[Event]:
-    """kommunity.com toplulukları (TRAI vb. Türkiye teknoloji meetupları).
+    """kommunity.com toplulukları (Türkiye teknoloji meetupları).
 
-    Sitenin kendi API ucunu kullanır; şema değişirse loglardan görülür,
-    alanlar savunmacı okunur.
+    Sitenin kendi API ucunu kullanır (api.kommunity.com/api/v1/<slug>/events).
+    Şema Ağu 2026'da doğrulandı: data[] altında name, slug, is_online ve
+    start_date {date, timezone}. Olmayan bir topluluk slug'ı 404 döner ve
+    loga düşer; alanlar savunmacı okunur.
     """
     events: list[Event] = []
     for slug in src.get("communities", []):
@@ -302,14 +303,19 @@ def fetch_kommunity(src: dict) -> list[Event]:
                 sd = sd.get("date") or sd.get("iso") or None
             if isinstance(sd, str):
                 sd = sd[:10]
-            venue = (it.get("venue") or {}) if isinstance(it.get("venue"), dict) else {}
+            # API'de venue.city alanı YOK; mekân adı ve adresi var
+            # (online etkinlikte name="Online", address boş).
+            venue = it.get("venue") if isinstance(it.get("venue"), dict) else {}
             online = it.get("is_online")
+            # name kısa ve okunaklı ("Tech Istanbul | Şişli"); address tam
+            # sokak adresi olduğu için bülten/dashboard'da yer kaplıyor.
+            yer = (venue.get("name") or venue.get("address") or "").strip()
             events.append(Event(
                 title=title, url=eurl,
                 category=src.get("category", "genel-bt"),
                 source=src["id"],
                 start_date=sd,
-                city=venue.get("city") or "İstanbul/Ankara?",
+                city=None if online else (yer or None),
                 country="Türkiye",
                 online=bool(online) if online is not None else None,
                 needs_review=sd is None,

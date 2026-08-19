@@ -15,7 +15,7 @@ sources.yaml ──► radar/fetchers.py ──► tekilleştirme (store.py)
 - **confs.tech**: açık konferans veritabanı, kutudan çıktığı gibi çalışır
 - **Arama keşfi**: sabit havuzun *dışındaki* etkinlikleri haftalık sorgularla yakalar — `BRAVE_API_KEY` tanımlıysa Brave Search API, değilse anahtarsız DuckDuckGo
 - **Google Alerts (RSS)**: pasif keşif — kurulunca kendiliğinden akar
-- **HTML kaynakları**: BIS, SUERF, OMFIF, kommunity, SANS vb. — her biri için CSS seçicisi ayarlanır
+- **Kurum kaynakları**: SUERF, OMFIF, ENISA (HTML kazıma, seçiciler ayarlı), BIS ve BrightTALK (RSS), kommunity (Türkiye meetup'ları, kendi API'si)
 
 Her tarama yalnızca **ilk kez görülen** etkinlikleri bültene yazar; dashboard ise tüm doğrulanmış yaklaşan etkinlikleri gösterir. Arama/alerts kaynaklı bulgular "doğrulanacak ipuçları" bölümüne düşer (tarih/format elle teyit edilir, iyi çıkanlar kaynak havuzuna eklenir).
 

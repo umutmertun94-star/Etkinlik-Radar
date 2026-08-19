@@ -52,9 +52,10 @@ def merge(existing: dict[str, dict], fetched: list[Event]) -> list[dict]:
 
 
 def prune(existing: dict[str, dict], keep_past_days: int = 30) -> None:
-    """Bitişi eskimiş etkinlikleri arşiv dışına atmak yerine sadece
-    dashboard'dan düşürmek için burada silmiyoruz; tarihi çok eski ve
-    doğrulanmamış ipuçlarını temizliyoruz."""
+    """Bitiş tarihi keep_past_days günden eski olan kayıtları depodan siler.
+
+    Tarihi olmayan kayıtlara dokunmaz (ipuçları tarih netleşene kadar durur).
+    """
     cutoff = (dt.date.today() - dt.timedelta(days=keep_past_days)).isoformat()
     for eid in list(existing):
         e = existing[eid]

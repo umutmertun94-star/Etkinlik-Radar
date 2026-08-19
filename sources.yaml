@@ -196,29 +196,45 @@ sources:
   # ---------- Türkiye ----------
   # Topluluk slug'ları kommunity.com'da topluluğun adres çubuğundan alınır
   # (kommunity.com/<slug>). Yenilerini listeye ekleyin yeter.
-  # TRAI kommunity'de değil (Meetup + turkiye.ai kullanıyorlar; çekirdek
-  # listeye tekrarlayan seri olarak eklendi). Başka TR toplulukları
-  # eklemek isterseniz slug'larıyla birlikte bu kaynağı açın.
+  # TRAI kommunity'de DEĞİL (Meetup + turkiye.ai kullanıyorlar; çekirdek
+  # listeye tekrarlayan seri olarak eklendi) — eski yapılandırmadaki
+  # turkiye-yapay-zeka-inisiyatifi slug'ı bu yüzden 404 dönüyordu ve kaynak
+  # hiç çalışmıyordu. API'nin kendisi sağlam (Ağu 2026'da şema doğrulandı),
+  # aşağıdaki üç topluluk gerçek ve kayıt döndürüyor.
   - id: kommunity
     type: kommunity
-    enabled: false
+    enabled: true
     category: yapay-zeka
     communities:
-      - turkiye-yapay-zeka-inisiyatifi   # TRAI — slug'ı adres çubuğundan doğrulayın
-      # - ankara-ai                       # örnek: başka topluluklar buraya
+      - techistanbul               # Tech Istanbul (İBB) — girişimcilik/teknoloji
+      - bursa-bilisim-toplulugu    # BBT — yazılım/bulut/DevOps
+      - devnot                     # Devnot — yazılım geliştirici topluluğu
 
   # ---------- Vendor / analist webinarları ----------
-  # Aşağıdakiler webinar yoğun platformlar; CSS seçicileri Claude Code ile
-  # site site ayarlanacak (bazıları JS ağırlıklı, uyarlama gerekebilir).
-  # BrightTALK: her kanalın RSS'i vardır → kanal sayfasındaki numarayı alın,
-  # https://www.brighttalk.com/channel/<KANAL_NO>/feed adresini url'e yazın,
-  # enabled: true yapın. (Önerilen kanallar: central banking, cyber, AI konulu
-  # olanlar — kanal numaralarını siteden bakıp ekleyeceğiz.)
-  - id: brighttalk-ornek-kanal
+  # Webinar yoğun platformlar. BrightTALK RSS ile çalışıyor; Gartner ve SANS
+  # aşağıdaki gerekçelerle kapalı.
+  # BrightTALK: her kanalın RSS'i var — https://www.brighttalk.com/channel/<NO>/feed
+  # Aşağıdaki üç kanal numarası doğrulandı (Ağu 2026): konu bazlı topluluk
+  # kanalları seçildi, tek satıcıya ait kanallar reklam yoğun olduğu için değil.
+  # Başka kanal eklemek için kanal sayfasının adresindeki numarayı alın.
+  - id: brighttalk-fintech            # kanal 13689 "FinTech" — CBDC, ödeme, dijital para
     type: rss
-    enabled: false
-    url: "https://www.brighttalk.com/channel/KANAL_NO/feed"
+    enabled: true
+    url: "https://www.brighttalk.com/channel/13689/feed"
     category: merkez-bankaciligi
+    limit: 25
+  - id: brighttalk-infosec            # kanal 288 "Information Security" (çok kalabalık)
+    type: rss
+    enabled: true
+    url: "https://www.brighttalk.com/channel/288/feed"
+    category: siber-guvenlik
+    limit: 25
+  - id: brighttalk-ai                 # kanal 15321 "Artificial Intelligence"
+    type: rss
+    enabled: true
+    url: "https://www.brighttalk.com/channel/15321/feed"
+    category: yapay-zeka
+    limit: 25
 
   # KAPALI KALACAK — sebebi JS değil, Cloudflare. Hub'ın arkasındaki JSON ucu
   # bulundu (/ngw/syspath-bin/gartner/dynamiccontent, şema README'de) ama
