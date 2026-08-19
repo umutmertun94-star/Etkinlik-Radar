@@ -15,6 +15,26 @@
   "id": "158c8e7b6e430ab1"
  },
  {
+  "title": "3. Uluslararası Yapay Zekâ Çalışmaları Konferansı (ICAIS 2026),",
+  "url": "https://aybu.edu.tr/fbe/tr/haber/23423/3.-Uluslararası-Yapay-Zekâ-Çalışmaları-Konferansı-(ICAIS-2026),-",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": "2026-08-10",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Aug 10, 2026 · Bilimsel araştırmaların gerçek yaşam problemlerine çözüm üretmesi, sanayi ile ortak projelere dönüşmesi ve uluslararası iş birliklerinin geliştirilmesi amacıyla tüm alanlarda yapay zeka",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "b1884c5a0ca65e7b"
+ },
+ {
   "title": "Webinars | Thales",
   "url": "https://cpl.thalesgroup.com/resources/webinars",
   "category": "kuantum",
@@ -48,6 +68,45 @@
   "needs_review": false,
   "extra": {},
   "id": "e5adf21bf75d5813"
+ },
+ {
+  "title": "Aug 25-27 VIRTUAL: The Six Five Summit: AI Unleashed 2026 Featuring Marc Benioff & Enterprise AI Leaders REGISTER FOR FREE",
+  "url": "https://www.techmeme.com/r2/www.sixfivemedia.com_summit-hkXjOAfv.htm",
+  "category": "genel-bt",
+  "source": "techmeme-events",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "date_raw": "Aug 25-27",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "233e22e08d52acfb"
+ },
+ {
+  "title": "AI Virtual Summit 2026 - Governance & Security",
+  "url": "https://www.bing.com/aclick?ld=e8rFdwitdZhHTC_KD8RWVcYTVUCUyEzjQtuHMuG2yh38yG5qc3R_rf7xiF661F_T06DoFHGP495PU2OJfDSddBBHZemGu_6CYA53VgscxCWFodcl4lhmlVWblXYMOH6xsU98jZ-85RRoO0mXRudTXpzF0aq-jP2TQmrprvyhrzDuib3PLXtjGT57DmQTRivRbaBHju4D3IuWdTB1XD9_E6fZVhNqQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuYXZlcG9pbnQuY29tJTJmZXZlbnRzJTJmYWktdmlydHVhbC1zdW1taXQlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2ROQV9hdnNfQUktU3VtbWl0LTA3MjIyMDI2LUNNUC0xNTA4Mi1WMFE1TiUyNnV0bV90ZXJtJTNkYWklMjUyMGV2ZW50cyUyNnV0bV9jb250ZW50JTNkTkFfYXZzX0FJLVN1bW1pdC1icm9hZC0wNzIyMjAyNi1DTVAtMTUwODItVjBRNU4lMjZtc2Nsa2lkJTNkYzczYjhhOWIyZmM4MTE3NDUyYWVlMDFlOGU5YjVmOGE&rlid=c73b8a9b2fc8117452aee01e8e9b5f8a",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "site:iapp.org web conference AI governance",
+   "snippet": "AI Virtual Summit 2026: AI trust, governance, and security. Register now. Watch the AI Virtual Summit live broadcast on Sept. 10 at 11am. Register for free. Measurable Impact · Request Demo · See How ",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "7805361cc1c9183e"
  },
  {
   "title": "AI Virtual Summit 2026 - Register for Free Now",
@@ -313,6 +372,26 @@
   "needs_review": false,
   "extra": {},
   "id": "723ea798259c272d"
+ },
+ {
+  "title": "AI | October 25-27, 2026 | New York City - IQT Conference",
+  "url": "https://iqtevent.com/quantumai/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-25",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "site:thequantuminsider.com event OR conference",
+   "snippet": "EVERYONE BUILDING QUANTUM + AI WILL BE IN NEW YORK CITY THIS OCTOBER! IQT’s flagship conference, Q+AI 2026 (3.0), is the leading event worldwide devoted to the convergence of quantum computing and art",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "ab21fa33aac1b0e0"
  },
  {
   "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
@@ -593,7 +672,7 @@
   "end_date": null,
   "city": null,
   "country": null,
-  "online": false,
+  "online": null,
   "first_seen": "2026-08-19",
   "needs_review": false,
   "extra": {
@@ -602,25 +681,6 @@
    "llm_extracted": true
   },
   "id": "847eb732721b531e"
- },
- {
-  "title": "Aug 25-27 VIRTUAL: The Six Five Summit: AI Unleashed 2026 Featuring Marc Benioff & Enterprise AI Leaders REGISTER FOR FREE",
-  "url": "https://www.techmeme.com/r2/www.sixfivemedia.com_summit-hkXjOAfv.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-25",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 25-27",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "233e22e08d52acfb"
  },
  {
   "title": "Aug 31-Sep 3 NEW DATES: LEAP Riyadh, Saudi Arabia",
@@ -640,6 +700,25 @@
    "llm_extracted": true
   },
   "id": "d448d531aaec24b8"
+ },
+ {
+  "title": "Aug 31-Sep 3 VMware Explore Las Vegas",
+  "url": "https://www.techmeme.com/r2/www.vmware.com_explore_us-hQYYSn1F.htm",
+  "category": "genel-bt",
+  "source": "techmeme-events",
+  "start_date": "2026-08-31",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "date_raw": "Aug 31-Sep 3",
+   "llm_relevance": 6,
+   "llm_extracted": true
+  },
+  "id": "faf6822b07a6c7f5"
  },
  {
   "title": "Sep 1-3 CloudX + API:World + AI Tech World Santa Clara, CA",
@@ -680,66 +759,8 @@
   "id": "393091d18e1c3234"
  },
  {
-  "title": "Sep 9-11 FinovateFall New York",
-  "url": "https://www.techmeme.com/r2/informaconnect.com_finovatefall_-quEb6q27.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-09-09",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Sep 9-11",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "cf2a61d67b821756"
- },
- {
-  "title": "Sep 14-15 WSJ CIO Network Technology Council Summit New York",
-  "url": "https://www.techmeme.com/r2/leadershipinstitute.wsj.com_technology_event_technology-council-summit-september-2026_-jjkMZfLB.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-09-14",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Sep 14-15",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "333b4bfe049853c9"
- },
- {
-  "title": "3. Uluslararası Yapay Zekâ Çalışmaları Konferansı (ICAIS 2026),",
-  "url": "https://aybu.edu.tr/fbe/tr/haber/23423/3.-Uluslararası-Yapay-Zekâ-Çalışmaları-Konferansı-(ICAIS-2026),-",
-  "category": "yapay-zeka",
-  "source": "ddg-kesif",
-  "start_date": "2026-08-10",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": null,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
-   "snippet": "Aug 10, 2026 · Bilimsel araştırmaların gerçek yaşam problemlerine çözüm üretmesi, sanayi ile ortak projelere dönüşmesi ve uluslararası iş birliklerinin geliştirilmesi amacıyla tüm alanlarda yapay zeka",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "b1884c5a0ca65e7b"
- },
- {
-  "title": "Data Center Eurasia 2026, Küresel Veri Merkezi Ekosistemini Yeniden İstanbul’da Buluşturacak - Haberler",
-  "url": "https://www.haberler.com/haberler/data-center-eurasia-2026-kuresel-veri-merkezi-20157088-haberi/",
+  "title": "Data Center Eurasia 2026, Küresel Veri Merkezi Ekosistemini ...",
+  "url": "https://www.sondakika.com/haber/haber-data-center-eurasia-2026-kuresel-veri-merkezi-20157089/",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
   "start_date": "2026-10-07",
@@ -751,18 +772,18 @@
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "5 hours ago - Veri merkezi ve dijital altyapı ekosistemine adanmış Türkiye’nin uluslararası fuar ve konferans platformu Data Center Eurasia, 7–10 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde ikinc",
+   "snippet": "12 hours ago · Veri merkezi ve dijital altyapı ekosistemine adanmış Türkiye’nin uluslararası fuar ve konferans platformu Data Center Eurasia, 7–10 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde ikin",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "7c642c1b4d679f12"
+  "id": "74b46dfe50e29019"
  },
  {
-  "title": "Enerji Gündemi 'Veri merkezleri ve enerji' konuşulacak' - Enerji Ekonomisi",
-  "url": "https://www.enerjiekonomisi.com/enerji-gundemi-veri-merkezleri-ve-enerji-konusulacak/43556",
+  "title": "DCE - Data Center Eurasia 2026 | İFM - İstanbul Fuar Merkezi",
+  "url": "https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2026",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-08-26",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
@@ -771,18 +792,18 @@
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "4 days ago - Bu kapsamda TESAB tarafından 26 Ağustos 2026 tarihinde 10.30–12.00 saatleri arasında düzenlenecek “Veri Merkezleri: Küresel Gelişmeler ve Türkiye’nin Rotası” başlıklı etkinlikte, veri mer",
+   "snippet": "Veri merkezi sektöründeki büyük boşluğu dolduracak olan bu prestijli etkinlik, ilk yılında Ortadoğu, Avrupa, Türki Cumhuriyetleri, Uzak Doğu ve Afrika’dan 60 farklı ülkeden sektör profesyonellerini, g",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "a46c36d4eb8aded6"
+  "id": "9a3de2f4b061838c"
  },
  {
-  "title": "GITEX Ai Türkiye 2026 İstanbul’da teknoloji dünyasını buluşturacak - Haber Ege",
-  "url": "https://www.haberege.com.tr/kuresel-teknoloji-ekosistemi-istanbulda-bulusacak-1786544532-3427924",
+  "title": "Data Center Eurasia 2026: İstanbul Bölgenin Veri Merkezi Üssü ...",
+  "url": "https://trbusinessworld.com/tr/2026/07/12/data-center-eurasia-2026-istanbul-bolgenin-veri-merkezi-ussu-oluyor/",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-09-09",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
@@ -791,18 +812,38 @@
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "1 week ago - Avrasya'nın yapay zekâ ve teknoloji ekosistemini küresel yatırımcılarla buluşturmayı hedefleyen GITEX Ai Türkiye 2026, 9-10 Eylül tarihlerinde İstanbul Fuar Merkezi'nde gerçekleştirilecek",
-   "llm_relevance": 8,
+   "snippet": "Jul 12, 2026 · Data Center Eurasia, 7–10 Ekim 2026 tarihleri arasında İstanbul'da gerçekleşecek; 60'tan fazla ülkeden katılımcıyı bir araya getirecek olan etkinlik, Avrasya'nın veri merkezi sektörüne ",
+   "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "2f8fa4b1d48ef8dc"
+  "id": "44daa4d14c582333"
  },
  {
-  "title": "AI | October 25-27, 2026 | New York City - IQT Conference",
-  "url": "https://iqtevent.com/quantumai/",
+  "title": "Data Center Eurasia 2026 | Istanbul | expointurkey.org",
+  "url": "https://www.expointurkey.org/tr/fuar/data-center-eurasia-2026",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "2. Veri Merkezi, Altyapı Ve Dijital Teknolojiler Fuarı // - // Veri merkezi dünyasının Türkiye’deki en kapsamlı buluşma noktası olan Data Center Eurasia, dijital altyapı ekosisteminin tüm paydaşlarını",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "ed318e43e9d8b1de"
+ },
+ {
+  "title": "2026 Post-Quantum Cryptography Summit - In Person 9/16/26 | GSA",
+  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-in-person-91626",
   "category": "kuantum",
   "source": "ddg-kesif",
-  "start_date": "2026-10-25",
+  "start_date": "2026-09-16",
   "end_date": null,
   "city": null,
   "country": null,
@@ -810,12 +851,72 @@
   "first_seen": "2026-08-19",
   "needs_review": false,
   "extra": {
-   "query": "site:thequantuminsider.com event OR conference",
-   "snippet": "EVERYONE BUILDING QUANTUM + AI WILL BE IN NEW YORK CITY THIS OCTOBER! IQT’s flagship conference, Q+AI 2026 (3.0), is the leading event worldwide devoted to the convergence of quantum computing and art",
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "2 weeks ago - Virtual Registration · Virtual Location: Zoom for Government webinar · The 2026 Post-Quantum Cryptography Summit serves as a critical convening platform for federal agencies to proactive",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "ab21fa33aac1b0e0"
+  "id": "08af0d7aff84f070"
+ },
+ {
+  "title": "Register for the Post-Quantum Cryptography Conference 2026 in Amsterdam, Netherlands | PKI Consortium",
+  "url": "https://pkic.org/events/2026/pqc-conference-amsterdam-nl/register/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-12-01",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "In-person registration is currently full. Please proceed with registering for in-person attendance to join our waitlist. We anticipate some openings as schedules change and will invite waitlisted gues",
+   "llm_relevance": 6,
+   "llm_extracted": true
+  },
+  "id": "9e298acc010d1428"
+ },
+ {
+  "title": "Post-Quantum Cryptography Conference - December 1 - 3, 2026 - Amsterdam, The Netherlands | PKI Consortium",
+  "url": "https://pkic.org/events/2026/pqc-conference-amsterdam-nl/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-12-01",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Registration is Free. Global access. ... This conference was made possible through the support of the Post-Quantum Cryptography Working Group and the following organizations:",
+   "llm_relevance": 6,
+   "llm_extracted": true
+  },
+  "id": "10f3cc02fd0ab589"
+ },
+ {
+  "title": "Türkiye Yapay Zeka Zirvesi 2026 — Protokol - Protokol ...",
+  "url": "https://www.protokol.org.tr/etkinlik/turkiye-yapay-zeka-zirvesi-2026?lang=en",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": "2026-11-19",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "site:protokol.org.tr etkinlik teknoloji yapay zeka",
+   "snippet": "About the Event Turkey's largest artificial intelligence event. A summit hosting hundreds of organizations and thousands of participants. Enterprise adoption of generative AI solutions and vertical se",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "06f367675045b05c"
  },
  {
   "title": "Etkinlik Takvimi — Protokol - Protokol Yönetim Sistemi",
@@ -832,30 +933,50 @@
   "extra": {
    "query": "site:protokol.org.tr etkinlik teknoloji yapay zeka",
    "snippet": "Türkiye Yapay Zeka Zirvesi 2026 19 Kasım 2026 - 20 Kasım Wyndham Grand Levent, İstanbul Detay Gör",
-   "llm_relevance": 10,
+   "llm_relevance": 9,
    "llm_extracted": true
   },
   "id": "33e36279b1b21ed1"
  },
  {
-  "title": "AI Virtual Summit 2026 - Governance & Security",
-  "url": "https://www.bing.com/aclick?ld=e8rFdwitdZhHTC_KD8RWVcYTVUCUyEzjQtuHMuG2yh38yG5qc3R_rf7xiF661F_T06DoFHGP495PU2OJfDSddBBHZemGu_6CYA53VgscxCWFodcl4lhmlVWblXYMOH6xsU98jZ-85RRoO0mXRudTXpzF0aq-jP2TQmrprvyhrzDuib3PLXtjGT57DmQTRivRbaBHju4D3IuWdTB1XD9_E6fZVhNqQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuYXZlcG9pbnQuY29tJTJmZXZlbnRzJTJmYWktdmlydHVhbC1zdW1taXQlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2ROQV9hdnNfQUktU3VtbWl0LTA3MjIyMDI2LUNNUC0xNTA4Mi1WMFE1TiUyNnV0bV90ZXJtJTNkYWklMjUyMGV2ZW50cyUyNnV0bV9jb250ZW50JTNkTkFfYXZzX0FJLVN1bW1pdC1icm9hZC0wNzIyMjAyNi1DTVAtMTUwODItVjBRNU4lMjZtc2Nsa2lkJTNkYzczYjhhOWIyZmM4MTE3NDUyYWVlMDFlOGU5YjVmOGE&rlid=c73b8a9b2fc8117452aee01e8e9b5f8a",
-  "category": "ai-governance",
+  "title": "Quantum + AI | October 25-27, 2026 | New York City",
+  "url": "https://iqtevent.com/quantumai/",
+  "category": "kuantum",
   "source": "ddg-kesif",
-  "start_date": "2026-09-10",
+  "start_date": "2026-10-25",
   "end_date": null,
   "city": null,
   "country": null,
-  "online": true,
+  "online": false,
   "first_seen": "2026-08-19",
   "needs_review": false,
   "extra": {
-   "query": "site:iapp.org web conference AI governance",
-   "snippet": "AI Virtual Summit 2026: AI trust, governance, and security. Register now. Watch the AI Virtual Summit live broadcast on Sept. 10 at 11am. Register for free. Measurable Impact · Request Demo · See How ",
-   "llm_relevance": 9,
+   "query": "site:iqtevent.com",
+   "snippet": "EVERYONE BUILDING QUANTUM + AI WILL BE IN NEW YORK CITY THIS OCTOBER! IQT’s flagship conference, Q+AI 2026 (3.0), is the leading event worldwide devoted to the convergence of quantum computing and art",
+   "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "7805361cc1c9183e"
+  "id": "d931bb7468da9237"
+ },
+ {
+  "title": "Quantum + AI | October 25-27, 2026 | New York City",
+  "url": "https://iqtevent.com/quantumai/register-form/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-25",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "site:iqtevent.com",
+   "snippet": "Author and quantum industry expert Dr. Bob Sutor will be offering \"speed\" mentoring and coaching sessions at Q+AI. These 10 to 15 minute meetings are designed for students, quantum professionals, and ",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "821424fae70edfaf"
  },
  {
   "title": "Istanbul Fintech Week 2026 | Smart, Embedded, and Tokenized",
@@ -872,7 +993,7 @@
   "extra": {
    "query": "FinTech İstanbul etkinlik duyuru",
    "snippet": "5–7 October 2026, Hilton İstanbul Maslak Smart, Embedded, and Tokenized İstanbul Fintech Week 2026 powered by BEX Digital Wallet brings together the leaders building intelligent, embedded and tokenize",
-   "llm_relevance": 6,
+   "llm_relevance": 7,
    "llm_extracted": true
   },
   "id": "767dfb85271e656e"
