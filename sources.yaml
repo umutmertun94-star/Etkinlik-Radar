@@ -72,7 +72,10 @@ sources:
   # etkinlikler + VIRTUAL/HYBRID etiketleri. Türkiye filtresi yok ve
   # gerekmiyor: TR dışı yüz yüze etkinlikleri yukarıdaki yuz_yuze_ulkeler
   # kuralı zaten eler; online/hibrit olanlar + istisna_kurumlar kalır.
-  # Not: seçici tahminidir — ilk çalıştırmada 0 item gelirse logu bana getirin.
+  # Bilinen açık: şehir bilgisi başlıkta gömülü geldiğinden country alanı
+  # boş kalıyor, Seul/Riyad tipi yüz yüze etkinlikler sızabiliyor.
+  # Geçici çözüm LLM filtre prompt'unda; kalıcı çözüm (başlıktan
+  # şehir/VIRTUAL ayrıştırma) Claude Code seansında.
   - id: techmeme-events
     type: html
     enabled: true
@@ -104,7 +107,10 @@ sources:
       - {q: "TRAI yapay zeka meetup etkinlik",                  category: yapay-zeka, max: 6}
       - {q: "kommunity.com yapay zeka etkinlik Ankara İstanbul", category: yapay-zeka, max: 6}
       - {q: "site:brighttalk.com webinar central bank fintech", category: merkez-bankaciligi, max: 6}
-      - {q: "site:gartner.com/en/webinar",                      category: genel-bt, max: 6}
+      # Gartner: /en/webinar path'li site: sorgusu boş dönüyordu; hub JS ile
+      # yükleniyor. Tekil webinar sayfalarını hedefleyen iki sorguyla değiştirildi:
+      - {q: "site:gartner.com webinar AI security 2026 register",  category: genel-bt, max: 6}
+      - {q: "complimentary Gartner webinar AI governance",         category: ai-governance, max: 5}
       # --- Haber kaynağı listesindeki etkinlik düzenleyen kuruluşlar ---
       - {q: "site:omfif.org meeting OR seminar OR roundtable 2026", category: merkez-bankaciligi, max: 6}
       - {q: "site:centralbanking.com events OR training",           category: merkez-bankaciligi, max: 6}
@@ -124,8 +130,9 @@ sources:
       - {q: "site:suerf.org webinar OR conference 2026",            category: merkez-bankaciligi, max: 6}
       - {q: "site:digital-euro-association.de events",              category: merkez-bankaciligi, max: 4}
       - {q: "site:iapp.org web conference AI governance",           category: ai-governance, max: 5}
-      - {q: "site:lu.ma Istanbul AI",                               category: yapay-zeka, max: 6}
-      - {q: "site:lu.ma Ankara teknoloji",                          category: yapay-zeka, max: 5}
+      # lu.ma: site: kalıbı DDG'de boş dönüyor → düz sorguya çevrildi
+      - {q: "lu.ma Istanbul AI meetup etkinlik",                    category: yapay-zeka, max: 6}
+      - {q: "lu.ma Ankara yapay zeka teknoloji",                    category: yapay-zeka, max: 5}
       - {q: "ETSI IQC quantum safe cryptography workshop 2026",     category: kuantum, max: 4}
       - {q: "site:iqtevent.com",                                    category: kuantum, max: 4}
       - {q: "FinTech İstanbul etkinlik duyuru",                     category: merkez-bankaciligi, max: 5}
@@ -196,10 +203,13 @@ sources:
     url: "https://www.brighttalk.com/channel/KANAL_NO/feed"
     category: merkez-bankaciligi
 
+  # Gartner webinar hub'ı JS ile yükleniyor — basit HTML fetcher boş görür.
+  # Kalıcı çözüm (arkadaki JSON ucunu bulup bağlamak) Claude Code seansında;
+  # o zamana kadar Gartner'ı yukarıdaki iki DDG sorgusu taşıyor.
   - id: gartner-webinars
     type: html
     enabled: false
-    url: https://www.gartner.com/en/webinar
+    url: https://www.gartner.com/en/webinars
     category: genel-bt
     selectors: {item: ".webinar-card", title: "a", link: "a", date: ".date"}
   - id: sans-webcasts
