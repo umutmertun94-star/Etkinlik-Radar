@@ -1,7 +1,7 @@
 # ============================================================
 # Etkinlik Radarı — kaynak havuzu
 # Yeni kaynak eklemek için kod değişikliği gerekmez.
-# type: manual | confstech | rss | html | ddg
+# type: manual | confstech | rss | html | techmeme | ddg
 # ============================================================
 
 # Tarama kuralları:
@@ -72,16 +72,17 @@ sources:
   # etkinlikler + VIRTUAL/HYBRID etiketleri. Türkiye filtresi yok ve
   # gerekmiyor: TR dışı yüz yüze etkinlikleri yukarıdaki yuz_yuze_ulkeler
   # kuralı zaten eler; online/hibrit olanlar + istisna_kurumlar kalır.
-  # Bilinen açık: şehir bilgisi başlıkta gömülü geldiğinden country alanı
-  # boş kalıyor, Seul/Riyad tipi yüz yüze etkinlikler sızabiliyor.
-  # Geçici çözüm LLM filtre prompt'unda; kalıcı çözüm (başlıktan
-  # şehir/VIRTUAL ayrıştırma) Claude Code seansında.
+  # Kendi fetcher'ı var (type: techmeme): satırdaki tarih / başlık / şehir
+  # hücrelerini ayrı okur, VIRTUAL-HYBRID etiketini online'a çevirir,
+  # bilinen şehirleri ülkeye eşler ve "Earnings:" satırlarını atar.
+  # limit: sayfada ~140 satır var, tamamı alınsın diye 150.
   - id: techmeme-events
-    type: html
+    type: techmeme
     enabled: true
     url: https://www.techmeme.com/events
     category: genel-bt
-    selectors: {item: ".rhov", title: "a", link: "a", date: "div"}
+    limit: 150
+    selectors: {item: ".rhov"}
 
   # ---------- Keşif katmanı: DuckDuckGo (anahtarsız) ----------
   # Sabit havuzun dışını yakalayan haftalık sorgular.

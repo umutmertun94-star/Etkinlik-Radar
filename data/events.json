@@ -55,25 +55,6 @@
   "id": "b7c5a7a9b304ef2a"
  },
  {
-  "title": "Aug 19-21 AI Summit Seoul & Expo Seoul",
-  "url": "https://www.techmeme.com/r2/www.aisummitseoul.com_-BxaR73BC.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-19",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": null,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 19-21",
-   "llm_relevance": 7,
-   "llm_extracted": true
-  },
-  "id": "847eb732721b531e"
- },
- {
   "title": "TRAI Meet-Up (aylık yapay zeka buluşması)",
   "url": "https://turkiye.ai/trai-meet-up/",
   "category": "yapay-zeka",
@@ -87,101 +68,6 @@
   "needs_review": false,
   "extra": {},
   "id": "e5adf21bf75d5813"
- },
- {
-  "title": "Aug 25-27 VIRTUAL: The Six Five Summit: AI Unleashed 2026 Featuring Marc Benioff & Enterprise AI Leaders REGISTER FOR FREE",
-  "url": "https://www.techmeme.com/r2/www.sixfivemedia.com_summit-hkXjOAfv.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-25",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 25-27",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "233e22e08d52acfb"
- },
- {
-  "title": "Aug 31-Sep 3 NEW DATES: LEAP Riyadh, Saudi Arabia",
-  "url": "https://www.techmeme.com/r2/onegiantleap.com_-gTVMv8a0.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-31",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 31-Sep 3",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "d448d531aaec24b8"
- },
- {
-  "title": "Aug 31-Sep 3 VMware Explore Las Vegas",
-  "url": "https://www.techmeme.com/r2/www.vmware.com_explore_us-hQYYSn1F.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-31",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 31-Sep 3",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "faf6822b07a6c7f5"
- },
- {
-  "title": "Sep 1-3 CloudX + API:World + AI Tech World Santa Clara, CA",
-  "url": "https://www.techmeme.com/r2/cloudxconf.com_-1MMRYwof.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-09-01",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Sep 1-3",
-   "llm_relevance": 7,
-   "llm_extracted": true
-  },
-  "id": "cbb8eda78294e353"
- },
- {
-  "title": "Sep 2-3 Identity Week America Washington, DC",
-  "url": "https://www.techmeme.com/r2/www.terrapinn.com_exhibition_identity-week-america_index.stm-FC2lbZWO.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-09-02",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Sep 2-3",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "393091d18e1c3234"
  },
  {
   "title": "AI Virtual Summit 2026 - Governance & Security",

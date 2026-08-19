@@ -247,11 +247,241 @@ def fetch_kommunity(src: dict) -> list[Event]:
     return events
 
 
+# ------------------------------------------------------------------ Techmeme
+TECHMEME_URL = "https://www.techmeme.com/events"
+
+# Satır başındaki bilgi etiketleri — etkinliğin adının parçası değil.
+# VIRTUAL/HYBRID <em> içinde gelir, NEW DATES düz metin olarak.
+TECHMEME_MARKERS = ("VIRTUAL:", "HYBRID:", "NEW DATES:")
+
+# Etkinlik olmayan satırlar (bilanço takvimi aynı listede yayımlanıyor).
+TECHMEME_SKIP = re.compile(r"^(earnings|dividends?)\s*:", re.I)
+
+_MONTHS = {m: i for i, m in enumerate(
+    ["jan", "feb", "mar", "apr", "may", "jun",
+     "jul", "aug", "sep", "oct", "nov", "dec"], 1)}
+
+# "Austin, TX" gibi ABD eyalet kısaltmaları → United States
+_US_STATES = {
+    "AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DE", "DC", "FL", "GA", "HI",
+    "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", "MA", "MI", "MN",
+    "MS", "MO", "MT", "NE", "NV", "NH", "NJ", "NM", "NY", "NC", "ND", "OH",
+    "OK", "OR", "PA", "RI", "SC", "SD", "TN", "TX", "UT", "VT", "VA", "WA",
+    "WV", "WI", "WY", "PR",
+}
+
+# Techmeme şehir hücresinde çoğu zaman ülke yazmaz ("Seoul", "London").
+# Sabit eşleme listesi: listede olmayan şehirde country BOŞ bırakılır —
+# yuz_yuze_ulkeler kuralı ülkesi bilinmeyen yüz yüze etkinliği zaten eler,
+# yani bilinmeyen şehir temkinli tarafa düşer.
+TECHMEME_CITY_COUNTRY = {
+    # Türkiye
+    "istanbul": "Türkiye", "ankara": "Türkiye", "izmir": "Türkiye",
+    "antalya": "Türkiye",
+    # ABD (eyaletsiz yazılan büyük şehirler)
+    "las vegas": "United States", "san francisco": "United States",
+    "new york": "United States", "los angeles": "United States",
+    "san diego": "United States", "san jose": "United States",
+    "seattle": "United States", "boston": "United States",
+    "chicago": "United States", "austin": "United States",
+    "atlanta": "United States", "denver": "United States",
+    "dallas": "United States", "houston": "United States",
+    "detroit": "United States", "orlando": "United States",
+    "miami": "United States", "miami beach": "United States",
+    "phoenix": "United States", "portland": "United States",
+    "philadelphia": "United States", "nashville": "United States",
+    "minneapolis": "United States", "new orleans": "United States",
+    "salt lake city": "United States", "kansas city": "United States",
+    "palo alto": "United States", "santa clara": "United States",
+    "mountain view": "United States", "menlo park": "United States",
+    "sunnyvale": "United States", "cupertino": "United States",
+    "napa valley": "United States", "maui": "United States",
+    "honolulu": "United States", "anaheim": "United States",
+    # Kanada
+    "toronto": "Canada", "montreal": "Canada", "vancouver": "Canada",
+    "ottawa": "Canada", "calgary": "Canada", "edmonton": "Canada",
+    "waterloo": "Canada",
+    # Birleşik Krallık / İrlanda
+    "london": "United Kingdom", "edinburgh": "United Kingdom",
+    "manchester": "United Kingdom", "glasgow": "United Kingdom",
+    "bristol": "United Kingdom", "leeds": "United Kingdom",
+    "dublin": "Ireland",
+    # Avrupa
+    "amsterdam": "Netherlands", "rotterdam": "Netherlands",
+    "eindhoven": "Netherlands", "the hague": "Netherlands",
+    "berlin": "Germany", "munich": "Germany", "cologne": "Germany",
+    "hamburg": "Germany", "frankfurt": "Germany", "nuremberg": "Germany",
+    "stuttgart": "Germany", "dusseldorf": "Germany",
+    "paris": "France", "cannes": "France", "nice": "France",
+    "lyon": "France", "toulouse": "France",
+    "barcelona": "Spain", "madrid": "Spain", "valencia": "Spain",
+    "malaga": "Spain", "bilbao": "Spain",
+    "rome": "Italy", "milan": "Italy", "turin": "Italy",
+    "florence": "Italy", "venice": "Italy",
+    "lisbon": "Portugal", "porto": "Portugal",
+    "zurich": "Switzerland", "geneva": "Switzerland", "basel": "Switzerland",
+    "davos": "Switzerland", "lugano": "Switzerland",
+    "vienna": "Austria", "salzburg": "Austria",
+    "brussels": "Belgium", "antwerp": "Belgium",
+    "copenhagen": "Denmark", "stockholm": "Sweden",
+    "gothenburg": "Sweden", "oslo": "Norway", "helsinki": "Finland",
+    "reykjavik": "Iceland", "tallinn": "Estonia", "riga": "Latvia",
+    "vilnius": "Lithuania", "warsaw": "Poland", "krakow": "Poland",
+    "prague": "Czechia", "budapest": "Hungary", "bucharest": "Romania",
+    "sofia": "Bulgaria", "athens": "Greece", "belgrade": "Serbia",
+    "zagreb": "Croatia", "ljubljana": "Slovenia",
+    # Orta Doğu / Afrika
+    "dubai": "United Arab Emirates", "abu dhabi": "United Arab Emirates",
+    "riyadh": "Saudi Arabia", "jeddah": "Saudi Arabia", "neom": "Saudi Arabia",
+    "doha": "Qatar", "manama": "Bahrain", "kuwait city": "Kuwait",
+    "muscat": "Oman", "tel aviv": "Israel", "jerusalem": "Israel",
+    "cairo": "Egypt", "marrakech": "Morocco", "casablanca": "Morocco",
+    "cape town": "South Africa", "johannesburg": "South Africa",
+    "nairobi": "Kenya", "lagos": "Nigeria",
+    # Asya / Pasifik
+    "seoul": "South Korea", "busan": "South Korea", "incheon": "South Korea",
+    "tokyo": "Japan", "osaka": "Japan", "kyoto": "Japan",
+    "yokohama": "Japan", "beijing": "China", "shanghai": "China",
+    "shenzhen": "China", "guangzhou": "China", "hangzhou": "China",
+    "wuzhen": "China", "hong kong": "Hong Kong", "taipei": "Taiwan",
+    "singapore": "Singapore", "kuala lumpur": "Malaysia",
+    "jakarta": "Indonesia", "bali": "Indonesia", "bangkok": "Thailand",
+    "hanoi": "Vietnam", "ho chi minh city": "Vietnam", "manila": "Philippines",
+    "bengaluru": "India", "bangalore": "India", "mumbai": "India",
+    "new delhi": "India", "delhi": "India", "hyderabad": "India",
+    "chennai": "India", "pune": "India", "goa": "India",
+    "sydney": "Australia", "melbourne": "Australia", "brisbane": "Australia",
+    "perth": "Australia", "adelaide": "Australia", "canberra": "Australia",
+    "gold coast": "Australia", "auckland": "New Zealand",
+    "wellington": "New Zealand",
+    # Latin Amerika
+    "mexico city": "Mexico", "guadalajara": "Mexico", "monterrey": "Mexico",
+    "cancun": "Mexico", "sao paulo": "Brazil", "rio de janeiro": "Brazil",
+    "buenos aires": "Argentina", "santiago": "Chile", "bogota": "Colombia",
+    "medellin": "Colombia", "lima": "Peru",
+}
+
+
+def _techmeme_dates(raw: str, year: int) -> tuple[str | None, str | None, int | None]:
+    """'Aug 30-Sep 7' -> ('YYYY-08-30', 'YYYY-09-07', 8).
+
+    Sayfada yıl yazmaz; başlangıç ayını da döner ki çağıran taraf ay geriye
+    sardığında (Ara -> Oca) yılı ilerletebilsin.
+    """
+    m = re.match(
+        r"([A-Za-z]{3})[a-z]*\s+(\d{1,2})"
+        r"(?:\s*[-–—]\s*(?:([A-Za-z]{3})[a-z]*\s+)?(\d{1,2}))?",
+        (raw or "").strip(),
+    )
+    if not m:
+        return None, None, None
+    smon = _MONTHS.get(m.group(1).lower())
+    if not smon:
+        return None, None, None
+    emon = _MONTHS.get((m.group(3) or "").lower()) or smon
+    try:
+        start = dt.date(year, smon, int(m.group(2)))
+        end = dt.date(year + (1 if emon < smon else 0), emon,
+                      int(m.group(4)) if m.group(4) else int(m.group(2)))
+    except ValueError:                      # sayfadaki hatalı gün (ör. Feb 30)
+        return None, None, smon
+    return start.isoformat(), end.isoformat(), smon
+
+
+def _techmeme_place(loc_raw: str, marker: str) -> tuple[str | None, str | None, bool | None]:
+    """Şehir hücresi + satır etiketinden (city, country, online) üretir."""
+    if marker.startswith("VIRTUAL"):
+        return None, None, True             # tamamen çevrimiçi: yer bilgisi yok
+    # HYBRID'de uzaktan katılım mümkün -> online sayılır, yer bilgisi korunur.
+    online = True if marker.startswith("HYBRID") else (False if loc_raw else None)
+    if not loc_raw:
+        return None, None, online
+    city, _, tail = loc_raw.partition(",")
+    city, tail = city.strip(), tail.strip()
+    if tail:                                # "Austin, TX" / "Bali, Indonesia"
+        country = "United States" if tail.upper() in _US_STATES else tail
+    else:
+        country = TECHMEME_CITY_COUNTRY.get(city.lower())
+    return city or None, country, online
+
+
+def fetch_techmeme(src: dict) -> list[Event]:
+    """Techmeme Events — editör küratörlü tek sayfalık küresel etkinlik takvimi.
+
+    Satır yapısı (item seçicisi .rhov):
+        <a><div>Aug 30-Sep 7</div>
+           <div>[<em>VIRTUAL:</em>] Etkinlik Adı <span>REGISTER NOW</span></div>
+           <div>Şehir[, Ülke/Eyalet]</div></a>
+
+    Genel html fetcher'ı satırın tamamını başlık sanıyor; tarih, şehir ve
+    VIRTUAL etiketi başlığa gömülü kaldığı için country/online boş kalıyor,
+    yuz_yuze_ulkeler kuralı işlemiyordu. Burada üç hücre ayrı ayrı okunur.
+    """
+    url = src.get("url", TECHMEME_URL)
+    soup = BeautifulSoup(_get(url).text, "html.parser")
+    item_sel = src.get("selectors", {}).get("item", ".rhov")
+    today = dt.date.today()
+    year, prev_month = today.year, today.month
+    events: list[Event] = []
+
+    for node in soup.select(item_sel)[: src.get("limit", 150)]:
+        a = node.select_one("a")
+        if not a or not a.get("href"):
+            continue
+        cells = a.find_all("div", recursive=False)
+        if len(cells) < 2:
+            continue
+
+        marker = ""
+        em = cells[1].find("em")
+        if em:
+            marker = em.get_text(strip=True).upper()
+            em.decompose()
+        for promo in cells[1].find_all("span"):     # "REGISTER NOW" rozeti
+            promo.decompose()
+        title = re.sub(r"\*{2,}.*?\*{2,}", "", cells[1].get_text(" ", strip=True))
+        for mk in TECHMEME_MARKERS:                 # <em> dışında düz metin de gelir
+            if title.upper().startswith(mk):
+                marker = marker or mk
+                title = title[len(mk):]
+        title = re.sub(r"\s{2,}", " ", title).strip(" -–—:")
+        if not title or TECHMEME_SKIP.match(title):
+            continue
+
+        date_raw = cells[0].get_text(" ", strip=True)
+        start, end, smon = _techmeme_dates(date_raw, year)
+        if smon and smon < prev_month:              # liste kronolojik: yıl döndü
+            year += 1
+            start, end, smon = _techmeme_dates(date_raw, year)
+        if smon:
+            prev_month = smon
+
+        city, country, online = _techmeme_place(
+            cells[2].get_text(" ", strip=True) if len(cells) > 2 else "", marker)
+
+        events.append(Event(
+            title=title,
+            url=requests.compat.urljoin(url, a["href"]),
+            category=src.get("category", "genel-bt"),
+            source=src["id"],
+            start_date=start,
+            end_date=end if end != start else None,
+            city=city,
+            country=country,
+            online=online,
+            # Tarih/yer artık kesin; konu ilgisini LLM filtresi karara bağlar.
+            needs_review=True,
+            extra={"date_raw": date_raw},
+        ))
+    return events
+
+
 FETCHERS = {
     "kommunity": fetch_kommunity,
     "manual": fetch_manual,
     "confstech": fetch_confstech,
     "rss": fetch_rss,
     "html": fetch_html,
+    "techmeme": fetch_techmeme,
     "ddg": fetch_ddg,
 }
