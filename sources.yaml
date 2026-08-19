@@ -67,6 +67,19 @@ sources:
       data: yapay-zeka
       networking: veri-merkezi
 
+  # ---------- Küresel dizinler (Ağu 2026 dizin taraması) ----------
+  # Techmeme Events: editör küratörlü tek sayfa, tüm büyük küresel
+  # etkinlikler + VIRTUAL/HYBRID etiketleri. Türkiye filtresi yok ve
+  # gerekmiyor: TR dışı yüz yüze etkinlikleri yukarıdaki yuz_yuze_ulkeler
+  # kuralı zaten eler; online/hibrit olanlar + istisna_kurumlar kalır.
+  # Not: seçici tahminidir — ilk çalıştırmada 0 item gelirse logu bana getirin.
+  - id: techmeme-events
+    type: html
+    enabled: true
+    url: https://www.techmeme.com/events
+    category: genel-bt
+    selectors: {item: ".rhov", title: "a", link: "a", date: "div"}
+
   # ---------- Keşif katmanı: DuckDuckGo (anahtarsız) ----------
   # Sabit havuzun dışını yakalayan haftalık sorgular.
   - id: ddg-kesif
@@ -106,6 +119,18 @@ sources:
       - {q: "official statistics data standards conference 2026",   category: merkez-bankaciligi, max: 5}
       - {q: "central bank statistics data governance workshop",     category: merkez-bankaciligi, max: 4}
       - {q: "site:sdmx.io event",                                   category: merkez-bankaciligi, max: 4}
+      # --- Dizin taraması eklemeleri (Ağu 2026) ---
+      - {q: "site:protokol.org.tr etkinlik teknoloji yapay zeka",   category: genel-bt, max: 5}
+      - {q: "site:suerf.org webinar OR conference 2026",            category: merkez-bankaciligi, max: 6}
+      - {q: "site:digital-euro-association.de events",              category: merkez-bankaciligi, max: 4}
+      - {q: "site:iapp.org web conference AI governance",           category: ai-governance, max: 5}
+      - {q: "site:lu.ma Istanbul AI",                               category: yapay-zeka, max: 6}
+      - {q: "site:lu.ma Ankara teknoloji",                          category: yapay-zeka, max: 5}
+      - {q: "ETSI IQC quantum safe cryptography workshop 2026",     category: kuantum, max: 4}
+      - {q: "site:iqtevent.com",                                    category: kuantum, max: 4}
+      - {q: "FinTech İstanbul etkinlik duyuru",                     category: merkez-bankaciligi, max: 5}
+      - {q: "ISC Turkey siber güvenlik konferansı Ankara",          category: siber-guvenlik, max: 4}
+      - {q: "Siber Güvenlik Kümelenmesi etkinlik",                  category: siber-guvenlik, max: 4}
 
   # ---------- Google Alerts (RSS) ----------
   # Kurulum: google.com/alerts → sorgu oluştur → "Teslim: RSS özet akışı"
@@ -136,10 +161,11 @@ sources:
     url: https://www.suerf.org/events/
     category: merkez-bankaciligi
     selectors: {item: ".event", title: "a", link: "a", date: ".date"}
+  # OMFIF: etkinlik listesi /events/ değil /meetings/ altında (doğrulandı).
   - id: omfif-events
     type: html
     enabled: false
-    url: https://www.omfif.org/events/
+    url: https://www.omfif.org/meetings/
     category: merkez-bankaciligi
     selectors: {item: ".event-card", title: "h3", link: "a", date: ".date"}
 
