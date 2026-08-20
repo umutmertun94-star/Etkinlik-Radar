@@ -1,3 +1,6 @@
 __pycache__/
 *.py[cod]
 .venv/
+
+# seans plan notu, repoya girmesin
+etkinlik-radar-claude-code-gorevleri.md
