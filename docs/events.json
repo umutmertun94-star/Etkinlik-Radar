@@ -1,20 +1,5 @@
 [
  {
-  "title": "Personal AI Agents — LIVE",
-  "url": "https://www.summit.ai",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-07-21",
-  "end_date": "2026-07-21",
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-08-12",
-  "needs_review": false,
-  "extra": {},
-  "id": "158c8e7b6e430ab1"
- },
- {
   "title": "3. Uluslararası Yapay Zekâ Çalışmaları Konferansı (ICAIS 2026),",
   "url": "https://aybu.edu.tr/fbe/tr/haber/23423/3.-Uluslararası-Yapay-Zekâ-Çalışmaları-Konferansı-(ICAIS-2026),-",
   "category": "yapay-zeka",
@@ -68,25 +53,6 @@
   "needs_review": false,
   "extra": {},
   "id": "e5adf21bf75d5813"
- },
- {
-  "title": "Aug 25-27 VIRTUAL: The Six Five Summit: AI Unleashed 2026 Featuring Marc Benioff & Enterprise AI Leaders REGISTER FOR FREE",
-  "url": "https://www.techmeme.com/r2/www.sixfivemedia.com_summit-hkXjOAfv.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-25",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 25-27",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "233e22e08d52acfb"
  },
  {
   "title": "AI Virtual Summit 2026 - Governance & Security",
@@ -182,6 +148,26 @@
   "needs_review": false,
   "extra": {},
   "id": "914cf1fe9bb13ed7"
+ },
+ {
+  "title": "2026 Post-Quantum Cryptography Summit - In Person 9/16/26 | GSA",
+  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-in-person-91626",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-16",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-08-19",
+  "needs_review": false,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "2 weeks ago - Virtual Registration · Virtual Location: Zoom for Government webinar · The 2026 Post-Quantum Cryptography Summit serves as a critical convening platform for federal agencies to proactive",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "08af0d7aff84f070"
  },
  {
   "title": "2026 Post-Quantum Cryptography Summit - Virtual 9/16/26 | GSA",
@@ -664,338 +650,141 @@
   "id": "d48909b23363ad0a"
  },
  {
-  "title": "Aug 19-21 AI Summit Seoul & Expo Seoul",
-  "url": "https://www.techmeme.com/r2/www.aisummitseoul.com_-BxaR73BC.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-19",
+  "title": "Data Center Eurasia 2026, Küresel Veri Merkezi Ekosistemini Yeniden İstanbul’da Buluşturacak - Haberler",
+  "url": "https://www.haberler.com/haberler/data-center-eurasia-2026-kuresel-veri-merkezi-20157088-haberi/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-08-24",
+  "needs_review": false,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "5 days ago - Veri merkezi ve dijital altyapı ekosistemine adanmış Türkiye’nin uluslararası fuar ve konferans platformu Data Center Eurasia, 7–10 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde ikinci",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "7c642c1b4d679f12"
+ },
+ {
+  "title": "Enerji Gündemi 'Veri merkezleri ve enerji' konuşulacak' - Enerji Ekonomisi",
+  "url": "https://www.enerjiekonomisi.com/enerji-gundemi-veri-merkezleri-ve-enerji-konusulacak/43556",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": "2026-08-26",
   "end_date": null,
   "city": null,
   "country": null,
   "online": null,
-  "first_seen": "2026-08-19",
+  "first_seen": "2026-08-24",
   "needs_review": false,
   "extra": {
-   "date_raw": "Aug 19-21",
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "1 week ago - Bu kapsamda TESAB tarafından 26 Ağustos 2026 tarihinde 10.30–12.00 saatleri arasında düzenlenecek “Veri Merkezleri: Küresel Gelişmeler ve Türkiye’nin Rotası” başlıklı etkinlikte, veri mer",
+   "engine": "ddg",
    "llm_relevance": 7,
    "llm_extracted": true
   },
-  "id": "847eb732721b531e"
+  "id": "a46c36d4eb8aded6"
  },
  {
-  "title": "Aug 31-Sep 3 NEW DATES: LEAP Riyadh, Saudi Arabia",
-  "url": "https://www.techmeme.com/r2/onegiantleap.com_-gTVMv8a0.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-31",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 31-Sep 3",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "d448d531aaec24b8"
- },
- {
-  "title": "Aug 31-Sep 3 VMware Explore Las Vegas",
-  "url": "https://www.techmeme.com/r2/www.vmware.com_explore_us-hQYYSn1F.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-08-31",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Aug 31-Sep 3",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "faf6822b07a6c7f5"
- },
- {
-  "title": "Sep 1-3 CloudX + API:World + AI Tech World Santa Clara, CA",
-  "url": "https://www.techmeme.com/r2/cloudxconf.com_-1MMRYwof.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-09-01",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Sep 1-3",
-   "llm_relevance": 7,
-   "llm_extracted": true
-  },
-  "id": "cbb8eda78294e353"
- },
- {
-  "title": "Sep 2-3 Identity Week America Washington, DC",
-  "url": "https://www.techmeme.com/r2/www.terrapinn.com_exhibition_identity-week-america_index.stm-FC2lbZWO.htm",
-  "category": "genel-bt",
-  "source": "techmeme-events",
-  "start_date": "2026-09-02",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "date_raw": "Sep 2-3",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "393091d18e1c3234"
- },
- {
-  "title": "Data Center Eurasia 2026, Küresel Veri Merkezi Ekosistemini ...",
-  "url": "https://www.sondakika.com/haber/haber-data-center-eurasia-2026-kuresel-veri-merkezi-20157089/",
+  "title": "GITEX Ai Türkiye 2026 Başlıyor | Fintechtime",
+  "url": "https://fintechtime.com/2026/08/gitex-ai-turkiye-2026-basliyor/",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-10-07",
+  "start_date": "2026-09-09",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-08-19",
+  "first_seen": "2026-08-24",
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "12 hours ago · Veri merkezi ve dijital altyapı ekosistemine adanmış Türkiye’nin uluslararası fuar ve konferans platformu Data Center Eurasia, 7–10 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde ikin",
+   "snippet": "3 days ago - Bu yükseliş, Türkiye’nin en ... GITEX Ai Türkiye 2026’nın ilk kez düzenlenmesiyle yeni bir boyut kazanıyor. Etkinlik, 9–10 Eylül 2026 tarihlerinde İstanbul Fuar Merkezi’nde gerçekleştiril",
+   "engine": "ddg",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "74b46dfe50e29019"
+  "id": "87b77d213dc8ec6c"
  },
  {
-  "title": "DCE - Data Center Eurasia 2026 | İFM - İstanbul Fuar Merkezi",
-  "url": "https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2026",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-07",
+  "title": "Girişimciler için Satış Süreçleri: İlk Müşteriden Tekrarlayan Gelire",
+  "url": "https://kommunity.com/techistanbul/events/girisimciler-icin-satis-surecleri-ilk-musteriden-tekrarlayan-gelire-b5917752",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-08-27",
   "end_date": null,
-  "city": null,
-  "country": null,
+  "city": "Tech Istanbul | Şişli",
+  "country": "Türkiye",
   "online": false,
-  "first_seen": "2026-08-19",
+  "first_seen": "2026-08-24",
   "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "Veri merkezi sektöründeki büyük boşluğu dolduracak olan bu prestijli etkinlik, ilk yılında Ortadoğu, Avrupa, Türki Cumhuriyetleri, Uzak Doğu ve Afrika’dan 60 farklı ülkeden sektör profesyonellerini, g",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "9a3de2f4b061838c"
+  "extra": {},
+  "id": "7789458d9e3f991c"
  },
  {
-  "title": "Data Center Eurasia 2026: İstanbul Bölgenin Veri Merkezi Üssü ...",
-  "url": "https://trbusinessworld.com/tr/2026/07/12/data-center-eurasia-2026-istanbul-bolgenin-veri-merkezi-ussu-oluyor/",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-07",
+  "title": "Girişimciler için AI ile İşini Dönüştürmek",
+  "url": "https://kommunity.com/techistanbul/events/girisimciler-icin-ai-ile-isini-donusturmek-9175e952",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-03",
   "end_date": null,
-  "city": null,
-  "country": null,
+  "city": "Tech Istanbul | Şişli",
+  "country": "Türkiye",
   "online": false,
-  "first_seen": "2026-08-19",
+  "first_seen": "2026-08-24",
   "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "Jul 12, 2026 · Data Center Eurasia, 7–10 Ekim 2026 tarihleri arasında İstanbul'da gerçekleşecek; 60'tan fazla ülkeden katılımcıyı bir araya getirecek olan etkinlik, Avrasya'nın veri merkezi sektörüne ",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "44daa4d14c582333"
+  "extra": {},
+  "id": "9c3e1c4d6f0e480a"
  },
  {
-  "title": "Data Center Eurasia 2026 | Istanbul | expointurkey.org",
-  "url": "https://www.expointurkey.org/tr/fuar/data-center-eurasia-2026",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-07",
+  "title": "Girişimciler için Globale Açılma: ABD Pazarına Giriş Rehberi",
+  "url": "https://kommunity.com/techistanbul/events/girisimciler-icin-globale-acilma-abd-pazarina-giris-rehberi-debbe064",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-10",
   "end_date": null,
-  "city": null,
-  "country": null,
+  "city": "Tech Istanbul | Şişli",
+  "country": "Türkiye",
   "online": false,
-  "first_seen": "2026-08-19",
+  "first_seen": "2026-08-24",
   "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "2. Veri Merkezi, Altyapı Ve Dijital Teknolojiler Fuarı // - // Veri merkezi dünyasının Türkiye’deki en kapsamlı buluşma noktası olan Data Center Eurasia, dijital altyapı ekosisteminin tüm paydaşlarını",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "ed318e43e9d8b1de"
+  "extra": {},
+  "id": "42479e7c49859aaf"
  },
  {
-  "title": "2026 Post-Quantum Cryptography Summit - In Person 9/16/26 | GSA",
-  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-in-person-91626",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-09-16",
+  "title": "Cyber Security Summit 2026",
+  "url": "https://kommunity.com/devnot/events/cyber-security-summit-2026-2d6d47c8",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-10",
   "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "post-quantum cryptography webinar 2026 register",
-   "snippet": "2 weeks ago - Virtual Registration · Virtual Location: Zoom for Government webinar · The 2026 Post-Quantum Cryptography Summit serves as a critical convening platform for federal agencies to proactive",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "08af0d7aff84f070"
- },
- {
-  "title": "Register for the Post-Quantum Cryptography Conference 2026 in Amsterdam, Netherlands | PKI Consortium",
-  "url": "https://pkic.org/events/2026/pqc-conference-amsterdam-nl/register/",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-12-01",
-  "end_date": null,
-  "city": null,
-  "country": null,
+  "city": "Istanbul Marriott Hotel Asia",
+  "country": "Türkiye",
   "online": false,
-  "first_seen": "2026-08-19",
+  "first_seen": "2026-08-24",
   "needs_review": false,
-  "extra": {
-   "query": "post-quantum cryptography webinar 2026 register",
-   "snippet": "In-person registration is currently full. Please proceed with registering for in-person attendance to join our waitlist. We anticipate some openings as schedules change and will invite waitlisted gues",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "9e298acc010d1428"
+  "extra": {},
+  "id": "3c52ca84dcfc360d"
  },
  {
-  "title": "Post-Quantum Cryptography Conference - December 1 - 3, 2026 - Amsterdam, The Netherlands | PKI Consortium",
-  "url": "https://pkic.org/events/2026/pqc-conference-amsterdam-nl/",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-12-01",
+  "title": "Developer Summit 2026",
+  "url": "https://kommunity.com/devnot/events/developer-summit-2026-88dda516",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-10-17",
   "end_date": null,
-  "city": null,
-  "country": null,
+  "city": "Elite World Grand İstanbul Küçükyalı",
+  "country": "Türkiye",
   "online": false,
-  "first_seen": "2026-08-19",
+  "first_seen": "2026-08-24",
   "needs_review": false,
-  "extra": {
-   "query": "post-quantum cryptography webinar 2026 register",
-   "snippet": "Registration is Free. Global access. ... This conference was made possible through the support of the Post-Quantum Cryptography Working Group and the following organizations:",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "10f3cc02fd0ab589"
- },
- {
-  "title": "Türkiye Yapay Zeka Zirvesi 2026 — Protokol - Protokol ...",
-  "url": "https://www.protokol.org.tr/etkinlik/turkiye-yapay-zeka-zirvesi-2026?lang=en",
-  "category": "genel-bt",
-  "source": "ddg-kesif",
-  "start_date": "2026-11-19",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "site:protokol.org.tr etkinlik teknoloji yapay zeka",
-   "snippet": "About the Event Turkey's largest artificial intelligence event. A summit hosting hundreds of organizations and thousands of participants. Enterprise adoption of generative AI solutions and vertical se",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "06f367675045b05c"
- },
- {
-  "title": "Etkinlik Takvimi — Protokol - Protokol Yönetim Sistemi",
-  "url": "https://www.protokol.org.tr/etkinlikler?kategori=Teknoloji",
-  "category": "genel-bt",
-  "source": "ddg-kesif",
-  "start_date": "2026-11-19",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "site:protokol.org.tr etkinlik teknoloji yapay zeka",
-   "snippet": "Türkiye Yapay Zeka Zirvesi 2026 19 Kasım 2026 - 20 Kasım Wyndham Grand Levent, İstanbul Detay Gör",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "33e36279b1b21ed1"
- },
- {
-  "title": "Quantum + AI | October 25-27, 2026 | New York City",
-  "url": "https://iqtevent.com/quantumai/",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-25",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "site:iqtevent.com",
-   "snippet": "EVERYONE BUILDING QUANTUM + AI WILL BE IN NEW YORK CITY THIS OCTOBER! IQT’s flagship conference, Q+AI 2026 (3.0), is the leading event worldwide devoted to the convergence of quantum computing and art",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "d931bb7468da9237"
- },
- {
-  "title": "Quantum + AI | October 25-27, 2026 | New York City",
-  "url": "https://iqtevent.com/quantumai/register-form/",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-25",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "site:iqtevent.com",
-   "snippet": "Author and quantum industry expert Dr. Bob Sutor will be offering \"speed\" mentoring and coaching sessions at Q+AI. These 10 to 15 minute meetings are designed for students, quantum professionals, and ",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "821424fae70edfaf"
- },
- {
-  "title": "Istanbul Fintech Week 2026 | Smart, Embedded, and Tokenized",
-  "url": "https://istanbulfintechweek.com/",
-  "category": "merkez-bankaciligi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-05",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "FinTech İstanbul etkinlik duyuru",
-   "snippet": "5–7 October 2026, Hilton İstanbul Maslak Smart, Embedded, and Tokenized İstanbul Fintech Week 2026 powered by BEX Digital Wallet brings together the leaders building intelligent, embedded and tokenize",
-   "llm_relevance": 7,
-   "llm_extracted": true
-  },
-  "id": "767dfb85271e656e"
+  "extra": {},
+  "id": "e9da9f709b31d985"
  }
 ]
