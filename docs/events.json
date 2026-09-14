@@ -1,45 +1,5 @@
 [
  {
-  "title": "3. Uluslararası Yapay Zekâ Çalışmaları Konferansı (ICAIS 2026),",
-  "url": "https://aybu.edu.tr/fbe/tr/haber/23423/3.-Uluslararası-Yapay-Zekâ-Çalışmaları-Konferansı-(ICAIS-2026),-",
-  "category": "yapay-zeka",
-  "source": "ddg-kesif",
-  "start_date": "2026-08-10",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": null,
-  "first_seen": "2026-08-19",
-  "needs_review": false,
-  "extra": {
-   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
-   "snippet": "Aug 10, 2026 · Bilimsel araştırmaların gerçek yaşam problemlerine çözüm üretmesi, sanayi ile ortak projelere dönüşmesi ve uluslararası iş birliklerinin geliştirilmesi amacıyla tüm alanlarda yapay zeka",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "b1884c5a0ca65e7b"
- },
- {
-  "title": "Webinars | Thales",
-  "url": "https://cpl.thalesgroup.com/resources/webinars",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-08-10",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-08-17",
-  "needs_review": false,
-  "extra": {
-   "query": "post-quantum cryptography webinar 2026 register",
-   "snippet": "Aug 10, 2026 · The Practical Roadmap to PQC: From Inventory to Execution Discover how to turn post-quantum cryptography (PQC) planning into action. This webinar will walk through the key steps to iden",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "b7c5a7a9b304ef2a"
- },
- {
   "title": "TRAI Meet-Up (aylık yapay zeka buluşması)",
   "url": "https://turkiye.ai/trai-meet-up/",
   "category": "yapay-zeka",
@@ -53,6 +13,21 @@
   "needs_review": false,
   "extra": {},
   "id": "e5adf21bf75d5813"
+ },
+ {
+  "title": "TestMu Conference",
+  "url": "https://www.testmuai.com/testmuconf-2026",
+  "category": "yapay-zeka",
+  "source": "confstech",
+  "start_date": "2026-08-19",
+  "end_date": "2026-08-21",
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-07",
+  "needs_review": false,
+  "extra": {},
+  "id": "4f1c90869b1cb1c0"
  },
  {
   "title": "Enerji Gündemi 'Veri merkezleri ve enerji' konuşulacak' - Enerji Ekonomisi",
@@ -119,6 +94,21 @@
   "needs_review": false,
   "extra": {},
   "id": "9c3e1c4d6f0e480a"
+ },
+ {
+  "title": "Uygulamalı Yapay Zekâ Geliştirme Bootcamp",
+  "url": "https://kommunity.com/techistanbul/events/uygulamaliyapayzekabootcamp-6335021f",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-08",
+  "end_date": null,
+  "city": null,
+  "country": "Türkiye",
+  "online": true,
+  "first_seen": "2026-09-07",
+  "needs_review": false,
+  "extra": {},
+  "id": "ad571635f02cfe0a"
  },
  {
   "title": "Yapay Zeka Mühendisliği Bootcamp",
@@ -246,6 +236,21 @@
   "id": "132d4c518623039c"
  },
  {
+  "title": "BBT Yoga & Meditasyon: Aslı Kaya",
+  "url": "https://kommunity.com/bursa-bilisim-toplulugu/events/bbt-yoga-meditasyon-asli-kaya-b39a9bab",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-13",
+  "end_date": null,
+  "city": "Hüdavendigar Kent Parkı",
+  "country": "Türkiye",
+  "online": false,
+  "first_seen": "2026-09-07",
+  "needs_review": false,
+  "extra": {},
+  "id": "96a312b5c6326657"
+ },
+ {
   "title": "Code Europe",
   "url": "https://www.codeeurope.pl",
   "category": "genel-bt",
@@ -320,6 +325,21 @@
    "llm_extracted": true
   },
   "id": "7453cd7466244dee"
+ },
+ {
+  "title": "Prompt Engineering 2.0 (Multimodal) Atölyesi",
+  "url": "https://kommunity.com/techistanbul/events/prompt-engineering-20-multimodal-atolyesi-be76a9f7",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-16",
+  "end_date": null,
+  "city": null,
+  "country": "Türkiye",
+  "online": true,
+  "first_seen": "2026-09-07",
+  "needs_review": false,
+  "extra": {},
+  "id": "cce64782f116c1fc"
  },
  {
   "title": "TRAI Meet-Up (aylık yapay zeka buluşması)",
@@ -410,6 +430,21 @@
   "needs_review": false,
   "extra": {},
   "id": "a319728f4997e03d"
+ },
+ {
+  "title": "Prompt Engineering Temelleri",
+  "url": "https://kommunity.com/techistanbul/events/prompt-engineering-temelleri-a8c184d2",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-29",
+  "end_date": null,
+  "city": "Tech Istanbul | Kayışdağı",
+  "country": "Türkiye",
+  "online": false,
+  "first_seen": "2026-09-07",
+  "needs_review": false,
+  "extra": {},
+  "id": "ab99799e54112f76"
  },
  {
   "title": "AI Governance Online (AIGov Online) 2026 | Free Virtual Conference",
@@ -629,6 +664,27 @@
   "id": "0599aefc0316efb0"
  },
  {
+  "title": "Events / Startups.watch",
+  "url": "https://startups.watch/events",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": "2026-11-11",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-09-07",
+  "needs_review": false,
+  "extra": {
+   "query": "lu.ma Ankara yapay zeka teknoloji",
+   "snippet": "Türkiye Yapay Zeka Zirvesi. TRAI · Summit · Artificial intelligence, November 11, 2026 09:00 ; Startups.watch All-Verticals Demo Day 2026/2. Startups.watch ...",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "8bc53fb656b4728d"
+ },
+ {
   "title": "API Conference Berlin",
   "url": "https://apiconference.net/berlin",
   "category": "siber-guvenlik",
@@ -824,6 +880,21 @@
   "id": "a716134b8dced821"
  },
  {
+  "title": "TRAI Meet-Up (aylık yapay zeka buluşması)",
+  "url": "https://turkiye.ai/trai-meet-up/",
+  "category": "yapay-zeka",
+  "source": "cekirdek-liste",
+  "start_date": "2026-12-16",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-07",
+  "needs_review": false,
+  "extra": {},
+  "id": "2778292f5e945f6e"
+ },
+ {
   "title": "AI for Developers",
   "url": "https://aiconference.dev",
   "category": "yapay-zeka",
@@ -852,36 +923,6 @@
   "needs_review": false,
   "extra": {},
   "id": "d48909b23363ad0a"
- },
- {
-  "title": "TRAI Meet-Up (aylık yapay zeka buluşması)",
-  "url": "https://turkiye.ai/trai-meet-up/",
-  "category": "yapay-zeka",
-  "source": "cekirdek-liste",
-  "start_date": "2026-12-16",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-09-07",
-  "needs_review": false,
-  "extra": {},
-  "id": "2778292f5e945f6e"
- },
- {
-  "title": "TestMu Conference",
-  "url": "https://www.testmuai.com/testmuconf-2026",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-08-19",
-  "end_date": "2026-08-21",
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-09-07",
-  "needs_review": false,
-  "extra": {},
-  "id": "4f1c90869b1cb1c0"
  },
  {
   "title": "Java Day Istanbul",
@@ -914,6 +955,57 @@
   "id": "8dd67424fb0da8b5"
  },
  {
+  "title": "Applied AI Technology Conference",
+  "url": "https://wearecommunity.io/events/applied-ai",
+  "category": "yapay-zeka",
+  "source": "confstech",
+  "start_date": "2026-10-01",
+  "end_date": "2026-10-01",
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {},
+  "id": "7b5dc744697fca8e"
+ },
+ {
+  "title": "Nürnberg Digital Festival",
+  "url": "https://nuernberg.digital/de",
+  "category": "genel-bt",
+  "source": "confstech",
+  "start_date": "2027-06-14",
+  "end_date": "2027-06-24",
+  "city": "Nürnberg",
+  "country": "Germany",
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {},
+  "id": "c4ded6001fd70e7a"
+ },
+ {
+  "title": "20. İstanbul Bilişim Kongresi − Kongre Uzmanı",
+  "url": "https://www.kongreuzmani.com/20-istanbul-bilisim-kongresi.html",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": "2026-11-05",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Türkiye Bilişim Derneği İstanbul Şubesi olarak, bu yıl 20.ncisini düzenleyeceğimiz İstanbul Bilişim Kongresi’ni, 5 Kasım 2026 tarihinde “Yapay Zekâ De...",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "0dc6ff3243991fe8"
+ },
+ {
   "title": "Security Summit Türkiye - event.idc.com",
   "url": "https://event.idc.com/event/security-summit-turkiye/",
   "category": "siber-guvenlik",
@@ -923,180 +1015,393 @@
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-07",
+  "first_seen": "2026-09-14",
   "needs_review": false,
   "extra": {
    "query": "siber güvenlik konferansı 2026 Türkiye",
-   "snippet": "Security Summit Türkiye Resilience by Design: 13 Oct 2026 | Wyndham. Türkiye's cyber security investment climbs toward $1.17 billion, Siber Güvenlik Operasyon",
+   "snippet": "Security Summit Türkiye. Resilience by Design: From Incident Response to Operational Advantage. 13 Oct 2026 | Wyndham Grand Levent, Istanbul. Register Now ...",
    "engine": "ddg",
-   "llm_relevance": 7,
+   "llm_relevance": 8,
    "llm_extracted": true
   },
   "id": "5e209193aa6770ea"
  },
  {
-  "title": "GITEX AI TÜRKİYE | 9-10 Sept 2026",
-  "url": "https://www.gitexturkiye.com/",
+  "title": "Cyber Security Summit 2026 | Devnot",
+  "url": "https://security.devnot.com/",
   "category": "siber-guvenlik",
   "source": "ddg-kesif",
-  "start_date": "2026-09-09",
+  "start_date": "2026-09-10",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-07",
+  "first_seen": "2026-09-14",
   "needs_review": false,
   "extra": {
    "query": "siber güvenlik konferansı 2026 Türkiye",
-   "snippet": "GITEX, the world's largest and best-rated tech show, arrives in Türkiye! From AI to fintech, cybersecurity to cloud — the next era begins here. Missing: siber güvenlik",
+   "snippet": "Türkiye'de siber güvenlik, Cyber Security Summit 10 Eylül Perşembe günü İstanbul Marriott Asia Hotel'de düzenlecektir.",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "b0584db3ef569d65"
+ },
+ {
+  "title": "InfoSEC - LinkedIn",
+  "url": "https://www.linkedin.com/company/infosec-cyber",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-17",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "siber güvenlik konferansı 2026 Türkiye",
+   "snippet": "17 Eylül 2026 Mandarin Oriental Bosphorus, İstanbul ⚡ AI destekli güvenlik ... siber güvenlik ekosistemini ve sektördeki kariyer fırsatlarını ...",
    "engine": "ddg",
    "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "10d576e28c40866f"
+  "id": "97f710bd2aabfe5d"
  },
  {
-  "title": "Data Center Istanbul 2026 - Vertiv",
-  "url": "https://www.vertiv.com/tr-emea/about/news-and-events/events/2026/data-center-istanbul-2026/",
+  "title": "DCE - Data Center Eurasia 2026 | İFM - İstanbul Fuar Merkezi",
+  "url": "https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2026",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-12-01",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-07",
+  "first_seen": "2026-09-14",
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "Aralık 01, 2026; Istanbul, Türkiye. Takvime etkinlik ekle ... Veri Merkezi Ana Veri Merkezi ve Kritik Tesisler Colocation ve Bulut Kablo Geçiş İstasyonları.",
+   "snippet": "Fuar Hakkında Avrasya bölgesindeki tek Veri Merkezi etkinliği olma özelliğini taşıyan \"Data Center Eurasia\", 7-9 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi'nde sektörün önemli aktörlerini ilk kez bi",
    "engine": "ddg",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "b73a151bd139d767"
+  "id": "9a3de2f4b061838c"
  },
  {
-  "title": "data center network türkiye",
-  "url": "https://dcnetworkturkiye.com/",
+  "title": "Data Center Eurasia 2026 | Istanbul | expointurkey.org",
+  "url": "https://www.expointurkey.org/tr/fuar/data-center-eurasia-2026",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-12-01",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-07",
+  "first_seen": "2026-09-14",
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "Gelecek Etkinlik. Data Center Istanbul Konferansı 1 Aralık 2026. Grand Cevahir Hotel. Veri merkezi profesyonelleri ve bilişim sektörü temsilcileri ...",
+   "snippet": "2. Veri Merkezi, Altyapı Ve Dijital Teknolojiler Fuarı // - // Veri merkezi dünyasının Türkiye'deki en kapsamlı buluşma noktası olan Data Center Eurasia, dijital altyapı ekosisteminin tüm paydaşlarını",
    "engine": "ddg",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "e5699b539d952e4f"
+  "id": "ed318e43e9d8b1de"
  },
  {
-  "title": "Vertiv at GITEX AI Türkiye 2026",
-  "url": "https://www.vertiv.com/tr-emea/about/news-and-events/events/vertiv-at-gitex-ai-turkiye-2026/",
-  "category": "veri-merkezi",
+  "title": "ThinkTECH Alumni Showcase - AI Webinar - Product Details",
+  "url": "https://www.icba.org/p/thinktech-alumni-showcase-ai-webinar",
+  "category": "merkez-bankaciligi",
   "source": "ddg-kesif",
-  "start_date": "2026-09-09",
+  "start_date": "2026-09-24",
   "end_date": null,
   "city": null,
   "country": null,
-  "online": false,
-  "first_seen": "2026-09-07",
-  "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "2026 September 9-10, 2026 • Istanbul, Türkiye. Türkiye is Türkiye's most international, tech-trade, ecosystem event uniting startups, scale-ups, enterprises, ...",
-   "engine": "ddg",
-   "llm_relevance": 6,
-   "llm_extracted": true
-  },
-  "id": "81c24da14304779c"
- },
- {
-  "title": "Events / Startups.watch",
-  "url": "https://startups.watch/events",
-  "category": "yapay-zeka",
-  "source": "ddg-kesif",
-  "start_date": "2026-11-11",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": null,
-  "first_seen": "2026-09-07",
-  "needs_review": false,
-  "extra": {
-   "query": "lu.ma Ankara yapay zeka teknoloji",
-   "snippet": "Türkiye Yapay Zeka Zirvesi. TRAI · Summit · Artificial intelligence, November 11, 2026 09:00 ; Startups.watch All-Verticals Demo Day 2026/2. Startups.watch ...",
-   "engine": "ddg",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "8bc53fb656b4728d"
- },
- {
-  "title": "Uygulamalı Yapay Zekâ Geliştirme Bootcamp",
-  "url": "https://kommunity.com/techistanbul/events/uygulamaliyapayzekabootcamp-6335021f",
-  "category": "yapay-zeka",
-  "source": "kommunity",
-  "start_date": "2026-09-08",
-  "end_date": null,
-  "city": null,
-  "country": "Türkiye",
   "online": true,
-  "first_seen": "2026-09-07",
+  "first_seen": "2026-09-14",
   "needs_review": false,
-  "extra": {},
-  "id": "ad571635f02cfe0a"
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "4 days ago · AI Webinar Sep 24, 2026 | 12:00 pm–1:30 pm CT. Join fellow community bankers at the ICBA to learn how banks are approaching AI adoption, Sign ... Missing: central | Show results with: cen",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "e57f9e28b13550a1"
  },
  {
-  "title": "Prompt Engineering 2.0 (Multimodal) Atölyesi",
-  "url": "https://kommunity.com/techistanbul/events/prompt-engineering-20-multimodal-atolyesi-be76a9f7",
-  "category": "yapay-zeka",
-  "source": "kommunity",
+  "title": "Register to Join Our Upcoming Webinars and Events",
+  "url": "https://www.metricstream.com/about-us/events.htm",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": "2026-11-04",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "Nov 04, 2026, 7:30 am - Nov 05, a free, two-day virtual event exploring AI, risk, compliance, and cyber. Running November 4–5, 2026, Sep 15, 2026, 9:00 am -",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "38a075a62827b196"
+ },
+ {
+  "title": "2026 Post-Quantum Cryptography Summit - Virtual 9/16/26 - GSA",
+  "url": "https://www.gsa.gov/events/2026-postquantum-cryptography-summit-virtual-91626",
+  "category": "kuantum",
+  "source": "ddg-kesif",
   "start_date": "2026-09-16",
   "end_date": null,
   "city": null,
-  "country": "Türkiye",
+  "country": null,
   "online": true,
-  "first_seen": "2026-09-07",
+  "first_seen": "2026-09-14",
   "needs_review": false,
-  "extra": {},
-  "id": "cce64782f116c1fc"
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Sep 1, 2026 · -Quantum Cryptography Summit: This event is open to .gov and .mil only. Registration details Contact: pqcevents@gsa.gov. Sep 16, 2026 9 a.m. ET ...",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "3e23556979e9fac1"
  },
  {
-  "title": "Prompt Engineering Temelleri",
-  "url": "https://kommunity.com/techistanbul/events/prompt-engineering-temelleri-a8c184d2",
-  "category": "yapay-zeka",
-  "source": "kommunity",
-  "start_date": "2026-09-29",
+  "title": "2026 Post-Quantum Cryptography Summit",
+  "url": "https://pqca.org/event/2026-post-quantum-cryptography-summit/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-16",
   "end_date": null,
-  "city": "Tech Istanbul | Kayışdağı",
-  "country": "Türkiye",
-  "online": false,
-  "first_seen": "2026-09-07",
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
   "needs_review": false,
-  "extra": {},
-  "id": "ab99799e54112f76"
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Registration Details: Date: September 16, 2026 Time: 9:00 AM EST – 5:00 PM EST Contact: pqcevents@gsa.gov. Virtual Location: Zoom for Government webinar",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "c8ba589bb7654a8d"
  },
  {
-  "title": "BBT Yoga & Meditasyon: Aslı Kaya",
-  "url": "https://kommunity.com/bursa-bilisim-toplulugu/events/bbt-yoga-meditasyon-asli-kaya-b39a9bab",
-  "category": "yapay-zeka",
-  "source": "kommunity",
-  "start_date": "2026-09-13",
+  "title": "Post-Quantum Cryptography in 2026 - SANS Institute",
+  "url": "https://www.sans.org/webcasts/post-quantum-cryptography-in-2026",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-21",
   "end_date": null,
-  "city": "Hüdavendigar Kent Parkı",
-  "country": "Türkiye",
-  "online": false,
-  "first_seen": "2026-09-07",
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
   "needs_review": false,
-  "extra": {},
-  "id": "96a312b5c6326657"
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Post-Quantum Cryptography in 2026 Mon, Sep 21, 2026 4:30PM - 5:30PM. Login to register Add to Calendar. Ideal for security architects, CISOs, cryptography and ...",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "67773283d5ac3c00"
+ },
+ {
+  "title": "AI Trust, Governance & Security - Virtual Summit - AvePoint",
+  "url": "https://www.avepoint.com/events/ai-virtual-summit",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-10",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "Register for Free September 10, 2026 … a free virtual event on September 10, 2026, starting at 11 AM, focused on AI trust, governance, and security",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "1c78a85652eacf40"
+ },
+ {
+  "title": "AI Governance Made Practical: A Simple Roadmap - Engage",
+  "url": "https://engage.isaca.org/events/event-description",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-08",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "Webinar: AI Governance Made Practical: When: Tue, Sep 8, 2026 from 12:00 to 13:00 (ET) Register for this ISACA webinar at the link above. Login instructions ...",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "4dd16483aaa4a7f2"
+ },
+ {
+  "title": "AI Week 2026: State & Local | Webinar - FedInsider",
+  "url": "https://www.fedinsider.com/ai-week-2026-state-local/",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": "2026-08-18",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "AI governance webinar 2026 register",
+   "snippet": "8/18-20/26 |. August 18–20, 2026. Register for this webinar, login from the link provided, leaders discuss how AI governance platforms support compliance, ...",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "82cbbf8074a3c941"
+ },
+ {
+  "title": "Cybersecurity Summit: FinSec Virtual Summit 2026",
+  "url": "https://infosec-conferences.com/event/20261014-cybersecurity-summit-finsec-virtual-summit-2026/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-14",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "Oct 14, 2026 · Cybersecurity Summit: FinSec Virtual Summit 2026 takes place on 14 October 2026 in New York City, United States. Format: Online.",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "95314acce1ce9b9a"
+ },
+ {
+  "title": "FS-ISAC | Advancing cybersecurity for the global financial system",
+  "url": "https://www.fsisac.com/",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-15",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "Virtual September 15, 2026 Get actionable intel and practical advice from the sector's leading experts",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "18d20ff883e00f7c"
+ },
+ {
+  "title": "IT Webinars | Gartner Webinars",
+  "url": "https://www.gartner.com/en/information-technology/events/webinars",
+  "category": "genel-bt",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-03",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "enterprise IT webinar 2026 free registration",
+   "snippet": "September 03, 2026 10:00 a.m. EDT 1 hour · Learn how enterprise architecture can enable AI adoption and how AI can transform EA capabilities in this Gart...",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "e27000aa0cc2f52c"
+ },
+ {
+  "title": "Legal's Role in Enabling the Business Through AI Governance",
+  "url": "https://www.gartner.com/en/webinar/921012/1920339-legals-role-in-enabling-the-business-through-ai-governance",
+  "category": "ai-governance",
+  "source": "ddg-kesif",
+  "start_date": "2026-08-25",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "complimentary Gartner webinar AI governance",
+   "snippet": "Aug 25, 2026 · Learn how legal leaders can streamline AI governance, manage risk and enable faster adoption across the business in this Gartner webinar. Missing: complimentary | Show results with: com",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "350bfc8a6755607f"
+ },
+ {
+  "title": "Events - ETSI",
+  "url": "https://www.etsi.org/events/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-14",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "ETSI IQC quantum safe cryptography workshop 2026",
+   "snippet": "Open Session 14 September 2026. September - 1 October 2026. More than 250 participants … advancing the transition to quantum-safe... Migrate now to post-quantum ...",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "4c4c9bce0042b6cc"
+ },
+ {
+  "title": "Quantum + AI | October 25-27, 2026 | New York City - IQT events",
+  "url": "https://iqtevent.com/quantumai/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-25",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-14",
+  "needs_review": false,
+  "extra": {
+   "query": "site:iqtevent.com",
+   "snippet": "IQT's flagship conference, Q+AI 2026 (3.0), is the leading event worldwide devoted to the convergence of quantum computing and artificial intelligence.",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "465e96f8a85803c3"
  }
 ]
