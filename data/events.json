@@ -567,6 +567,27 @@
   "id": "d316f4a8985d1acb"
  },
  {
+  "title": "19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı - Yapay Zeka ...",
+  "url": "https://yze.ankara.edu.tr/2026/09/28/19-uluslararasi-bilgi-guvenligi-ve-kriptoloji-konferansi/",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-28",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-28",
+  "needs_review": false,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Siber Güvenlikte Küresel Buluşma: 19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı Ankara'da Düzenleniyor Özet: Bilgi Güvenliği Derneği ve Siber Güvenlik Başkanlığı iş birliğiyle 20-21 Ekim 2",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "0649311c88295a20"
+ },
+ {
   "title": "API Conference NYC",
   "url": "https://apiconference.net/new-york",
   "category": "siber-guvenlik",
@@ -728,9 +749,9 @@
   "id": "1ef77e6bf9b9e37c"
  },
  {
-  "title": "DCE - Data Center Eurasia 2026 | İFM - İstanbul Fuar Merkezi",
-  "url": "https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2026",
-  "category": "veri-merkezi",
+  "title": "3. Uluslararası İhracat ve Yatırım Zirvesi | ITS Istanbul 2026",
+  "url": "https://itsistanbul.com/tr",
+  "category": "genel-bt",
   "source": "ddg-kesif",
   "start_date": "2026-10-07",
   "end_date": null,
@@ -740,18 +761,18 @@
   "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "Fuar Hakkında Avrasya bölgesindeki tek Veri Merkezi etkinliği olma özelliğini taşıyan “Data Center Eurasia”, 7-9 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde sektörün önemli aktörlerini ilk kez bi",
+   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
+   "snippet": "Türkiye'nin en büyük yazılım, bilişim ve teknoloji buluşması; fuar, konferans ve B2B toplantılarıyla 7-10 Ekim 2026'da İstanbul Fuar Merkezi'nde.",
    "engine": "ddg",
-   "llm_relevance": 9,
+   "llm_relevance": 6,
    "llm_extracted": true
   },
-  "id": "9a3de2f4b061838c"
+  "id": "319a770d48d142c8"
  },
  {
-  "title": "Data Center Eurasia 2026 İstanbul Fuar Merkezi’nde Başlıyor",
-  "url": "https://n24.com.tr/yasam/data-center-eurasia-2026-istanbul-fuar-merkezinde-basliyor",
-  "category": "veri-merkezi",
+  "title": "ICAIS 2026 · 7-10 Ekim · İstanbul · kongreara",
+  "url": "https://kongreara.com/etkinlik/3-uluslararasi-yapay-zeka-calismalari-konferansi-icais-2026",
+  "category": "yapay-zeka",
   "source": "ddg-kesif",
   "start_date": "2026-10-07",
   "end_date": null,
@@ -761,76 +782,13 @@
   "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "6 days ago · Türkiye 'nin veri merkezi alanındaki ilk uluslararası ihtisas etkinliği olan Data Center Eurasia 2026, 7-10 Ekim 2026 tarihleri arasında kapılarını açmaya hazırlanıyor. İstanbul Fuar Merk",
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Yapay Zekâda Gelecek Eğilimleri: Akademi Endüstri ile Buluşuyor temasıyla düzenlenen 3. Uluslararası Yapay Zekâ Çalışmaları Konferansı, bilimsel araştırmaların gerçek yaşam problemlerine çözüm üretmes",
    "engine": "ddg",
-   "llm_relevance": 9,
+   "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "0698521ecb045500"
- },
- {
-  "title": "Data Center Eurasia 2026 İstanbul’da Veri Merkezi ...",
-  "url": "https://www.btgunlugu.com/data-center-eurasia-2026/",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-07",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "Sep 21, 2026 · Data Center Eurasia 2026, 7-10 Ekim’de İstanbul’da veri merkezi, yapay zekâ, enerji, sürdürülebilirlik ve dijital altyapı gündemini buluşturacak.",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "d82c4f8852a41066"
- },
- {
-  "title": "Data Center Eurasia 2026, Veri Merkezi Ekosistemini İstanbul ...",
-  "url": "https://hvac360tr.com/data-center-eurasia-2026-veri-merkezi-ekosistemini-istanbulda-bulusturuyor/",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-07",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "6 days ago · Etkinlik, Türkiye’nin bilgi birikimini, üretim gücünü, teknoloji kapasitesini ve yatırım potansiyelini küresel veri merkezi ekosistemine taşımayı amaçlıyor. Data Center Eurasia 2026, 7-10",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "06228a069ac9b083"
- },
- {
-  "title": "Data Center Eurasia 2026: İstanbul Bölgenin Veri Merkezi Üssü ...",
-  "url": "https://trbusinessworld.com/tr/2026/07/12/data-center-eurasia-2026-istanbul-bolgenin-veri-merkezi-ussu-oluyor/",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-07",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "Jul 12, 2026 · Data Center Eurasia, 7–10 Ekim 2026 tarihleri arasında İstanbul'da gerçekleşecek; 60'tan fazla ülkeden katılımcıyı bir araya getirecek olan etkinlik, Avrasya'nın veri merkezi sektörüne ",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "44daa4d14c582333"
+  "id": "c8c1c2b949fa2a2b"
  },
  {
   "title": "2026 Annual Meetings",
@@ -1163,27 +1121,6 @@
   "needs_review": false,
   "extra": {},
   "id": "9fbb5fd1e1cac9c5"
- },
- {
-  "title": "CB DC Conference 2026 Amsterdam | 27th - 29th oct 2026 | Amsterdam",
-  "url": "https://events.coinpedia.org/cb-dc-conference-2026-amsterdam-8361/",
-  "category": "merkez-bankaciligi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-27",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": false,
-  "extra": {
-   "query": "CBDC payments webinar 2026",
-   "snippet": "It’s designed for central bankers, policymakers, fintech innovators, regulators, and industry leaders who are riding or comparing virtual currency tasks, regulatory frameworks, and next-generation pri",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "c4bf6c06638c5d12"
  },
  {
   "title": "AI DevCon NYC",
@@ -1923,26 +1860,6 @@
   "id": "08b05eb2f00a1e19"
  },
  {
-  "title": "20. İstanbul Bilişim Kongresi - Yapay Zekâ Destekli Gelecek ...",
-  "url": "https://www.protokol.org.tr/etkinlik/istanbul-bilisim-kongresi-2026?lang=en",
-  "category": "genel-bt",
-  "source": "ddg-kesif",
-  "start_date": null,
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": true,
-  "extra": {
-   "query": "site:protokol.org.tr etkinlik teknoloji yapay zeka",
-   "snippet": "**20th Istanbul IT Congress - AI-Powered Future** The 20th Istanbul IT Congress - AI-Powered Future is a prestigious computing event to be organized by the Turkish Computing Association (TBD) Istanbul",
-   "engine": "ddg",
-   "llm_relevance": 7
-  },
-  "id": "fb5de4cadb3246cf"
- },
- {
   "title": "2025 Magic Quadrant™, Gartner® - Read the Report Now, Gartner®",
   "url": "https://www.bing.com/aclick?ld=e8Xa6ihqF5I1_B7fcXK93d5zVUCUyu120ACh8dDv32Zvo1n_63W-zAqJvZKFpAfoO3ai5N-Wuk9s4HKBGOeVB-45mFAe1hUJUHvqv2wFK_hSAUkW0qTcTDuZvhQrLYJ7Yx6ha9WCdD0ST_8TsZuHBMdcC_-J9KQFQ11DF68EoeOaK3UX2I8vlZhM814X95CL5QrgXtIaL87d7H7PbAYT7PDsru4wY&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA4MTQyMzMwNTc0MyUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODg0MjUwMjYyMSUyNmRzX2FfY2lkJTNkNjg3NjM0NzQ3NCUyNmRzX2FfY2FpZCUzZDIyMTY0NjMxODM2JTI2ZHNfYV9hZ2lkJTNkMTc2NTMyODE5NDgwJTI2ZHNfYV9saWQlM2Rrd2QtOTIwNzY4ODI2OTU2JTI2JTI2ZHNfZV9hZGlkJTNkNzkzNzEyMDc1NTEzMTYlMjZkc19lX3RhcmdldF9pZCUzZGt3ZC03OTM3MTYwMjQ1MTU3MSUzYWxvYy0xOTAlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZmZvcm1zLndvcmtkYXkuY29tJTJmZW4tdXMlMmZyZXBvcnRzJTJmZ2FydG5lci1maW5hbmNpYWwtbWFuYWdlbWVudC1tYWdpYy1xdWFkcmFudC1jbG91ZC1lcnAtc2VydmljZSUyZmZvcm0uaHRtbCUzZmxvY2FsZSUzZGVudXMlMjZhdWQlM2RvY2ZvJTI2c3RhZ2UlM2RjZSUyNnNpemUlM2RhbGwlMjZwYmxyJTNkYmluZyUyNnBucG50JTNkcHAwJTI2Y2FtcCUzZDcwMVZUMDAwMDBZTlVSZFlBUCUyNmFzc2V0dHlwZSUzZHJlcCUyNnByb2R1Y3Rmb2N1cyUzZGZpJTI2dXRtX21lZGl1bSUzZHBkc2UlMjZ1dG1fc291cmNlJTNkcHN0YSUyNmJ0JTNkJTI2X2JrJTNkZ2FydG5lciUyNTIwZmluYW5jaWFsJTI2X2JtJTNkcCUyNl9ibiUzZG8lMjZfYmclM2QxMjY5OTM3NTgyNjYzNDgxJTI2ZWZfaWQlM2QwMTA4NTFiMmI4ZjMxNTExOTJmNDNiY2RhY2VhODUwMyUzYUclM2FzJTI2c19rd2NpZCUzZEFMITg4OTIhMTAhNzkzNzEyMDc1NTEzMTYhNzkzNzE2MDI0NTE1NzElMjZnY2xpZCUzZDAxMDg1MWIyYjhmMzE1MTE5MmY0M2JjZGFjZWE4NTAzJTI2Z2Nsc3JjJTNkM3AuZHMlMjYlMjZnY2xpZCUzZDAxMDg1MWIyYjhmMzE1MTE5MmY0M2JjZGFjZWE4NTAzJTI2Z2Nsc3JjJTNkM3AuZHMlMjZtc2Nsa2lkJTNkMDEwODUxYjJiOGYzMTUxMTkyZjQzYmNkYWNlYTg1MDM&rlid=010851b2b8f3151192f43bcdacea8503",
   "category": "genel-bt",
@@ -2384,6 +2301,26 @@
   "id": "606f8507d631db79"
  },
  {
+  "title": "3. Uluslararası Yapay Zekâ Çalışmaları Konferansı (ICAIS 2026),",
+  "url": "https://aybu.edu.tr/fbe/tr/haber/23423",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-28",
+  "needs_review": true,
+  "extra": {
+   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
+   "snippet": "Bilimsel araştırmaların gerçek yaşam problemlerine çözüm üretmesi, sanayi ile ortak projelere dönüşmesi ve uluslararası iş birliklerinin geliştirilmesi amacıyla tüm alanlarda yapay zeka kullanımı ile ",
+   "engine": "ddg",
+   "llm_relevance": 8
+  },
+  "id": "af057fefbbbb55e4"
+ },
+ {
   "title": "3. Uluslararası Yapay Zekâ Çalışmaları Konferansı - ICAIS 2026",
   "url": "https://kongreara.com/etkinlik/3-uluslararasi-yapay-zeka-calismalari-konferansi-icais-2026",
   "category": "yapay-zeka",
@@ -2456,26 +2393,6 @@
    "llm_relevance": 6
   },
   "id": "28e0e2584ec18009"
- },
- {
-  "title": "6. Uluslararası Yapay Zeka ve Veri Bilimi Kongresi (ICADA)",
-  "url": "https://www.icada.com.tr/",
-  "category": "yapay-zeka",
-  "source": "ddg-kesif",
-  "start_date": null,
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": true,
-  "extra": {
-   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
-   "snippet": "Kapsam: Yapay Zeka, Veri Bilimi ve ilgili araştırma merkezlerinin yöneticileri. ICADA 2026, sadece akademik sunumlar için bir platform değil, aynı zamanda kurumsal liderlik ve stratejik planlama için ",
-   "engine": "ddg",
-   "llm_relevance": 7
-  },
-  "id": "dfc1150353f15160"
  },
  {
   "title": "6th ENISA-ERA Conference on Cybersecurity in Railways",
@@ -3500,6 +3417,23 @@
   "id": "a0a2a7b003acb72f"
  },
  {
+  "title": "Beyond Users and Workloads: The Agentic Shift in Cloud-Native Zero Trust",
+  "url": "https://www.brighttalk.com/webcast/288/676467",
+  "category": "siber-guvenlik",
+  "source": "brighttalk-infosec",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-28",
+  "needs_review": true,
+  "extra": {
+   "llm_relevance": 6
+  },
+  "id": "f2ccf26612e8a70b"
+ },
+ {
   "title": "Bilet AL - Türkiye Yapay Zeka Zirvesi 2026",
   "url": "https://zirve.turkiye.ai/bilet-al/",
   "category": "genel-bt",
@@ -4086,26 +4020,6 @@
    "snippet": "Jul 24, 2026 · To prepare for this threat, many countries and international standards organizations have initiated the standardization and migration of post-quantum cryptographic schemes. To help prom"
   },
   "id": "90c74d9df252268e"
- },
- {
-  "title": "Cyber Security Summit 2026 | Devnot",
-  "url": "https://security.devnot.com/",
-  "category": "siber-guvenlik",
-  "source": "ddg-kesif",
-  "start_date": null,
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": true,
-  "extra": {
-   "query": "siber güvenlik konferansı 2026 Türkiye",
-   "snippet": "Cyber Security Summit, Devnot tarafından organize edilen ve Türkiye'de siber güvenlik, uygulama güvenliği gibi alanlardaki profesyonelleri bir araya getiren teknoloji etkinliğidir.",
-   "engine": "ddg",
-   "llm_relevance": 8
-  },
-  "id": "b0584db3ef569d65"
  },
  {
   "title": "Cyber Threat Intelligence and AI: Are We Ready?",
@@ -6431,6 +6345,26 @@
   "id": "767dfb85271e656e"
  },
  {
+  "title": "Join our webinar: Post-Quantum Cryptography",
+  "url": "https://www.orangecyberdefense.com/be/insights/events/deciphering-post-quantum-cryptography",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-28",
+  "needs_review": true,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Orange Cyberdefense and Orange Business guides organisations through their full PQC transformation journey — from advisory to continuous assurance. Explore our PQC offer · Join our webinar Register he",
+   "engine": "ddg",
+   "llm_relevance": 7
+  },
+  "id": "3a0f010da17eac96"
+ },
+ {
   "title": "Joule Launches BetterGrid™ Platform... - Data Centre Central",
   "url": "https://datacentrecentral.com/joule-launches-bettergrid-platform-ai-ready-data-center-infrastructure-with-industry-leading-speed-to-market/",
   "category": "veri-merkezi",
@@ -7840,6 +7774,23 @@
   "id": "8c4595bad1a1b4be"
  },
  {
+  "title": "Strengthening CNI Continuity Amid Sophisticated Cyber Attacks",
+  "url": "https://www.brighttalk.com/webcast/288/676627",
+  "category": "siber-guvenlik",
+  "source": "brighttalk-infosec",
+  "start_date": null,
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-28",
+  "needs_review": true,
+  "extra": {
+   "llm_relevance": 7
+  },
+  "id": "24f2d161f56d2d7d"
+ },
+ {
   "title": "Strengthening monetary infrastructure across borders: the evolving role of digital public money",
   "url": "https://www.omfif.org/meetings/strengthening-monetary-infrastructure-across-borders-the-evolving-role-of-digital-public-money/",
   "category": "merkez-bankaciligi",
@@ -8327,46 +8278,6 @@
    "snippet": "Tech Istanbul, İstanbul Büyükşehir Belediyesi Bilgi işlem Dairesi Başkanlığı Akıllı Şehir Şube Müdürlüğü’ne bağlı olarak faaliyetlerini yürütmektedir. Geliştird"
   },
   "id": "ab6b2209dbe06e63"
- },
- {
-  "title": "Teknoloji ve İnovasyon Zirvesi 2026",
-  "url": "https://ticket.hbrturkiye.com/bilet?event=teknoloji-ve-inovasyon-zirvesi-2026",
-  "category": "genel-bt",
-  "source": "ddg-kesif",
-  "start_date": null,
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": true,
-  "extra": {
-   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
-   "snippet": "Teknoloji ve İnovasyon Zirvesi 2026 Sınırlı sayıda katılımcıyla, fiziksel ortamda gerçekleşecek vaka çalışmaları, tasarım odaklı atölyeler ve öğrenme ortamlarında yerinizi ayırtın!",
-   "engine": "ddg",
-   "llm_relevance": 7
-  },
-  "id": "45fb6895cc9804d6"
- },
- {
-  "title": "Teknoloji ve İnovasyon Zirvesi 2026 (HBR Türkiye)",
-  "url": "https://ekosistemturk.com/hbr-turkiye-teknoloji-ve-inovasyon-zirvesi-2026-istanbul-etkinligi",
-  "category": "genel-bt",
-  "source": "ddg-kesif",
-  "start_date": null,
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": true,
-  "extra": {
-   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
-   "snippet": "• Konsept & Konu: Teknoloji ve İnovasyon Zirvesi 2026 (HBR Türkiye) isimli etkinlik, Zenginleştirilme Çağı: Yapay Zeka, İnovasyon ve İnsan teması kapsamında Zirve kategorisinde düzenlenmektedir. • Zam",
-   "engine": "ddg",
-   "llm_relevance": 7
-  },
-  "id": "93d718ee9975fb3f"
  },
  {
   "title": "Teknoloji ve İnovasyon Zirvesi 2026 - event.hbrturkiye.com",
@@ -8968,26 +8879,6 @@
    "llm_relevance": 9
   },
   "id": "06f367675045b05c"
- },
- {
-  "title": "Türkiye Yapay Zeka Zirvesi 2026 — Protokol - Protokol Yönetim Sistemi",
-  "url": "https://www.protokol.org.tr/etkinlik/turkiye-yapay-zeka-zirvesi-2026",
-  "category": "yapay-zeka",
-  "source": "ddg-kesif",
-  "start_date": null,
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-28",
-  "needs_review": true,
-  "extra": {
-   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
-   "snippet": "Türkiye'nin en büyük yapay zeka etkinliği. Yüzlerce kuruluş ve binlerce katılımcıyı ağırlayan zirve. Üretken yapay zeka çözümlerinin kurumsal adaptasyonu ve dikey sektör uygulamaları · Bu platformda y",
-   "engine": "ddg",
-   "llm_relevance": 8
-  },
-  "id": "70a2d41fc90ec0c9"
  },
  {
   "title": "Türkiye Yapay Zeka İnisiyatifi (TRAI)",
