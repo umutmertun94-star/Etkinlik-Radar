@@ -1,62 +1,5 @@
 [
  {
-  "title": "Legal's Role in Enabling the Business Through AI Governance",
-  "url": "https://www.gartner.com/en/webinar/921012/1920339-legals-role-in-enabling-the-business-through-ai-governance",
-  "category": "ai-governance",
-  "source": "ddg-kesif",
-  "start_date": "2026-08-25",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-09-14",
-  "needs_review": false,
-  "extra": {
-   "query": "complimentary Gartner webinar AI governance",
-   "snippet": "Aug 25, 2026 · Learn how legal leaders can streamline AI governance, manage risk and enable faster adoption across the business in this Gartner webinar. Missing: complimentary | Show results with: com",
-   "engine": "ddg",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "350bfc8a6755607f"
- },
- {
-  "title": "Enerji Gündemi 'Veri merkezleri ve enerji' konuşulacak' - Enerji Ekonomisi",
-  "url": "https://www.enerjiekonomisi.com/enerji-gundemi-veri-merkezleri-ve-enerji-konusulacak/43556",
-  "category": "veri-merkezi",
-  "source": "ddg-kesif",
-  "start_date": "2026-08-26",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": null,
-  "first_seen": "2026-08-24",
-  "needs_review": false,
-  "extra": {
-   "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "1 week ago - Bu kapsamda TESAB tarafından 26 Ağustos 2026 tarihinde 10.30–12.00 saatleri arasında düzenlenecek “Veri Merkezleri: Küresel Gelişmeler ve Türkiye’nin Rotası” başlıklı etkinlikte, veri mer",
-   "engine": "ddg",
-   "llm_relevance": 7,
-   "llm_extracted": true
-  },
-  "id": "a46c36d4eb8aded6"
- },
- {
-  "title": "Girişimciler için Satış Süreçleri: İlk Müşteriden Tekrarlayan Gelire",
-  "url": "https://kommunity.com/techistanbul/events/girisimciler-icin-satis-surecleri-ilk-musteriden-tekrarlayan-gelire-b5917752",
-  "category": "yapay-zeka",
-  "source": "kommunity",
-  "start_date": "2026-08-27",
-  "end_date": null,
-  "city": "Tech Istanbul | Şişli",
-  "country": "Türkiye",
-  "online": false,
-  "first_seen": "2026-08-24",
-  "needs_review": false,
-  "extra": {},
-  "id": "7789458d9e3f991c"
- },
- {
   "title": "BBT English Speaking Club",
   "url": "https://kommunity.com/bursa-bilisim-toplulugu/events/bbt-english-speaking-club-216c9a27",
   "category": "yapay-zeka",
@@ -142,6 +85,27 @@
   "needs_review": false,
   "extra": {},
   "id": "ad571635f02cfe0a"
+ },
+ {
+  "title": "Uygulamalı Yapay Zekâ Geliştirme Bootcamp | Kommunity",
+  "url": "https://kommunity.com/techistanbul/events/uygulamaliyapayzekabootcamp-6335021f",
+  "category": "yapay-zeka",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-08",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {
+   "query": "kommunity.com yapay zeka etkinlik Ankara İstanbul",
+   "snippet": "Sep 8, 2026 · 🤖 Uygulamalı Yapay Zekâ Geliştirme Bootcamp'i, yapay zeka teknolojilerine ilgi duyan, teorik bilgileri pratiğe dönüştürerek gerçek projeler geliştirmek isteyen katılımcılar için tasarlan",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "0c1505d36b23e44b"
  },
  {
   "title": "Yapay Zeka Mühendisliği Bootcamp",
@@ -546,6 +510,21 @@
   "id": "e57f9e28b13550a1"
  },
  {
+  "title": "JavaScript Temelleri Atölyesi",
+  "url": "https://kommunity.com/techistanbul/events/javascript-temelleri-atolyesi-adc9ae53",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-09-26",
+  "end_date": null,
+  "city": "Tech Istanbul | Şişhane",
+  "country": "Türkiye",
+  "online": false,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {},
+  "id": "d316f4a8985d1acb"
+ },
+ {
   "title": "API Conference NYC",
   "url": "https://apiconference.net/new-york",
   "category": "siber-guvenlik",
@@ -639,6 +618,21 @@
   "needs_review": false,
   "extra": {},
   "id": "7b5dc744697fca8e"
+ },
+ {
+  "title": "Tech Istanbul Girişimcilik Okulu: Kadın",
+  "url": "https://kommunity.com/techistanbul/events/tech-istanbul-girisimcilik-okulu-kadin-07711767",
+  "category": "yapay-zeka",
+  "source": "kommunity",
+  "start_date": "2026-10-02",
+  "end_date": null,
+  "city": "Tech Istanbul | Şişli",
+  "country": "Türkiye",
+  "online": false,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {},
+  "id": "c18ec5d2980cd723"
  },
  {
   "title": "VibeKode Utrecht",
@@ -794,6 +788,36 @@
   "id": "723ea798259c272d"
  },
  {
+  "title": "All Day AI",
+  "url": "https://www.alldayai.com",
+  "category": "siber-guvenlik",
+  "source": "confstech",
+  "start_date": "2026-10-22",
+  "end_date": "2026-10-22",
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {},
+  "id": "35deec01ad28ba9f"
+ },
+ {
+  "title": "Vector in Databases",
+  "url": "https://buildevcon.com/events/vector-in-databases",
+  "category": "genel-bt",
+  "source": "confstech",
+  "start_date": "2026-10-24",
+  "end_date": "2026-10-24",
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {},
+  "id": "63aea846427cb03b"
+ },
+ {
   "title": "AI | October 25-27, 2026 | New York City - IQT Conference",
   "url": "https://iqtevent.com/quantumai/",
   "category": "kuantum",
@@ -814,6 +838,27 @@
   "id": "ab21fa33aac1b0e0"
  },
  {
+  "title": "Quantum + AI | October 25-27, 2026 | New York City",
+  "url": "https://iqtevent.com/quantumai/register/",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-25",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {
+   "query": "site:iqtevent.com",
+   "snippet": "Be part of IQT’s first QUANTUM + AI conference and exhibition covering the coming revolution of combining quantum computing with Artificial Intelligence (AI).",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "f2db35776a4af66b"
+ },
+ {
   "title": "The ACS/IEEE 23rd International Conference on Computer Systems and Applications",
   "url": "https://aiccsa.net/AICCSA2026",
   "category": "genel-bt",
@@ -827,6 +872,21 @@
   "needs_review": false,
   "extra": {},
   "id": "9fbb5fd1e1cac9c5"
+ },
+ {
+  "title": "AI DevCon NYC",
+  "url": "https://tessl.io/devcon",
+  "category": "siber-guvenlik",
+  "source": "confstech",
+  "start_date": "2026-11-02",
+  "end_date": "2026-11-04",
+  "city": "Brooklyn, NY",
+  "country": "U.S.A.",
+  "online": true,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {},
+  "id": "ae20b1a7967d7040"
  },
  {
   "title": "Open Source Analytics Conference",
@@ -1036,6 +1096,36 @@
   "id": "bfcc5818cdb341a5"
  },
  {
+  "title": "AI World Congress",
+  "url": "https://aiconference.london",
+  "category": "yapay-zeka",
+  "source": "confstech",
+  "start_date": "2026-11-25",
+  "end_date": "2026-11-26",
+  "city": "London",
+  "country": "U.K.",
+  "online": null,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {},
+  "id": "ea447b3755845f56"
+ },
+ {
+  "title": "EdTech Conference",
+  "url": "https://edtechconferences.london",
+  "category": "genel-bt",
+  "source": "confstech",
+  "start_date": "2026-11-26",
+  "end_date": "2026-11-27",
+  "city": "London",
+  "country": "U.K.",
+  "online": null,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {},
+  "id": "412eef86944304be"
+ },
+ {
   "title": "13. SDMX Experts Workshop (TÜİK + OECD + TCMB ev sahipliğinde)",
   "url": "https://www.sdmxexperts2026.org/",
   "category": "merkez-bankaciligi",
@@ -1141,6 +1231,27 @@
   "id": "d48909b23363ad0a"
  },
  {
+  "title": "5th IFC workshop on \"Data science in central banking\" | Bank ...",
+  "url": "https://www.bis.org/events/20270323-5th-ifc-workshop-data-science-central-banking",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": "2027-03-23",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": null,
+  "first_seen": "2026-09-21",
+  "needs_review": false,
+  "extra": {
+   "query": "central bank statistics data governance workshop",
+   "snippet": "The BIS Irving Fisher Committee on Central Bank Statistics (IFC) is pleased to announce its upcoming 5th workshop on \"Data Science in Central Banking\", co-hosted with the Central Bank of the Republic ",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "ca367a17725f0959"
+ },
+ {
   "title": "Java Day Istanbul",
   "url": "https://www.javaday.istanbul",
   "category": "yapay-zeka",
@@ -1186,104 +1297,8 @@
   "id": "c4ded6001fd70e7a"
  },
  {
-  "title": "All Day AI",
-  "url": "https://www.alldayai.com",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-10-22",
-  "end_date": "2026-10-22",
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {},
-  "id": "35deec01ad28ba9f"
- },
- {
-  "title": "AI DevCon NYC",
-  "url": "https://tessl.io/devcon",
-  "category": "siber-guvenlik",
-  "source": "confstech",
-  "start_date": "2026-11-02",
-  "end_date": "2026-11-04",
-  "city": "Brooklyn, NY",
-  "country": "U.S.A.",
-  "online": true,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {},
-  "id": "ae20b1a7967d7040"
- },
- {
-  "title": "AI World Congress",
-  "url": "https://aiconference.london",
-  "category": "yapay-zeka",
-  "source": "confstech",
-  "start_date": "2026-11-25",
-  "end_date": "2026-11-26",
-  "city": "London",
-  "country": "U.K.",
-  "online": null,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {},
-  "id": "ea447b3755845f56"
- },
- {
-  "title": "Vector in Databases",
-  "url": "https://buildevcon.com/events/vector-in-databases",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-10-24",
-  "end_date": "2026-10-24",
-  "city": null,
-  "country": null,
-  "online": true,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {},
-  "id": "63aea846427cb03b"
- },
- {
-  "title": "EdTech Conference",
-  "url": "https://edtechconferences.london",
-  "category": "genel-bt",
-  "source": "confstech",
-  "start_date": "2026-11-26",
-  "end_date": "2026-11-27",
-  "city": "London",
-  "country": "U.K.",
-  "online": null,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {},
-  "id": "412eef86944304be"
- },
- {
-  "title": "20. İstanbul Bilişim Kongresi − Kongre Uzmanı",
-  "url": "https://www.kongreuzmani.com/20-istanbul-bilisim-kongresi.html",
-  "category": "yapay-zeka",
-  "source": "ddg-kesif",
-  "start_date": "2026-11-05",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {
-   "query": "yapay zeka konferansı 2026 İstanbul Ankara",
-   "snippet": "Türkiye Bilişim Derneği İstanbul Şubesi olarak, bu yıl 20.ncisini düzenleyeceğimiz İstanbul Bilişim Kongresi’ni, 5 Kasım 2026 tarihinde “Yapay Zekâ De...",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "0dc6ff3243991fe8"
- },
- {
-  "title": "ISC Türkiye - ISC Türkiye",
-  "url": "https://iscturkiye.com/",
+  "title": "ISC Türkiye 2026 Hakkında – ISC Türkiye",
+  "url": "https://iscturkiye.com/isc-turkiye-2026/",
   "category": "siber-guvenlik",
   "source": "ddg-kesif",
   "start_date": "2026-10-20",
@@ -1291,20 +1306,20 @@
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-21",
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
    "query": "siber güvenlik konferansı 2026 Türkiye",
-   "snippet": "ISC Türkiye 2026 19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı \"20-21 Ekim 2026\" tarihlerinde Bilgi Teknolojileri ve İletişim Kurumu Konferans Salonlarında gerçekleştirilecektir. Konferans",
+   "snippet": "Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı \"20-21 Ekim 2026\" tarihlerinde Bilgi Teknolojileri ve İletişim Kurumu Konferans Salonlarında gerçekleştirilecektir. Konferansın bu yılki ana temas",
    "engine": "ddg",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "129007587aa6b18e"
+  "id": "30c5df2664a3ab00"
  },
  {
-  "title": "19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı - ISC Türkiye ...",
-  "url": "https://kongreara.com/etkinlik/isc-turkiye-isc-turkiye",
+  "title": "19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı - ISC Türkiye 2026 · kongreara.com",
+  "url": "https://kongreara.com/etkinlik/isc-turkiye-2026",
   "category": "siber-guvenlik",
   "source": "ddg-kesif",
   "start_date": "2026-10-20",
@@ -1312,226 +1327,247 @@
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-21",
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
    "query": "siber güvenlik konferansı 2026 Türkiye",
-   "snippet": "19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı, 20-21 Ekim 2026 tarihlerinde Bilgi Teknolojileri ve İletişim Kurumu Konferans Salonlarında gerçekleştirilecektir. Etkinliğin ana teması Yeni ",
+   "snippet": "July 16, 2026 - Bilgi Güvenliği Derneği tarafından düzenlenen 19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı, 20-21 Ekim 2026 tarihlerinde Ankara'da Bilgi Teknoloji…",
    "engine": "ddg",
    "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "550aa097fff308dd"
+  "id": "adfbdea2fd4247a7"
  },
  {
-  "title": "19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı - ISC Türkiye ...",
-  "url": "https://kongreara.com/etkinlik/isc-turkiye-2026-2",
-  "category": "siber-guvenlik",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-20",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {
-   "query": "siber güvenlik konferansı 2026 Türkiye",
-   "snippet": "Bilgi Güvenliği Derneği tarafından düzenlenen 19. Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı (ISC Türkiye 2026), 20-21 Ekim 2026 tarihlerinde Bilgi Teknolojileri ve İletişim Kurumu Konferan",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "88261671173d2715"
- },
- {
-  "title": "1.14-15 Eylül 2026 - 9. Uluslararası Siber Güvenlik ve Kriptoloji ...",
-  "url": "https://x.com/catgirl_root/status/2064640244436054206",
-  "category": "siber-guvenlik",
-  "source": "ddg-kesif",
-  "start_date": "2026-09-14",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {
-   "query": "siber güvenlik konferansı 2026 Türkiye",
-   "snippet": "1.14-15 Eylül 2026 - 9. Uluslararası Siber Güvenlik ve Kriptoloji Konferansı (ISCTurkey) - İstanbul Ulusal ve uluslararası siber güvenlik uzmanlarının bir araya geldiği Türkiye'nin önde gelen konferan",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "a5f44a42d333b849"
- },
- {
-  "title": "3. Uluslararası İhracat ve Yatırım Zirvesi | ITS Istanbul 2026",
-  "url": "https://itsistanbul.com/tr",
-  "category": "genel-bt",
+  "title": "Data Center Eurasia 2026 İstanbul’da Veri Merkezi ...",
+  "url": "https://www.btgunlugu.com/data-center-eurasia-2026/",
+  "category": "veri-merkezi",
   "source": "ddg-kesif",
   "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-21",
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
-   "query": "teknoloji zirvesi 2026 İstanbul kayıt",
-   "snippet": "Türkiye'nin en büyük yazılım, bilişim ve teknoloji buluşması; fuar, konferans ve B2B toplantılarıyla 7-10 Ekim 2026'da İstanbul Fuar Merkezi'nde.",
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "Sep 21, 2026 · Data Center Eurasia 2026, 7-10 Ekim’de İstanbul’da veri merkezi, yapay zekâ, enerji, sürdürülebilirlik ve dijital altyapı gündemini buluşturacak.",
    "engine": "ddg",
-   "llm_relevance": 6,
+   "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "319a770d48d142c8"
+  "id": "d82c4f8852a41066"
  },
  {
-  "title": "GITEX AI Türkiye 2026'ya katılıyorum - Çağlar Özenç",
-  "url": "https://caglarozenc.com/etkinlikler/gitex-ai-turkiye-2026.html",
+  "title": "Data Center Eurasia 2026 İstanbul Fuar Merkezi’nde Başlıyor",
+  "url": "https://n24.com.tr/yasam/data-center-eurasia-2026-istanbul-fuar-merkezinde-basliyor",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-09-09",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-21",
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "2 weeks ago - GITEX AI Türkiye'ye katılıyorum. Etkinlik 9-10 Eylül 2026'da Istanbul Expo Center'da, kapsamı yapay zeka, bulut, siber güvenlik, fintek ve veri merkezleri.",
+   "snippet": "6 days ago · Türkiye 'nin veri merkezi alanındaki ilk uluslararası ihtisas etkinliği olan Data Center Eurasia 2026, 7-10 Ekim 2026 tarihleri arasında kapılarını açmaya hazırlanıyor. İstanbul Fuar Merk",
    "engine": "ddg",
-   "llm_relevance": 8,
+   "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "7f756ab7a061e0b6"
+  "id": "0698521ecb045500"
  },
  {
-  "title": "GITEX Ai Türkiye 2026 Başlıyor | Fintechtime",
-  "url": "https://fintechtime.com/2026/08/gitex-ai-turkiye-2026-basliyor/",
+  "title": "DCE - Data Center Eurasia 2026 | İFM - İstanbul Fuar Merkezi",
+  "url": "https://ifm.com.tr/tr/fuarlar/data-center-eurasia-2026",
   "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-09-09",
+  "start_date": "2026-10-07",
   "end_date": null,
   "city": null,
   "country": null,
   "online": false,
-  "first_seen": "2026-09-21",
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
    "query": "veri merkezi etkinlik 2026 Türkiye",
-   "snippet": "August 21, 2026 - Bu yükseliş, Türkiye’nin en ... GITEX Ai Türkiye 2026’nın ilk kez düzenlenmesiyle yeni bir boyut kazanıyor. Etkinlik, 9–10 Eylül 2026 tarihlerinde İstanbul Fuar Merkezi’nde gerçekleş",
+   "snippet": "Fuar Hakkında Avrasya bölgesindeki tek Veri Merkezi etkinliği olma özelliğini taşıyan “Data Center Eurasia”, 7-9 Ekim 2026 tarihlerinde İstanbul Fuar Merkezi’nde sektörün önemli aktörlerini ilk kez bi",
    "engine": "ddg",
-   "llm_relevance": 7,
+   "llm_relevance": 9,
    "llm_extracted": true
   },
-  "id": "87b77d213dc8ec6c"
+  "id": "9a3de2f4b061838c"
  },
  {
-  "title": "Uygulamalı Yapay Zekâ Geliştirme Bootcamp | Kommunity",
-  "url": "https://kommunity.com/techistanbul/events/uygulamaliyapayzekabootcamp-6335021f",
-  "category": "yapay-zeka",
+  "title": "Data Center Eurasia 2026, Veri Merkezi Ekosistemini İstanbul ...",
+  "url": "https://hvac360tr.com/data-center-eurasia-2026-veri-merkezi-ekosistemini-istanbulda-bulusturuyor/",
+  "category": "veri-merkezi",
   "source": "ddg-kesif",
-  "start_date": "2026-09-08",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-28",
+  "needs_review": false,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "6 days ago · Etkinlik, Türkiye’nin bilgi birikimini, üretim gücünü, teknoloji kapasitesini ve yatırım potansiyelini küresel veri merkezi ekosistemine taşımayı amaçlıyor. Data Center Eurasia 2026, 7-10",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "06228a069ac9b083"
+ },
+ {
+  "title": "Data Center Eurasia 2026: İstanbul Bölgenin Veri Merkezi Üssü ...",
+  "url": "https://trbusinessworld.com/tr/2026/07/12/data-center-eurasia-2026-istanbul-bolgenin-veri-merkezi-ussu-oluyor/",
+  "category": "veri-merkezi",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-07",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": false,
+  "first_seen": "2026-09-28",
+  "needs_review": false,
+  "extra": {
+   "query": "veri merkezi etkinlik 2026 Türkiye",
+   "snippet": "Jul 12, 2026 · Data Center Eurasia, 7–10 Ekim 2026 tarihleri arasında İstanbul'da gerçekleşecek; 60'tan fazla ülkeden katılımcıyı bir araya getirecek olan etkinlik, Avrasya'nın veri merkezi sektörüne ",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "44daa4d14c582333"
+ },
+ {
+  "title": "ABA.com - Training, Research, & Advocacy for Banks | American ...",
+  "url": "https://www.aba.com/",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-01",
   "end_date": null,
   "city": null,
   "country": null,
   "online": true,
-  "first_seen": "2026-09-21",
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
-   "query": "kommunity.com yapay zeka etkinlik Ankara İstanbul",
-   "snippet": "Sep 8, 2026 · 🤖 Uygulamalı Yapay Zekâ Geliştirme Bootcamp'i, yapay zeka teknolojilerine ilgi duyan, teorik bilgileri pratiğe dönüştürerek gerçek projeler geliştirmek isteyen katılımcılar için tasarlan",
+   "query": "central bank AI webinar 2026 register",
+   "snippet": "3 days ago · Upcoming Webinar | October 1, 2026 | 1 - 1:30 PM ET AI Governance for Banks: Building a Common Language Upcoming Webinar | October 1, 2026 | 2 - 3 PM ET Closing the Response Gap with Real",
    "engine": "ddg",
-   "llm_relevance": 7,
+   "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "0c1505d36b23e44b"
+  "id": "c358146395c6518e"
  },
  {
-  "title": "5th IFC workshop on \"Data science in central banking\" | Bank ...",
-  "url": "https://www.bis.org/events/20270323-5th-ifc-workshop-data-science-central-banking",
+  "title": "CB DC Conference 2026 Amsterdam | 27th - 29th oct 2026 | Amsterdam",
+  "url": "https://events.coinpedia.org/cb-dc-conference-2026-amsterdam-8361/",
   "category": "merkez-bankaciligi",
   "source": "ddg-kesif",
-  "start_date": "2027-03-23",
+  "start_date": "2026-10-27",
   "end_date": null,
   "city": null,
   "country": null,
-  "online": null,
-  "first_seen": "2026-09-21",
+  "online": false,
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
-   "query": "central bank statistics data governance workshop",
-   "snippet": "The BIS Irving Fisher Committee on Central Bank Statistics (IFC) is pleased to announce its upcoming 5th workshop on \"Data Science in Central Banking\", co-hosted with the Central Bank of the Republic ",
+   "query": "CBDC payments webinar 2026",
+   "snippet": "It’s designed for central bankers, policymakers, fintech innovators, regulators, and industry leaders who are riding or comparing virtual currency tasks, regulatory frameworks, and next-generation pri",
+   "engine": "ddg",
+   "llm_relevance": 9,
+   "llm_extracted": true
+  },
+  "id": "c4bf6c06638c5d12"
+ },
+ {
+  "title": "Post Quantum Cryptography webinar - orangecyberdefense.com",
+  "url": "https://www.orangecyberdefense.com/global/insights/events/deciphering-post-quantum-cryptography",
+  "category": "kuantum",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-12",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-28",
+  "needs_review": false,
+  "extra": {
+   "query": "post-quantum cryptography webinar 2026 register",
+   "snippet": "Quantum computers will fundamentally change IT security. Join our experts from Orange Cyberdefense and Orange Business on 12 October 2026 — and take the first step towards cryptographic resilience. Re",
+   "engine": "ddg",
+   "llm_relevance": 8,
+   "llm_extracted": true
+  },
+  "id": "a4fcf20f3c11e37c"
+ },
+ {
+  "title": "Webinar | 15 October 2026 | From deepfakes to APP fraud ...",
+  "url": "https://www.fintechfutures.com/financial-crime-fraud-prevention/webinar-15-october-2026-from-deepfakes-to-app-fraud-threats-navigating-the-new-era-of-cybersecurity",
+  "category": "siber-guvenlik",
+  "source": "ddg-kesif",
+  "start_date": "2026-10-15",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-28",
+  "needs_review": false,
+  "extra": {
+   "query": "cybersecurity financial sector webinar 2026",
+   "snippet": "The financial services sector faces an unprecedented cybersecurity challenge. As institutions continue to digitise operations, adopt emerging technologies like agentic AI, and expand their product sui",
    "engine": "ddg",
    "llm_relevance": 7,
    "llm_extracted": true
   },
-  "id": "ca367a17725f0959"
+  "id": "6fa1c18c0d12c91d"
+ },
+ {
+  "title": "Are banks actually ready for digital money? - finextra.com",
+  "url": "https://www.finextra.com/event-info/625/are-banks-actually-ready-for-digital-money",
+  "category": "merkez-bankaciligi",
+  "source": "ddg-kesif",
+  "start_date": "2026-09-15",
+  "end_date": null,
+  "city": null,
+  "country": null,
+  "online": true,
+  "first_seen": "2026-09-28",
+  "needs_review": false,
+  "extra": {
+   "query": "site:finextra.com webinar",
+   "snippet": "Sep 15, 2026 · Webinar Are banks actually ready for digital money? Join this webinar, in association with Red Compass Labs, to get a sense check for the 2026 digital money landscape and how financial ",
+   "engine": "ddg",
+   "llm_relevance": 7,
+   "llm_extracted": true
+  },
+  "id": "2ca796feaf064eae"
  },
  {
   "title": "Quantum + AI | October 25-27, 2026 | New York City",
-  "url": "https://iqtevent.com/quantumai/",
+  "url": "https://iqtevent.com/register/",
   "category": "kuantum",
   "source": "ddg-kesif",
   "start_date": "2026-10-25",
   "end_date": null,
   "city": null,
   "country": null,
-  "online": false,
-  "first_seen": "2026-09-21",
+  "online": true,
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
    "query": "site:iqtevent.com",
-   "snippet": "EVERYONE BUILDING QUANTUM + AI WILL BE IN NEW YORK CITY THIS OCTOBER! IQT’s flagship conference, Q+AI 2026 (3.0), is the leading event worldwide devoted to the convergence of quantum computing and art",
+   "snippet": "Early Bird Registration: Q+AI–3.0, October 25-27, 2026 | PQC+IQT, October 25-26, 2026",
    "engine": "ddg",
    "llm_relevance": 8,
    "llm_extracted": true
   },
-  "id": "d931bb7468da9237"
- },
- {
-  "title": "Quantum + AI | October 25-27, 2026 | New York City",
-  "url": "https://iqtevent.com/quantumai/register/",
-  "category": "kuantum",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-25",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": null,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {
-   "query": "site:iqtevent.com",
-   "snippet": "Be part of IQT’s first QUANTUM + AI conference and exhibition covering the coming revolution of combining quantum computing with Artificial Intelligence (AI).",
-   "engine": "ddg",
-   "llm_relevance": 8,
-   "llm_extracted": true
-  },
-  "id": "f2db35776a4af66b"
- },
- {
-  "title": "Istanbul Fintech Week 2026 | Smart, Embedded, and Tokenized",
-  "url": "https://istanbulfintechweek.com/",
-  "category": "merkez-bankaciligi",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-05",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {
-   "query": "FinTech İstanbul etkinlik duyuru",
-   "snippet": "5–7 October 2026, Hilton İstanbul Maslak Smart, Embedded, and Tokenized İstanbul Fintech Week 2026 powered by BEX Digital Wallet brings together the leaders building intelligent, embedded and tokenize",
-   "engine": "ddg",
-   "llm_relevance": 7,
-   "llm_extracted": true
-  },
-  "id": "767dfb85271e656e"
+  "id": "46785f3dcd056bae"
  },
  {
   "title": "Fintech Hackathon - Borsa İstanbul A.Ş.",
@@ -1542,8 +1578,8 @@
   "end_date": null,
   "city": null,
   "country": null,
-  "online": false,
-  "first_seen": "2026-09-21",
+  "online": null,
+  "first_seen": "2026-09-28",
   "needs_review": false,
   "extra": {
    "query": "FinTech İstanbul etkinlik duyuru",
@@ -1553,56 +1589,5 @@
    "llm_extracted": true
   },
   "id": "09ff320d268f7436"
- },
- {
-  "title": "ISC 2026 · 20–21 Ekim · Ankara · kongreara",
-  "url": "https://kongreara.com/etkinlik/19th-international-information-security-and-cryptology-conference-isc-turkiye-2026",
-  "category": "siber-guvenlik",
-  "source": "ddg-kesif",
-  "start_date": "2026-10-20",
-  "end_date": null,
-  "city": null,
-  "country": null,
-  "online": false,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {
-   "query": "ISC Turkey siber güvenlik konferansı Ankara",
-   "snippet": "Uluslararası Bilgi Güvenliği ve Kriptoloji Konferansı, \"Yeni Dünya Düzeninde Siber Savaşlar\" temasıyla gerçekleştirilecektir. Etkinlikte siber dayanıklılık, platform siber güvenliği, teknoloji savaşla",
-   "engine": "ddg",
-   "llm_relevance": 9,
-   "llm_extracted": true
-  },
-  "id": "f31a190f3b7b439e"
- },
- {
-  "title": "JavaScript Temelleri Atölyesi",
-  "url": "https://kommunity.com/techistanbul/events/javascript-temelleri-atolyesi-adc9ae53",
-  "category": "yapay-zeka",
-  "source": "kommunity",
-  "start_date": "2026-09-26",
-  "end_date": null,
-  "city": "Tech Istanbul | Şişhane",
-  "country": "Türkiye",
-  "online": false,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {},
-  "id": "d316f4a8985d1acb"
- },
- {
-  "title": "Tech Istanbul Girişimcilik Okulu: Kadın",
-  "url": "https://kommunity.com/techistanbul/events/tech-istanbul-girisimcilik-okulu-kadin-07711767",
-  "category": "yapay-zeka",
-  "source": "kommunity",
-  "start_date": "2026-10-02",
-  "end_date": null,
-  "city": "Tech Istanbul | Şişli",
-  "country": "Türkiye",
-  "online": false,
-  "first_seen": "2026-09-21",
-  "needs_review": false,
-  "extra": {},
-  "id": "c18ec5d2980cd723"
  }
 ]
